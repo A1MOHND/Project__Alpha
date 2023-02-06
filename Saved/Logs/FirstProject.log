@@ -649,3 +649,56 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.06-18.21.17:189][  0]LogHMD: Failed to initialize OpenVR with code 110
 [2023.02.06-18.21.17:199][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
 [2023.02.06-18.21.17:261][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.02.06-18.21.18:071][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.06-18.21.18:932][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.06-18.21.19:039][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.06-18.21.19:071][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.06-18.21.19:085][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.06-18.21.19:150][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.06-18.21.19:150][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.06-18.21.19:172][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.06-18.21.19:179][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.06-18.21.19:203][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.06-18.21.19:203][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.06-18.21.19:203][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.06-18.21.19:203][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.06-18.21.19:358][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.06-18.21.19:358][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.06-18.21.19:383][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.02.06-18.21.19:420][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.06-18.21.19:461][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.06-18.21.19:461][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.06-18.21.19:463][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.06-18.21.19:464][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.06-18.21.19:464][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.06-18.21.19:465][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.06-18.21.19:465][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.06-18.21.19:465][  0]LogInit: FAudioDevice initialized.
+[2023.02.06-18.21.19:480][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.06-18.21.19:496][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.06-18.21.19:542][  0]LogDerivedDataCache: Saved boot cache 0.05s 105MB C:/Users/user/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.06-18.21.19:544][  0]LogInit: Texture streaming: Enabled
+[2023.02.06-18.21.19:716][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.06-18.21.19:771][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.06-18.21.19:782][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.06-18.21.19:810][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.06-18.21.20:098][  0]LogInit: Transaction tracking system initialized
+[2023.02.06-18.21.20:799][  0]BlueprintLog: New page: Editor Load
+[2023.02.06-18.21.21:934][  0]LocalizationService: Localization service is disabled
+[2023.02.06-18.21.22:372][  0]TimingProfiler: Initialize
+[2023.02.06-18.21.22:375][  0]TimingProfiler: OnSessionChanged
+[2023.02.06-18.21.22:375][  0]LoadingProfiler: Initialize
+[2023.02.06-18.21.22:375][  0]LoadingProfiler: OnSessionChanged
+[2023.02.06-18.21.22:376][  0]NetworkingProfiler: Initialize
+[2023.02.06-18.21.22:376][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.06-18.21.22:376][  0]MemoryProfiler: Initialize
+[2023.02.06-18.21.22:376][  0]MemoryProfiler: OnSessionChanged
+[2023.02.06-18.21.23:073][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.06-18.21.23:074][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.06-18.21.23:076][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
