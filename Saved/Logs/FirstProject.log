@@ -702,3 +702,199 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.06-18.21.23:073][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2023.02.06-18.21.23:074][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2023.02.06-18.21.23:076][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.06-18.21.24:968][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/testingProject/Content/' took 0.07s
+[2023.02.06-18.21.24:968][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.06-18.21.24:968][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.06-18.21.28:868][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.06-18.21.28:996][  0]SourceControl: Source control is disabled
+[2023.02.06-18.21.29:007][  0]LogUnrealEdMisc: Loading editor; pre map load, took 90.650
+[2023.02.06-18.21.29:059][  0]Cmd: MAP LOAD FILE="C:/Users/user/Documents/GitHub/testingProject/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.06-18.21.29:089][  0]LightingResults: New page: Lighting Build
+[2023.02.06-18.21.29:670][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-18.21.30:193][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-18.21.30:486][  0]MapCheck: New page: Map Check
+[2023.02.06-18.21.30:486][  0]LightingResults: New page: Lighting Build
+[2023.02.06-18.21.30:803][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.06-18.21.31:018][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.06-18.21.31:197][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.02.06-18.21.31:211][  0]LogAIModule: Creating AISystem for world Level1
+[2023.02.06-18.21.31:595][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.06-18.21.31:668][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.06-18.21.31:702][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.06-18.21.31:709][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.155ms to complete.
+[2023.02.06-18.21.31:709][  0]LogFileHelpers: Loading map 'Level1' took 2.689
+[2023.02.06-18.21.32:798][  0]LogUnrealEdMisc: Total Editor Startup Time, took 94.451
+[2023.02.06-18.21.33:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-18.21.33:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-18.21.33:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-18.21.33:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-18.21.34:062][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3880 classes and 940 folders.
+[2023.02.06-18.21.34:184][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.06-18.21.34:305][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.06-18.21.34:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.06-18.21.34:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.06-18.21.34:319][  0]LogPakFile: OnPakFileMounted2Time == 0.015119
+[2023.02.06-18.21.34:348][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.06-18.21.34:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.06-18.21.34:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.06-18.21.34:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.02.06-18.21.34:375][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.06-18.21.34:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.06-18.21.34:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.06-18.21.34:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.06-18.21.34:391][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.06-18.21.34:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.06-18.21.34:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.06-18.21.34:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.06-18.21.34:409][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.06-18.21.34:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.06-18.21.34:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.06-18.21.34:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.06-18.21.34:416][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.06-18.21.34:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.06-18.21.34:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.06-18.21.34:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.02.06-18.21.34:424][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.06-18.21.34:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.06-18.21.34:424][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:424][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.06-18.21.34:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.06-18.21.34:444][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.06-18.21.34:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.06-18.21.34:444][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:444][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.06-18.21.34:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.02.06-18.21.34:465][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.06-18.21.34:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.06-18.21.34:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.06-18.21.34:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.06-18.21.34:498][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.06-18.21.34:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.06-18.21.34:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.06-18.21.34:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.02.06-18.21.34:516][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.06-18.21.34:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.06-18.21.34:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.06-18.21.34:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.02.06-18.21.34:525][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.06-18.21.34:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.06-18.21.34:525][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:525][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.06-18.21.34:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.06-18.21.34:532][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.06-18.21.34:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.06-18.21.34:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.06-18.21.34:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.02.06-18.21.34:539][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.06-18.21.34:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.06-18.21.34:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.06-18.21.34:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.06-18.21.34:546][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.06-18.21.34:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.06-18.21.34:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.06-18.21.34:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.06-18.21.34:554][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.06-18.21.34:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.06-18.21.34:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.06-18.21.34:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.02.06-18.21.34:561][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.06-18.21.34:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.06-18.21.34:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.06-18.21.34:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.02.06-18.21.34:567][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.06-18.21.34:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.06-18.21.34:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.06-18.21.34:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.02.06-18.21.34:573][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.06-18.21.34:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.06-18.21.34:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.06-18.21.34:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.06-18.21.34:585][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.06-18.21.34:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.06-18.21.34:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.06-18.21.34:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.02.06-18.21.34:600][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.06-18.21.34:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.06-18.21.34:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.06-18.21.34:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.06-18.21.34:618][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.06-18.21.34:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.06-18.21.34:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.06-18.21.34:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.02.06-18.21.34:633][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.06-18.21.34:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.06-18.21.34:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.06-18.21.34:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.02.06-18.21.34:641][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.06-18.21.34:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.06-18.21.34:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.06-18.21.34:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.06-18.21.34:647][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.06-18.21.34:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.06-18.21.34:647][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:647][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.06-18.21.34:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.02.06-18.21.34:653][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.06-18.21.34:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.06-18.21.34:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.06-18.21.34:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games File/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.06-18.21.34:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games File/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.06-18.21.34:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.06-18.21.35:521][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.06-18.21.35:821][  0]LogSlate: Took 0.014084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.06-18.21.35:840][  0]LogSlate: Took 0.008305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.06-18.21.35:864][  0]LogSlate: Took 0.017668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.06-18.21.36:390][  0]LogRenderer: Reallocating scene render targets to support 1248x964 Format 10 NumSamples 1 (Frame:1).
+[2023.02.06-18.21.36:925][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.06-18.21.36:925][  0]LogLoad: (Engine Initialization) Total time: 98.58 seconds
+[2023.02.06-18.21.36:925][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.06-18.21.37:500][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.06-18.21.37:918][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/user/Documents/GitHub/testingProject/Content/' took 0.77s
+[2023.02.06-18.21.38:155][  2]LogAssetRegistry: Asset discovery search completed in 58.7772 seconds
+[2023.02.06-18.21.38:295][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.006747 seconds (updated 0 objects)
