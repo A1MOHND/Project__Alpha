@@ -1332,3 +1332,18 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.09-11.14.12:083][ 74]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.09-11.14.12:083][ 74]LogContentValidation: Display: Validating Blueprint /Game/MyTraps/Trap2/Trap2.Trap2
 [2023.02.09-11.14.12:083][ 74]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.02.09-11.15.00:024][  0]BlueprintLog: New page: Compile Trap2
+[2023.02.09-11.15.00:059][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.09-11.15.28:904][434]BlueprintLog: New page: Compile Trap2
+[2023.02.09-11.15.28:967][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.09-11.15.33:340][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.09-11.15.34:233][950]LogSlate: Window 'Save Content' being destroyed
+[2023.02.09-11.15.34:274][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.09-11.15.34:290][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.02.09-11.15.34:349][950]LogSavePackage: Moving '../../../../GitHubProject/ProjectAlpha/Project__Alpha/Saved/Level114F4890F47938A44AEF9BAB318449AB2.tmp' to '../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/Levels/Level1.umap'
+[2023.02.09-11.15.34:358][950]LogFileHelpers: Saving map 'Level1' took 0.084
+[2023.02.09-11.15.34:367][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyTraps/Trap2/Trap2" FILE="../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/MyTraps/Trap2/Trap2.uasset" SILENT=true
+[2023.02.09-11.15.34:378][950]LogSavePackage: Moving '../../../../GitHubProject/ProjectAlpha/Project__Alpha/Saved/Trap27304906F4E23E5AE6DA60DB304961482.tmp' to '../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/MyTraps/Trap2/Trap2.uasset'
+[2023.02.09-11.15.34:387][950]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.09-11.15.34:387][950]LogContentValidation: Display: Validating Blueprint /Game/MyTraps/Trap2/Trap2.Trap2
+[2023.02.09-11.15.34:387][950]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
