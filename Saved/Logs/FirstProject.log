@@ -1509,3 +1509,780 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.11-14.01.58:166][ 75]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProject/ProjectAlpha/Project__Alpha/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2023.02.11-14.01.58:166][ 75]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProject/ProjectAlpha/Project__Alpha/Content/Developers/Hama/Collections/' because it could not be accessed. Aborting watch request...
 [2023.02.11-14.01.58:166][ 75]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProject/ProjectAlpha/Project__Alpha/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.02.11-14.02.38:293][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.02.11-14.02.45:978][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.45:989][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.02.45:989][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.45:989][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.46:874][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.02.46:874][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.46:874][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.46:908][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.02.46:909][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.46:909][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:122][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.02.47:122][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:122][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.11-14.02.47:122][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:127][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:127][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:599][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.11-14.02.47:599][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:599][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:642][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.11-14.02.47:642][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.47:642][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:031][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.11-14.02.48:031][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:031][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:064][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:333][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:348][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:750][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.48:782][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:055][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:099][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.02.51:099][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:099][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:161][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.11-14.02.51:161][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:161][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:208][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.11-14.02.51:208][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:208][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:272][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.11-14.02.51:272][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:272][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:319][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.02.51:319][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:319][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:389][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:439][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:510][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.11-14.02.51:510][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:510][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.51:556][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:904][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:926][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.02.52:926][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.52:926][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:065][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.02.53:065][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:065][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:080][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.02.53:080][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:080][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:086][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.11-14.02.53:086][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:086][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:111][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:121][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:731][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:775][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.02.53:775][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.53:775][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:217][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.02.54:217][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:217][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:258][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.02.54:258][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:258][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:742][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.02.54:742][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:742][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:779][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.02.54:779][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.54:779][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.55:322][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.11-14.02.55:322][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.55:322][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.55:362][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.02.55:362][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.55:362][148]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.55:367][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.02.55:367][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.55:368][148]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CharacterBodyFX/Maps/Demo.Demo
+[2023.02.11-14.02.55:368][148]Cmd: MAP LOAD FILE="../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/CharacterBodyFX/Maps/Demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.11-14.02.55:368][148]LightingResults: New page: Lighting Build
+[2023.02.11-14.02.55:368][148]LoadErrors: New page: Loading map: Demo.umap
+[2023.02.11-14.02.55:371][148]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.02.55:371][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.02.55:371][148]MapCheck: New page: Map Check
+[2023.02.11-14.02.55:371][148]LightingResults: New page: Lighting Build
+[2023.02.11-14.02.55:411][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.11-14.02.55:423][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2023.02.11-14.02.55:425][148]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo'.
+[2023.02.11-14.02.55:429][148]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.11-14.02.55:429][148]LogShaderCompilers: Display: Total job queries 39, among them cache hits 0 (0.00%)
+[2023.02.11-14.02.55:429][148]LogShaderCompilers: Display: Tracking 35 distinct input hashes that result in 35 distinct outputs (100.00%)
+[2023.02.11-14.02.55:429][148]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.02.11-14.02.55:429][148]LogShaderCompilers: Display: ================================================
+[2023.02.11-14.02.55:475][148]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.11-14.02.55:475][148]LogAIModule: Creating AISystem for world Demo
+[2023.02.11-14.02.55:531][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.02.11-14.02.55:539][148]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.11-14.02.55:540][148]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2023.02.11-14.02.55:540][148]LogFileHelpers: Loading map 'Demo' took 0.171
+[2023.02.11-14.02.55:599][148]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Diamonds/NS_Diamonds.NS_Diamonds took 2.467587 sec (time since issued), 3.660868 sec (combined shader worker time).
+[2023.02.11-14.02.55:729][148]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Crystal/NS_Crystal.NS_Crystal took 1.950617 sec (time since issued), 2.953120 sec (combined shader worker time).
+[2023.02.11-14.02.55:779][148]LogTemp: Display: Loading shader for Niagara script NS_Body_Fire/NE_Embers/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2023.02.11-14.02.55:783][148]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Fire/NS_Body_Fire.NS_Body_Fire took 4.138617 sec (time since issued), 19.014999 sec (combined shader worker time).
+[2023.02.11-14.02.55:911][148]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Flowers/NS_Flowers.NS_Flowers took 7.080961 sec (time since issued), 45.427601 sec (combined shader worker time).
+[2023.02.11-14.02.55:937][149]LogNiagaraShaderCompiler: Verbose: Adding niagara gpu shader compile job... NS_Body_Fire/NE_Embers/ParticleGPUComputeScript/FNiagaraShader/0
+[2023.02.11-14.02.55:938][149]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.56:007][149]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.02.56:007][149]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.02.56:088][149]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.11-14.02.56:200][151]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Coins/NS_Coins.NS_Coins took 1.937973 sec (time since issued), 2.616365 sec (combined shader worker time).
+[2023.02.11-14.02.56:598][157]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Buttons/NS_Buttons.NS_Buttons took 1.750257 sec (time since issued), 2.345086 sec (combined shader worker time).
+[2023.02.11-14.02.57:082][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.11-14.02.57:172][211]LogNiagaraShaderCompiler: Verbose: GPU shader compile succeeded. Id 48
+[2023.02.11-14.02.57:172][211]LogNiagaraShaderCompiler: Verbose: Shader compile job "NS_Body_Fire/NE_Embers/ParticleGPUComputeScript/FNiagaraShader/0" completed.
+[2023.02.11-14.02.59:918][395]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.11-14.02.59:925][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.11-14.02.59:925][395]PIE: New page: PIE session: Demo (Feb 11, 2023, 8:02:59 PM)
+[2023.02.11-14.02.59:925][395]LogPlayLevel: Creating play world package: /Game/CharacterBodyFX/Maps/UEDPIE_0_Demo
+[2023.02.11-14.02.59:931][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005933s)
+[2023.02.11-14.02.59:932][395]LogAIModule: Creating AISystem for world Demo
+[2023.02.11-14.02.59:944][395]LogPlayLevel: PIE: World Init took: (0.012919s)
+[2023.02.11-14.02.59:944][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CharacterBodyFX/Maps/Demo.Demo to /Game/CharacterBodyFX/Maps/UEDPIE_0_Demo.Demo (0.018981s)
+[2023.02.11-14.02.59:980][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.02.11-14.02.59:983][395]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.11-14.02.59:983][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.11-14.02.59:983][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.11-14.02.59:984][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.11-14.02.59:984][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.11-14.02.59:984][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.11-14.02.59:984][395]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.11-14.02.59:986][395]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.11-14.02.59:986][395]LogAudioMixer: Display: 1: FrontRight
+[2023.02.11-14.02.59:991][395]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.11-14.02.59:992][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.11-14.02.59:992][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.11-14.02.59:992][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.11-14.02.59:992][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.11-14.02.59:992][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.11-14.02.59:992][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.11-14.02.59:993][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.11-14.02.59:994][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.11-14.02.59:994][395]LogInit: FAudioDevice initialized.
+[2023.02.11-14.02.59:994][395]LogAudio: Display: Audio Device (ID: 10) registered with world 'Demo'.
+[2023.02.11-14.03.00:001][395]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.02.11-14.03.00:003][395]LogWorld: Bringing World /Game/CharacterBodyFX/Maps/UEDPIE_0_Demo.Demo up for play (max tick rate 0) at 2023.02.11-17.03.00
+[2023.02.11-14.03.00:162][395]LogWorld: Bringing up level for play took: 0.160778
+[2023.02.11-14.03.00:163][395]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.02.11-14.03.00:238][395]PIE: Server logged in
+[2023.02.11-14.03.00:238][395]PIE: Play in editor total start time 0.314 seconds.
+[2023.02.11-14.03.01:657][501]Cmd: LevelEditor.ToggleImmersive
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:642][ 73]LogNiagaraCompiler: Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:644][ 73]LogNiagaraCompiler: Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:645][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:645][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:645][ 73]LogNiagaraCompiler: Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+[2023.02.11-14.03.38:646][ 73]LogNiagaraCompiler: Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:647][ 73]LogNiagara: Warning: [AssetLog] D:\GitHubProject\ProjectAlpha\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:648][ 73]LogNiagara: Warning: [AssetLog] D:\GitHubProject\ProjectAlpha\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:648][ 73]LogNiagara: Warning: [AssetLog] D:\GitHubProject\ProjectAlpha\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.11-14.03.38:648][ 73]LogTemp: Display: Loading shader for Niagara script NS_Glitter/NE_Glitter/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2023.02.11-14.03.38:649][ 73]LogNiagara: Compiling System NiagaraSystem /Game/CharacterBodyFX/FX/Glitter/NS_Glitter.NS_Glitter took 52.654583 sec (time since issued), 0.000000 sec (combined shader worker time).
+[2023.02.11-14.03.38:653][ 74]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.02.11-14.03.53:728][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-14.03.53:728][822]LogWorld: BeginTearingDown for /Game/CharacterBodyFX/Maps/UEDPIE_0_Demo
+[2023.02.11-14.03.53:779][822]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.03.53:779][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.03.53:793][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.11-14.03.53:821][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.03.53:852][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-14.03.53:853][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.11-14.03.53:854][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.11-14.03.53:862][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.02.11-14.03.53:890][823]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.02.11-14.03.54:685][852]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NS_Body_Fire)
+[2023.02.11-14.04.04:379][223]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.11-14.04.16:469][677]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.11-14.04.25:061][  0]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.11-14.04.33:442][318]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.11-14.04.40:096][565]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:948][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:949][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:949][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:949][838]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:962][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:963][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:963][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:963][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:963][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:964][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:964][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:964][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:965][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.56:965][838]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:254][839]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:255][839]LogNiagara: Warning: System NS_Chains has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.04.57:587][840]LogNiagara: Warning: System NS_ToiletPaper has over 50 active components spawned from the effect. Either adjust the effect's component renderer or change the warning limit with fx.Niagara.WarnComponentRenderCount.
+[2023.02.11-14.05.33:884][130]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CharacterBodyFX/Meshes/ChainLinks/SKM_ChainLinks.SKM_ChainLinks
+[2023.02.11-14.05.33:906][130]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.02.11-14.05.33:910][130]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.11-14.05.33:972][130]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.11-14.05.34:033][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.11-14.05.34:039][130]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.02.11-14.05.48:376][649]LogSlate: Window 'SKM_ChainLinks' being destroyed
+[2023.02.11-14.05.48:445][649]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.05.48:445][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.05.53:971][845]LogContentBrowser: Attempting asset rename: SKM_ChainLinks -> SKM_ChainLinks
+[2023.02.11-14.06.04:247][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyTraps/Ball_BP/Ball-BP.Ball-BP
+[2023.02.11-14.06.18:755][743]LogSlate: Window 'Ball-BP' being destroyed
+[2023.02.11-14.06.43:340][936]BlueprintLog: New page: Compile Ball-BP
+[2023.02.11-14.06.43:537][936]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2023.02.11-14.06.55:158][364]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/CharacterBodyFX/FX/Buttons/NE_Button.NE_Button
+[2023.02.11-14.06.55:182][364]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.55:184][364]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.56:267][364]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.11-14.06.56:267][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.06.56:267][364]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.56:804][364]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.11-14.06.56:804][364]LogShaderCompilers: Display: Total job queries 42, among them cache hits 0 (0.00%)
+[2023.02.11-14.06.56:804][364]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 42 distinct outputs (100.00%)
+[2023.02.11-14.06.56:804][364]LogShaderCompilers: Display: RAM used: 2.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.26%
+[2023.02.11-14.06.56:804][364]LogShaderCompilers: Display: ================================================
+[2023.02.11-14.06.56:828][364]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 1.654545 sec (time since issued), 3.268756 sec (combined shader worker time).
+[2023.02.11-14.06.57:756][364]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.57:789][364]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.06.57:789][364]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.57:789][364]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.57:795][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.06.57:795][364]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.57:795][364]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.57:805][364]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.06.57:805][364]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.57:805][364]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.58:304][364]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.06.58:304][364]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.06.58:900][366]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 1.517251 sec (time since issued), 3.199131 sec (combined shader worker time).
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriangle', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWSInterpolated', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriCoord', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetFilteredTriangleCount', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetFilteredTriangle', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:518][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:519][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:519][368]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_0:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.06.59:800][373]228817_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.02.11-14.07.03:066][552]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.03:066][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.03:080][552]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.03:080][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.03:258][552]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2023.02.11-14.07.04:293][612]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.04:293][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.09:285][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2023.02.11-14.07.10:949][802]LogSlate: Window 'Save Content' being destroyed
+[2023.02.11-14.07.10:987][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyTraps/Ball_BP/Ball-BP" FILE="../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/MyTraps/Ball_BP/Ball-BP.uasset" SILENT=true
+[2023.02.11-14.07.11:000][802]LogSavePackage: Moving '../../../../GitHubProject/ProjectAlpha/Project__Alpha/Saved/Ball-BP0ECA78254F6C35FC1CF2ECAB0E5F7146.tmp' to '../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/MyTraps/Ball_BP/Ball-BP.uasset'
+[2023.02.11-14.07.11:057][802]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2023.02.11-14.07.11:057][802]Cmd: MAP LOAD FILE="../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.11-14.07.11:057][802]LightingResults: New page: Lighting Build
+[2023.02.11-14.07.11:057][802]LoadErrors: New page: Loading map: Level1.umap
+[2023.02.11-14.07.11:062][802]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.11:062][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.11:077][802]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2023.02.11-14.07.11:077][802]MapCheck: New page: Map Check
+[2023.02.11-14.07.11:077][802]LightingResults: New page: Lighting Build
+[2023.02.11-14.07.11:102][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.11-14.07.11:141][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2023.02.11-14.07.11:142][802]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.02.11-14.07.11:265][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.11-14.07.11:265][802]LogAIModule: Creating AISystem for world Level1
+[2023.02.11-14.07.11:295][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.02.11-14.07.11:302][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.11-14.07.11:302][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2023.02.11-14.07.11:302][802]LogFileHelpers: Loading map 'Level1' took 0.245
+[2023.02.11-14.07.11:322][802]AssetCheck: New page: Asset Save: Ball-BP
+[2023.02.11-14.07.11:322][802]LogContentValidation: Display: Validating Blueprint /Game/MyTraps/Ball_BP/Ball-BP.Ball-BP
+[2023.02.11-14.07.33:903][ 75]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/CharacterBodyFX/FX/Fire/NE_Embers.NE_Embers
+[2023.02.11-14.07.34:138][ 75]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.34:144][ 75]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.07.34:144][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.34:144][ 75]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.34:293][ 75]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.07.34:293][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.34:303][ 75]LogTemp: Display: Loading shader for Niagara script NiagaraSystem_1/NE_Embers/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2023.02.11-14.07.34:304][ 75]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_1 took 0.351769 sec (time since issued), 0.320164 sec (combined shader worker time).
+[2023.02.11-14.07.34:409][ 75]LogNiagaraShaderCompiler: Verbose: Adding niagara gpu shader compile job... NiagaraSystem_1/NE_Embers/ParticleGPUComputeScript/FNiagaraShader/0
+[2023.02.11-14.07.34:410][ 75]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.34:538][ 75]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.07.34:538][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.34:898][ 82]276686_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2023.02.11-14.07.34:986][ 85]LogNiagaraShaderCompiler: Verbose: GPU shader compile succeeded. Id 60
+[2023.02.11-14.07.34:986][ 85]LogNiagaraShaderCompiler: Verbose: Shader compile job "NiagaraSystem_1/NE_Embers/ParticleGPUComputeScript/FNiagaraShader/0" completed.
+[2023.02.11-14.07.36:897][251]276686_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2023.02.11-14.07.41:605][777]LogSlate: Window 'NE_Embers' being destroyed
+[2023.02.11-14.07.41:652][777]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.41:652][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.41:663][777]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.41:663][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.41:726][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.02.11-14.07.46:470][317]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/CharacterBodyFX/FX/Fire/NE_Flames.NE_Flames
+[2023.02.11-14.07.46:674][317]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:683][317]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:686][317]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.11-14.07.46:686][317]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.07.46:686][317]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:686][317]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:695][317]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.07.46:695][317]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:695][317]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:893][317]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.07.46:893][317]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.46:999][317]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_2 took 0.489783 sec (time since issued), 0.959803 sec (combined shader worker time).
+[2023.02.11-14.07.47:602][324]276686_NiagaraSystem_2_MessageLog: System successfully compiled.
+[2023.02.11-14.07.51:460][724]LogSlate: Window 'NE_Flames' being destroyed
+[2023.02.11-14.07.51:486][724]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.51:486][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.51:497][724]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.51:497][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.51:560][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.02.11-14.07.52:702][830]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/CharacterBodyFX/FX/Fire/NE_LavaRock.NE_LavaRock
+[2023.02.11-14.07.52:928][830]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.52:934][830]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.07.52:934][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.52:934][830]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.52:938][830]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.07.52:938][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.52:938][830]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.52:947][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.07.52:947][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.52:947][830]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.53:117][830]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.07.53:117][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.07.53:308][830]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_3 took 0.564799 sec (time since issued), 0.930735 sec (combined shader worker time).
+[2023.02.11-14.07.53:615][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriCoord', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:615][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetFilteredTriangleCount', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetFilteredTriangle', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:616][832]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_6:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.07.53:810][838]276686_NiagaraSystem_3_MessageLog: System successfully compiled.
+[2023.02.11-14.07.58:353][321]LogSlate: Window 'NE_LavaRock' being destroyed
+[2023.02.11-14.07.58:373][321]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.58:373][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.58:385][321]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.07.58:385][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.07.58:448][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.02.11-14.08.09:117][428]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/CharacterBodyFX/FX/Pixels/NE_Pixel.NE_Pixel
+[2023.02.11-14.08.09:403][428]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:415][428]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.11-14.08.09:415][428]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:415][428]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:419][428]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.11-14.08.09:420][428]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:420][428]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:430][428]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.11-14.08.09:430][428]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:430][428]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:710][428]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.11-14.08.09:710][428]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.11-14.08.09:833][428]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_4 took 0.663801 sec (time since issued), 1.321235 sec (combined shader worker time).
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriCoord', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriangle', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWSInterpolated', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetFilteredTriangleCount', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetFilteredTriangle', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:310][429]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Engine/Transient.NiagaraComponent_8:NiagaraDataInterfaceSkeletalMesh_0
+[2023.02.11-14.08.10:657][435]276686_NiagaraSystem_4_MessageLog: System successfully compiled.
+[2023.02.11-14.08.15:325][934]LogSlate: Window 'NE_Pixel' being destroyed
+[2023.02.11-14.08.15:391][934]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.08.15:391][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.08.15:402][934]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.08.15:402][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.08.15:469][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.02.11-14.08.19:260][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.02.11-14.08.19:322][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CharacterBodyFX/Maps/Demo.Demo
+[2023.02.11-14.08.19:322][332]Cmd: MAP LOAD FILE="../../../../GitHubProject/ProjectAlpha/Project__Alpha/Content/CharacterBodyFX/Maps/Demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.11-14.08.19:322][332]LightingResults: New page: Lighting Build
+[2023.02.11-14.08.19:322][332]LoadErrors: New page: Loading map: Demo.umap
+[2023.02.11-14.08.19:324][332]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.08.19:324][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.08.19:324][332]MapCheck: New page: Map Check
+[2023.02.11-14.08.19:324][332]LightingResults: New page: Lighting Build
+[2023.02.11-14.08.19:352][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.11-14.08.19:358][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.02.11-14.08.19:359][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo'.
+[2023.02.11-14.08.19:380][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.11-14.08.19:380][332]LogAIModule: Creating AISystem for world Demo
+[2023.02.11-14.08.19:413][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.02.11-14.08.19:419][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.11-14.08.19:419][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2023.02.11-14.08.19:419][332]LogFileHelpers: Loading map 'Demo' took 0.097
+[2023.02.11-14.08.20:775][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.11-14.08.21:343][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.11-14.08.22:124][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.11-14.08.22:904][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.11-14.08.23:060][750]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.02.11-14.08.23:394][788]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.02.11-14.09.00:414][516]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/CharacterBodyFX/Meshes/SM_Diamond.SM_Diamond
+[2023.02.11-14.09.12:730][774]LogSlate: Window 'SM_Diamond' being destroyed
+[2023.02.11-14.09.12:770][774]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-14.09.12:770][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-14.09.16:618][151]LogActorFactory: Actor Factory created SM_Diamond
+[2023.02.11-14.09.17:238][221]LogActorFactory: Actor Factory created SM_Diamond
