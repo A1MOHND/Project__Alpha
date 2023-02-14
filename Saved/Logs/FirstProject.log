@@ -1363,3 +1363,651 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.14-15.25.00:128][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.14-15.25.00:131][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2023.02.14-15.25.00:144][218]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.14-15.25.08:317][388]LogEditorViewport: Clicking Background
+[2023.02.14-15.25.09:179][491]LogEditorViewport: Clicking Background
+[2023.02.14-15.25.09:804][566]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.14-15.25.09:808][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.14-15.25.09:808][566]PIE: New page: PIE session: Level1 (Feb 14, 2023, 9:25:09 PM)
+[2023.02.14-15.25.09:854][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.09:871][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016654s)
+[2023.02.14-15.25.09:872][566]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.25.09:872][566]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2023.02.14-15.25.09:872][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017946s)
+[2023.02.14-15.25.09:890][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.02.14-15.25.09:891][566]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.14-15.25.09:891][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.14-15.25.09:891][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.14-15.25.09:891][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.14-15.25.09:891][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.14-15.25.09:891][566]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.14-15.25.09:893][566]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.14-15.25.09:893][566]LogAudioMixer: Display: 1: FrontRight
+[2023.02.14-15.25.09:899][566]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.14-15.25.09:899][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.14-15.25.09:899][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.14-15.25.09:899][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.14-15.25.09:900][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.14-15.25.09:900][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.14-15.25.09:900][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.14-15.25.09:901][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.14-15.25.09:901][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.14-15.25.09:901][566]LogInit: FAudioDevice initialized.
+[2023.02.14-15.25.09:901][566]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.02.14-15.25.09:911][566]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.25.09:914][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.25.09
+[2023.02.14-15.25.09:914][566]LogWorld: Bringing up level for play took: 0.002154
+[2023.02.14-15.25.09:914][566]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.14-15.25.09:915][566]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.09:915][566]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.09:915][566]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.09:920][566]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.09:920][566]PIE: Server logged in
+[2023.02.14-15.25.09:921][566]PIE: Play in editor total start time 0.113 seconds.
+[2023.02.14-15.25.10:421][624]Cmd: LevelEditor.ToggleImmersive
+[2023.02.14-15.25.11:420][732]Cmd: LevelEditor.ToggleImmersive
+[2023.02.14-15.25.13:594][983]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.14-15.25.18:809][601]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.25.18:809][601]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.25.18:809][601]LogGameMode: ProcessServerTravel: ?Restart
+[2023.02.14-15.25.18:816][602]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.02.14-15.25.18:816][602]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.02.14-15.25.18:816][602]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.02.14-15.25.18:816][602]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.18:817][602]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.25.18:817][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.25.18:871][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.14-15.25.18:874][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.02.14-15.25.18:876][602]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.18:892][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016533s)
+[2023.02.14-15.25.18:893][602]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.25.18:893][602]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2023.02.14-15.25.18:893][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017648s)
+[2023.02.14-15.25.18:893][602]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.02.14-15.25.18:893][602]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.25.18:895][602]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.25.18
+[2023.02.14-15.25.18:895][602]LogWorld: Bringing up level for play took: 0.001325
+[2023.02.14-15.25.18:896][602]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.18:896][602]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.18:896][602]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.18:899][602]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.18:899][602]LogLoad: Took 0.083032 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.02.14-15.25.34:621][460]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.14-15.25.39:814][ 83]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.25.39:814][ 83]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.25.39:814][ 83]LogGameMode: ProcessServerTravel: ?Restart
+[2023.02.14-15.25.39:821][ 84]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.02.14-15.25.39:821][ 84]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.02.14-15.25.39:821][ 84]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.02.14-15.25.39:821][ 84]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.39:821][ 84]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.25.39:822][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.25.39:869][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.14-15.25.39:873][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.02.14-15.25.39:874][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.39:891][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016360s)
+[2023.02.14-15.25.39:892][ 84]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.25.39:892][ 84]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2023.02.14-15.25.39:892][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017475s)
+[2023.02.14-15.25.39:892][ 84]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.02.14-15.25.39:892][ 84]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.25.39:893][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.25.39
+[2023.02.14-15.25.39:893][ 84]LogWorld: Bringing up level for play took: 0.001316
+[2023.02.14-15.25.39:894][ 84]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.39:894][ 84]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.39:894][ 84]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.39:898][ 84]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.39:898][ 84]LogLoad: Took 0.076376 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.02.14-15.25.45:128][709]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.14-15.25.50:321][332]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.25.50:321][332]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.25.50:321][332]LogGameMode: ProcessServerTravel: ?Restart
+[2023.02.14-15.25.50:328][333]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.02.14-15.25.50:328][333]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.02.14-15.25.50:328][333]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.02.14-15.25.50:328][333]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.50:328][333]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.25.50:329][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.25.50:380][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.14-15.25.50:383][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.14-15.25.50:385][333]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.50:401][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016379s)
+[2023.02.14-15.25.50:402][333]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.25.50:402][333]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2023.02.14-15.25.50:402][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017477s)
+[2023.02.14-15.25.50:402][333]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.02.14-15.25.50:402][333]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.25.50:404][333]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.25.50
+[2023.02.14-15.25.50:404][333]LogWorld: Bringing up level for play took: 0.001317
+[2023.02.14-15.25.50:405][333]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.50:405][333]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.25.50:405][333]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.50:408][333]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.25.50:408][333]LogLoad: Took 0.080114 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.02.14-15.25.52:284][555]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.14-15.25.53:804][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-15.25.53:804][732]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.25.53:805][732]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.25.53:805][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.25.53:812][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.14-15.25.53:817][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.25.53:833][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-15.25.53:833][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.14-15.25.53:834][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.14-15.25.53:840][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.14-15.25.53:874][734]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.14-15.25.56:334][ 29]LogEditorViewport: Clicking on Actor (LMB): Trap2_C (Trap2)
+[2023.02.14-15.40.00:913][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.14-15.40.01:981][  4]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.14-15.40.01:985][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.14-15.40.01:985][  4]PIE: New page: PIE session: Level1 (Feb 14, 2023, 9:40:01 PM)
+[2023.02.14-15.40.02:014][  4]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.40.02:031][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016962s)
+[2023.02.14-15.40.02:032][  4]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.40.02:033][  4]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2023.02.14-15.40.02:033][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018285s)
+[2023.02.14-15.40.02:051][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.14-15.40.02:053][  4]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.14-15.40.02:053][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.14-15.40.02:053][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.14-15.40.02:053][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.14-15.40.02:053][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.14-15.40.02:053][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.14-15.40.02:055][  4]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.14-15.40.02:055][  4]LogAudioMixer: Display: 1: FrontRight
+[2023.02.14-15.40.02:062][  4]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.14-15.40.02:062][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.14-15.40.02:062][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.14-15.40.02:062][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.14-15.40.02:063][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.14-15.40.02:063][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.14-15.40.02:063][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.14-15.40.02:064][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.14-15.40.02:064][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.14-15.40.02:064][  4]LogInit: FAudioDevice initialized.
+[2023.02.14-15.40.02:064][  4]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.02.14-15.40.02:071][  4]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.40.02:073][  4]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.40.02
+[2023.02.14-15.40.02:074][  4]LogWorld: Bringing up level for play took: 0.002224
+[2023.02.14-15.40.02:074][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.14-15.40.02:075][  4]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.40.02:075][  4]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.40.02:075][  4]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.40.02:079][  4]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.40.02:079][  4]PIE: Server logged in
+[2023.02.14-15.40.02:079][  4]PIE: Play in editor total start time 0.095 seconds.
+[2023.02.14-15.40.13:107][323]Cmd: LevelEditor.ToggleImmersive
+[2023.02.14-15.40.17:251][811]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.14-15.40.22:444][434]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.40.22:444][434]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.40.22:444][434]LogGameMode: ProcessServerTravel: ?Restart
+[2023.02.14-15.40.22:451][435]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.02.14-15.40.22:451][435]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.02.14-15.40.22:451][435]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.02.14-15.40.22:451][435]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.40.22:451][435]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.40.22:452][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.40.22:490][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.14-15.40.22:494][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.14-15.40.22:495][435]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.40.22:511][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016448s)
+[2023.02.14-15.40.22:512][435]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.40.22:513][435]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2023.02.14-15.40.22:513][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017557s)
+[2023.02.14-15.40.22:513][435]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.02.14-15.40.22:513][435]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.40.22:514][435]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.40.22
+[2023.02.14-15.40.22:514][435]LogWorld: Bringing up level for play took: 0.001318
+[2023.02.14-15.40.22:515][435]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.40.22:515][435]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.40.22:515][435]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.40.22:518][435]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.40.22:518][435]LogLoad: Took 0.067514 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.02.14-15.40.59:305][846]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.14-15.41.04:498][469]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.41.04:498][469]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.02.14-15.41.04:498][469]LogGameMode: ProcessServerTravel: ?Restart
+[2023.02.14-15.41.04:505][470]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.02.14-15.41.04:505][470]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.02.14-15.41.04:505][470]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.02.14-15.41.04:505][470]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.41.04:505][470]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.41.04:506][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.41.04:559][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.14-15.41.04:563][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.02.14-15.41.04:564][470]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.41.04:580][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016381s)
+[2023.02.14-15.41.04:581][470]LogAIModule: Creating AISystem for world Level1
+[2023.02.14-15.41.04:581][470]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2023.02.14-15.41.04:581][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017483s)
+[2023.02.14-15.41.04:581][470]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.02.14-15.41.04:581][470]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.14-15.41.04:583][470]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.14-18.41.04
+[2023.02.14-15.41.04:583][470]LogWorld: Bringing up level for play took: 0.001363
+[2023.02.14-15.41.04:584][470]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.41.04:584][470]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.14-15.41.04:584][470]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.41.04:587][470]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.14-15.41.04:587][470]LogLoad: Took 0.082066 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.02.14-15.43.12:614][823]LogBlueprintUserMessages: [TheCharecter_C_0] 70.0
+[2023.02.14-15.43.14:801][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-15.43.14:801][ 81]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.14-15.43.14:801][ 81]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.43.14:802][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.43.14:816][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.14-15.43.14:829][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.43.14:844][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-15.43.14:845][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.14-15.43.14:846][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.14-15.43.14:852][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.14-15.43.14:866][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.14-15.43.15:333][136]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.14-15.43.19:921][592]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.14-15.43.25:196][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.25:228][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.14-15.43.25:228][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.25:228][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.25:233][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.25:241][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.33:896][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.14-15.43.33:896][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.14-15.43.33:896][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.14-15.43.33:896][592]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.33:896][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.33:930][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.14-15.43.33:930][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.33:930][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.34:340][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.14-15.43.34:340][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.34:340][592]LogNiagara: Warning: [AssetLog] D:\GitHubProject\ProjectAlpha\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.14-15.43.34:340][592]LogNiagara: Warning: [AssetLog] D:\GitHubProject\ProjectAlpha\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.14-15.43.34:340][592]LogNiagara: Warning: [AssetLog] D:\GitHubProject\ProjectAlpha\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.14-15.43.34:355][592]LogTemp: Display: Loading shader for Niagara script NS_Glitter/NE_Glitter/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2023.02.14-15.43.35:365][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.35:403][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.14-15.43.35:403][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.35:403][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.36:238][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.14-15.43.36:238][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.36:238][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.36:254][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.14-15.43.36:254][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.36:254][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.37:370][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.14-15.43.37:370][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.37:370][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.37:402][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.14-15.43.37:402][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.37:403][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.38:855][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.14-15.43.38:855][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.38:855][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.38:899][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.14-15.43.38:899][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.38:899][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.39:760][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.14-15.43.39:760][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.39:760][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.39:767][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.14-15.43.39:767][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.39:767][592]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.40:948][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.14-15.43.40:948][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.14-15.43.40:977][592]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.14-15.43.40:978][592]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.02.14-15.43.40:978][592]LogShaderCompilers: Display: Tracking 15 distinct input hashes that result in 15 distinct outputs (100.00%)
+[2023.02.14-15.43.40:978][592]LogShaderCompilers: Display: RAM used: 0.73 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.02.14-15.43.40:978][592]LogShaderCompilers: Display: ================================================
+[2023.02.14-15.43.41:327][592]LogTexture: Display: Building textures: T_Glitter_Normal (OODLE_BC5, 512X512)
+[2023.02.14-15.43.41:327][592]LogTexture: Display: Building textures: T_Glitter_BaseColor (OODLE_AutoDXT, 512X512)
+[2023.02.14-15.43.41:327][592]LogTexture: Display: Building textures: T_Glitter_OcclusionRoughnessMetallic (OODLE_AutoDXT, 512X512)
+[2023.02.14-15.43.41:327][592]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 987FABA50F7738FDB5D0C0BDA1937B749EBAEF71), compiling. 
+[2023.02.14-15.43.41:543][592]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.14-15.43.41:879][592]LogShaderCompilers: Display: Started 48 'Local' shader compile jobs with 'Low' priority
+[2023.02.14-15.43.41:879][592]LogTexture: Display: Building textures: T_Bubble_BaseColor (OODLE_AutoDXT, 512X512)
+[2023.02.14-15.43.41:879][592]LogObjectTools: Deleting 1 worlds: /Game/CharacterBodyFX/Maps/Demo.Demo
+[2023.02.14-15.43.41:879][592]LogObjectTools: Currently 10 active worlds: /Game/Levels/Level1.Level1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2023.02.14-15.43.41:940][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2023.02.14-15.43.46:173][592]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.14-15.43.46:250][592]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2023.02.14-15.43.46:299][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.14-15.43.46:585][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.02.14-15.43.46:614][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.14-15.43.46:635][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.46:655][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.46:676][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.46:696][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.46:717][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.46:737][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.46:757][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.46:777][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.46:798][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.46:823][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.46:843][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.46:864][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.46:885][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.46:905][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.46:925][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.46:945][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.46:966][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.46:986][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:007][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:032][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:052][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:073][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:093][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:113][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:134][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:154][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:175][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:195][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.02.14-15.43.47:216][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:237][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.14-15.43.47:258][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.02.14-15.43.47:279][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:299][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:319][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:340][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:360][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:381][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.47:401][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:421][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:445][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:466][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:486][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.14-15.43.47:507][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.47:527][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:547][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:568][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:588][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:609][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.47:629][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:654][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:675][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.47:696][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:716][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.47:736][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:757][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.47:777][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.47:797][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:817][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:838][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:863][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.47:884][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:905][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:925][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.47:945][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.47:965][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.14-15.43.47:985][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:006][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:026][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:046][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:071][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:091][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:112][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:132][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:152][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:172][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:193][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:213][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.48:233][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:253][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.48:275][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:295][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:316][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:336][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:356][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:376][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:397][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:417][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:437][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.14-15.43.48:457][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:479][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:500][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:520][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:540][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.48:560][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:581][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:601][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:622][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.14-15.43.48:642][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:662][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:684][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:704][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:725][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:745][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:765][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:785][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:806][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.48:826][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:846][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:866][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:888][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:909][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:929][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.48:949][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.48:969][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.48:990][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:010][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:030][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:050][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:071][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:095][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.49:115][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.49:136][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:156][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:176][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:196][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:217][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.49:237][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:257][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.49:278][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:302][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:322][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.49:343][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.49:363][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.49:383][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:404][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:424][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:444][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:465][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:485][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:509][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:530][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.49:550][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.14-15.43.49:570][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:591][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.49:611][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:632][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:652][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:672][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.49:693][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.49:717][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.14-15.43.49:739][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:759][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.14-15.43.49:779][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:800][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:820][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:840][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.49:861][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.14-15.43.49:881][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.49:901][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:925][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:945][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.49:965][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.49:986][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.50:005][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.50:026][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:046][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:066][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:086][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:107][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.50:129][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.14-15.43.50:150][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:170][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.50:190][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:211][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:231][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.50:251][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.14-15.43.50:271][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.14-15.43.50:297][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.14-15.43.50:318][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.14-15.43.50:368][592]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.02.14-15.44.36:590][962]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProject/ProjectAlpha/Project__Alpha/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.02.14-15.44.36:590][962]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProject/ProjectAlpha/Project__Alpha/Content/Developers/Hama/Collections/' because it could not be accessed. Aborting watch request...
+[2023.02.14-15.44.36:590][962]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProject/ProjectAlpha/Project__Alpha/Saved/Collections/' because it could not be accessed. Aborting watch request...
