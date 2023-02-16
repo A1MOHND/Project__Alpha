@@ -2058,3 +2058,399 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.16-02.16.42:751][415]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2023.02.16-02.16.43:479][500]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2023.02.16-02.16.57:584][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.16-02.17.22:433][394]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.16-02.17.23:761][553]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.16-02.17.23:765][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.17.23:766][553]PIE: New page: PIE session: Level1 (Feb 16, 2023, 8:17:23 AM)
+[2023.02.16-02.17.23:789][553]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.17.23:806][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016861s)
+[2023.02.16-02.17.23:807][553]LogAIModule: Creating AISystem for world Level1
+[2023.02.16-02.17.23:807][553]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2023.02.16-02.17.23:807][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018192s)
+[2023.02.16-02.17.23:831][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.02.16-02.17.23:834][553]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.17.23:834][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.17.23:834][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.17.23:834][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.17.23:834][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.17.23:834][553]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.16-02.17.23:835][553]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.16-02.17.23:835][553]LogAudioMixer: Display: 1: FrontRight
+[2023.02.16-02.17.23:842][553]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.16-02.17.23:842][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.17.23:842][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.17.23:842][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.17.23:842][553]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.16-02.17.23:842][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.16-02.17.23:842][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.16-02.17.23:844][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.16-02.17.23:844][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.16-02.17.23:844][553]LogInit: FAudioDevice initialized.
+[2023.02.16-02.17.23:844][553]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2023.02.16-02.17.23:852][553]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.16-02.17.23:855][553]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.16-05.17.23
+[2023.02.16-02.17.23:855][553]LogWorld: Bringing up level for play took: 0.002373
+[2023.02.16-02.17.23:855][553]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.02.16-02.17.23:856][553]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.17.23:856][553]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.17.23:856][553]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.17.23:860][553]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.17.23:860][553]PIE: Server logged in
+[2023.02.16-02.17.23:861][553]PIE: Play in editor total start time 0.096 seconds.
+[2023.02.16-02.17.25:984][803]Cmd: LevelEditor.ToggleImmersive
+[2023.02.16-02.17.58:169][654]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.16-02.18.04:168][374]LogBlueprintUserMessages: [TheCharecter_C_1] 0.0
+[2023.02.16-02.18.42:051][916]LogBlueprintUserMessages: [TheCharecter_C_2] 0.0
+[2023.02.16-02.20.05:506][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.20.05:506][923]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.20.05:506][923]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.20.05:507][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.20.05:524][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.20.05:538][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.20.05:560][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.20.05:560][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.20.05:561][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.20.05:568][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.02.16-02.20.05:589][924]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.02.16-02.20.06:289][  6]LogEditorViewport: Clicking on Actor (LMB): Trap2_C (Trap2)
+[2023.02.16-02.20.36:349][303]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.20.36:453][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.02.16-02.20.37:105][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.16-02.20.37:298][331]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecter24176AC94B5A0D2E6A2EA6B6B6A31D93.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.16-02.20.37:311][331]AssetCheck: New page: Asset Save: TheCharecter
+[2023.02.16-02.20.37:311][331]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.20.39:069][460]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.16-02.20.39:069][460]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.20.39:069][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.21.43:475][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.22.26:603][783]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.22.26:735][783]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2023.02.16-02.22.27:235][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.16-02.22.27:427][797]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecterF77C81EB4AD617CCFFFB77AB77A6775F.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.16-02.22.27:440][797]AssetCheck: New page: Asset Save: TheCharecter
+[2023.02.16-02.22.27:440][797]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.31.10:006][159]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.31.10:136][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.02.16-02.31.11:165][233]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.16-02.31.11:689][294]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.16-02.31.11:694][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.31.11:694][294]PIE: New page: PIE session: Level1 (Feb 16, 2023, 8:31:11 AM)
+[2023.02.16-02.31.11:736][294]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.31.11:754][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017230s)
+[2023.02.16-02.31.11:755][294]LogAIModule: Creating AISystem for world Level1
+[2023.02.16-02.31.11:755][294]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2023.02.16-02.31.11:755][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018539s)
+[2023.02.16-02.31.11:778][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.16-02.31.11:779][294]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.31.11:779][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.31.11:779][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.31.11:779][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.31.11:779][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.31.11:779][294]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.16-02.31.11:781][294]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.16-02.31.11:781][294]LogAudioMixer: Display: 1: FrontRight
+[2023.02.16-02.31.11:787][294]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.16-02.31.11:788][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.31.11:788][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.31.11:788][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.31.11:788][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.16-02.31.11:788][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.16-02.31.11:788][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.16-02.31.11:789][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.16-02.31.11:789][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.16-02.31.11:789][294]LogInit: FAudioDevice initialized.
+[2023.02.16-02.31.11:789][294]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2023.02.16-02.31.11:799][294]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.16-02.31.11:802][294]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.16-05.31.11
+[2023.02.16-02.31.11:802][294]LogWorld: Bringing up level for play took: 0.002357
+[2023.02.16-02.31.11:802][294]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.02.16-02.31.11:804][294]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.31.11:804][294]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.31.11:804][294]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.31.11:807][294]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.31.11:807][294]PIE: Server logged in
+[2023.02.16-02.31.11:808][294]PIE: Play in editor total start time 0.114 seconds.
+[2023.02.16-02.31.12:244][344]Cmd: LevelEditor.ToggleImmersive
+[2023.02.16-02.31.13:832][525]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.16-02.31.23:527][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.31.23:527][685]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.31.23:527][685]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.31.23:528][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.31.23:547][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.31.23:559][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.31.23:577][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.16-02.31.23:578][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.31.23:579][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.31.23:581][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.31.23:584][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.16-02.31.23:600][686]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.02.16-02.31.24:260][763]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.16-02.31.44:137][624]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.31.44:234][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.02.16-02.31.44:792][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.16-02.31.44:987][645]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecterDC6E14644333074B39ECFBB5960BC0AF.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.16-02.31.44:999][645]AssetCheck: New page: Asset Save: TheCharecter
+[2023.02.16-02.31.44:999][645]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.31.45:591][698]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.31.45:591][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.31.46:370][769]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.16-02.31.47:558][910]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.16-02.31.47:563][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.31.47:563][910]PIE: New page: PIE session: Level1 (Feb 16, 2023, 8:31:47 AM)
+[2023.02.16-02.31.47:596][910]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.31.47:613][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016926s)
+[2023.02.16-02.31.47:614][910]LogAIModule: Creating AISystem for world Level1
+[2023.02.16-02.31.47:614][910]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2023.02.16-02.31.47:614][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018203s)
+[2023.02.16-02.31.47:636][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.02.16-02.31.47:639][910]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.31.47:639][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.31.47:639][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.31.47:639][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.31.47:639][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.31.47:639][910]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.16-02.31.47:641][910]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.16-02.31.47:641][910]LogAudioMixer: Display: 1: FrontRight
+[2023.02.16-02.31.47:647][910]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.16-02.31.47:647][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.31.47:647][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.31.47:647][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.31.47:647][910]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.16-02.31.47:647][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.16-02.31.47:647][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.16-02.31.47:649][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.16-02.31.47:649][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.16-02.31.47:649][910]LogInit: FAudioDevice initialized.
+[2023.02.16-02.31.47:649][910]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2023.02.16-02.31.47:655][910]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.16-02.31.47:657][910]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.16-05.31.47
+[2023.02.16-02.31.47:657][910]LogWorld: Bringing up level for play took: 0.002366
+[2023.02.16-02.31.47:658][910]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.02.16-02.31.47:659][910]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.31.47:659][910]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.31.47:659][910]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.31.47:662][910]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.31.47:662][910]PIE: Server logged in
+[2023.02.16-02.31.47:663][910]PIE: Play in editor total start time 0.101 seconds.
+[2023.02.16-02.31.48:000][948]Cmd: LevelEditor.ToggleImmersive
+[2023.02.16-02.31.50:936][291]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.16-02.32.08:197][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.32.08:197][357]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.32.08:197][357]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.32.08:198][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.32.08:210][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.32.08:222][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.32.08:237][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.16-02.32.08:237][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.32.08:238][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.32.08:241][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.32.08:244][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.16-02.32.08:287][359]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.16-02.32.08:829][424]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.16-02.32.11:317][692]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.32.32:674][538]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.32.32:772][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.16-02.32.34:987][705]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.16-02.32.34:992][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.32.34:992][705]PIE: New page: PIE session: Level1 (Feb 16, 2023, 8:32:34 AM)
+[2023.02.16-02.32.35:015][705]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.32.35:032][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016878s)
+[2023.02.16-02.32.35:032][705]LogAIModule: Creating AISystem for world Level1
+[2023.02.16-02.32.35:033][705]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2023.02.16-02.32.35:033][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018094s)
+[2023.02.16-02.32.35:055][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.16-02.32.35:056][705]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.16-02.32.35:056][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.32.35:056][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.32.35:057][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.32.35:057][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.32.35:057][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.32.35:057][705]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.16-02.32.35:058][705]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.16-02.32.35:058][705]LogAudioMixer: Display: 1: FrontRight
+[2023.02.16-02.32.35:064][705]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.16-02.32.35:064][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.32.35:064][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.32.35:064][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.32.35:064][705]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.16-02.32.35:064][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.16-02.32.35:064][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.16-02.32.35:066][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.16-02.32.35:066][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.16-02.32.35:066][705]LogInit: FAudioDevice initialized.
+[2023.02.16-02.32.35:066][705]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level1'.
+[2023.02.16-02.32.35:071][705]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.16-02.32.35:073][705]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.16-05.32.35
+[2023.02.16-02.32.35:074][705]LogWorld: Bringing up level for play took: 0.002310
+[2023.02.16-02.32.35:074][705]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.02.16-02.32.35:075][705]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.32.35:075][705]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.16-02.32.35:075][705]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.32.35:079][705]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.16-02.32.35:079][705]PIE: Server logged in
+[2023.02.16-02.32.35:079][705]PIE: Play in editor total start time 0.088 seconds.
+[2023.02.16-02.32.35:390][740]Cmd: LevelEditor.ToggleImmersive
+[2023.02.16-02.32.36:999][924]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.02.16-02.32.51:305][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.32.51:305][636]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.16-02.32.51:305][636]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.32.51:306][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.32.51:324][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.32.51:336][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.32.51:354][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.16-02.32.51:355][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.32.51:356][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.16-02.32.51:358][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.32.51:361][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.16-02.32.51:377][637]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.16-02.33.10:861][516]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.33.10:959][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.16-02.33.11:867][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.16-02.33.12:059][544]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecter165DC3B044DD46D019B713925F077961.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.16-02.33.12:071][544]AssetCheck: New page: Asset Save: TheCharecter
+[2023.02.16-02.33.12:071][544]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.33.14:020][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.02.16-02.33.20:913][487]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.20:913][487]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.21:977][564]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin
+[2023.02.16-02.33.22:160][564]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.02.16-02.33.22:207][564]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.16-02.33.22:498][564]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.16-02.33.22:857][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.16-02.33.22:857][564]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.22:857][564]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.22:950][564]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.02.16-02.33.24:937][564]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.24:937][564]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.25:179][565]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.25:179][565]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.25:188][565]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.16-02.33.25:242][566]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.25:242][566]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.25:251][567]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.25:251][567]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.25:259][568]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.25:259][568]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.25:267][569]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.33.25:267][569]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_0
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.33.57:907][738]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.33.57:941][738]LogBlueprint: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\TheCharecter\Blueprints\TheCharecter.uasset: [Compiler] 'Charecter Animatoin' does not inherit from 'Character' ( Cast To CharecterAnimatoin  would always fail).
+[2023.02.16-02.33.58:044][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.02.16-02.33.59:039][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.16-02.33.59:232][798]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecter6CBBBB514239E51DFA4FE5816D558F7F.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.16-02.33.59:244][798]AssetCheck: New page: Asset Save: TheCharecter
+[2023.02.16-02.33.59:244][798]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-02.35.11:692][ 15]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-02.35.11:808][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.02.16-02.37.13:972][800]BlueprintLog: New page: Compile CharecterAnimatoin
+[2023.02.16-02.37.14:030][800]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:030][800]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:030][800]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:030][800]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:061][800]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.02.16-02.37.14:145][800]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:145][800]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:171][801]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:171][801]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:217][802]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:217][802]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:233][803]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:233][803]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:257][804]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:257][804]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:273][805]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:001E
+[2023.02.16-02.37.14:273][805]LogScript: Warning: Accessed None trying to read property CharReff
+	CharecterAnimatoin_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.CharecterAnimatoin_C_1
+	Function /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin_C:UpdateLockingAngle:0108
+[2023.02.16-02.37.14:735][825]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/CharecterAnimatoin9A00444348470E38F11C3DABFC7D5AA2.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Animatoin/Movements/CharecterAnimatoin.uasset'
+[2023.02.16-02.37.14:751][825]AssetCheck: New page: Asset Save: CharecterAnimatoin
+[2023.02.16-02.37.14:751][825]LogContentValidation: Display: Validating AnimBlueprint /Game/TheCharecter/Animatoin/Movements/CharecterAnimatoin.CharecterAnimatoin
