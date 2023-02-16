@@ -1164,3 +1164,43 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.16-15.33.10:310][379]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecter81056594432B87B792F6B4846335A333.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
 [2023.02.16-15.33.10:323][379]AssetCheck: New page: Asset Save: TheCharecter
 [2023.02.16-15.33.10:323][379]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-15.33.34:383][447]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-15.33.34:383][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-15.33.35:862][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-15.34.11:028][807]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-15.34.11:160][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.02.16-15.34.12:022][837]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-15.34.12:022][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-15.34.13:458][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-15.34.47:751][923]BlueprintLog: New page: Compile TheCharecter
+[2023.02.16-15.34.47:882][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.02.16-15.34.49:476][ 17]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-15.34.49:476][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-15.34.54:845][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.16-15.34.55:046][620]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecter513029404B69B2D8F658DB9BC95114CD.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.16-15.34.55:056][620]AssetCheck: New page: Asset Save: TheCharecter
+[2023.02.16-15.34.55:056][620]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.16-15.35.12:356][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.SM_Axe
+[2023.02.16-15.35.52:426][624]BlueprintLog: New page: Compile SM_Axe
+[2023.02.16-15.35.52:468][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.16-15.35.53:274][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe" FILE="../../../../GitHubProjects/Project__Alpha/Content/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.uasset" SILENT=true
+[2023.02.16-15.35.53:287][673]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/SM_Axe526B2C6A47F1E82E0169F793F88B9626.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.uasset'
+[2023.02.16-15.35.53:300][673]AssetCheck: New page: Asset Save: SM_Axe
+[2023.02.16-15.35.53:300][673]LogContentValidation: Display: Validating Blueprint /Game/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.SM_Axe
+[2023.02.16-15.35.53:534][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe" FILE="../../../../GitHubProjects/Project__Alpha/Content/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.uasset" SILENT=true
+[2023.02.16-15.35.53:544][700]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/SM_Axe6A4696984BA4143403FF2C8D7C03B49A.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.uasset'
+[2023.02.16-15.35.53:553][700]AssetCheck: New page: Asset Save: SM_Axe
+[2023.02.16-15.35.53:553][700]LogContentValidation: Display: Validating Blueprint /Game/TrapPack/TrapsBluePrint/SM_Axe_BP/SM_Axe.SM_Axe
+[2023.02.16-15.35.54:465][777]LogSlate: Window 'SM_Axe' being destroyed
+[2023.02.16-15.35.54:502][777]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-15.35.54:502][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-15.35.58:849][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TrapPack/TrapsBluePrint/SM_BladeWall_6m/SM_BladeWall_6m.SM_BladeWall_6m
+[2023.02.16-15.36.34:115][125]BlueprintLog: New page: Compile SM_BladeWall_6m
+[2023.02.16-15.36.34:156][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.16-15.36.34:753][166]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/SM_BladeWall_6m185A5DE347E25E97A8FFBD8C41384D8E.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TrapPack/TrapsBluePrint/SM_BladeWall_6m/SM_BladeWall_6m.uasset'
+[2023.02.16-15.36.34:767][166]AssetCheck: New page: Asset Save: SM_BladeWall_6m
+[2023.02.16-15.36.34:767][166]LogContentValidation: Display: Validating Blueprint /Game/TrapPack/TrapsBluePrint/SM_BladeWall_6m/SM_BladeWall_6m.SM_BladeWall_6m
+[2023.02.16-15.36.35:661][258]LogSlate: Window 'SM_BladeWall_6m' being destroyed
+[2023.02.16-15.36.35:669][258]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-15.36.35:669][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-15.36.37:214][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
