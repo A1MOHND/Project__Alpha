@@ -1849,3 +1849,745 @@ Make sure 'TheCharecter' has been compiled for  Get isProtecting?
 [2023.02.17-14.37.00:461][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.17-14.37.00:464][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2023.02.17-14.37.00:503][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.02.17-14.38.21:124][913]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProjects/Project__Alpha/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.02.17-14.38.21:124][913]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProjects/Project__Alpha/Content/Developers/Hama/Collections/' because it could not be accessed. Aborting watch request...
+[2023.02.17-14.38.21:124][913]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHubProjects/Project__Alpha/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.02.17-14.38.36:649][399]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.17-14.38.38:112][530]LogActorFactory: Actor Factory created SM_Diamond
+[2023.02.17-14.38.38:624][582]LogActorFactory: Actor Factory created SM_Diamond
+[2023.02.17-14.38.40:180][763]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.17-14.38.48:201][721]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.48:701][781]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.49:151][835]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.49:368][861]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.49:802][913]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.50:244][966]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.51:818][155]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.52:271][207]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.52:474][231]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.53:454][349]LogEditorViewport: Clicking on Actor (LMB): Trap2_C (Trap2)
+[2023.02.17-14.38.54:469][469]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.54:862][516]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.54:995][532]LogEditorViewport: Clicking Background
+[2023.02.17-14.38.55:995][652]Cmd: TRANSACTION UNDO
+[2023.02.17-14.38.55:995][652]LogEditorTransaction: Undo Clicking Background
+[2023.02.17-14.38.56:594][671]Cmd: TRANSACTION UNDO
+[2023.02.17-14.38.56:594][671]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.17-14.38.57:285][733]Cmd: TRANSACTION UNDO
+[2023.02.17-14.38.57:285][733]LogEditorTransaction: Undo Clicking Background
+[2023.02.17-14.38.57:859][792]Cmd: TRANSACTION UNDO
+[2023.02.17-14.38.57:859][792]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.17-14.38.58:752][890]Cmd: TRANSACTION UNDO
+[2023.02.17-14.38.58:752][890]LogEditorTransaction: Undo Move Actors
+[2023.02.17-14.39.03:461][325]LogActorFactory: Actor Factory created SM_RockCliff
+[2023.02.17-14.39.04:241][411]LogActorFactory: Actor Factory created SM_RockCliff
+[2023.02.17-14.39.05:550][565]Cmd: DELETE
+[2023.02.17-14.39.05:550][565]Cmd: ACTOR DELETE
+[2023.02.17-14.39.05:558][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.17-14.39.05:577][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.17-14.39.05:580][565]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.02.17-14.39.22:986][533]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.17-14.39.30:642][533]LogNiagara: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.17-14.39.30:642][533]LogNiagara: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.17-14.39.30:643][533]LogNiagara: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Glitter\NS_Glitter.uasset: The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Logic AND node. - Node: Logic AND Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Multiply node. - Node: Multiply Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling input on Less Than node. - Node: Less Than Pin: A - 
+The mesh distance field generation is currently not enabled, please check the project settings.
+Niagara cannot query the distance field otherwise. - Node: Query Mesh Distance Field GPU - 
+Incorrect number of outputs. Can possibly be fixed with a graph refresh. - Node: Query Mesh Distance Field GPU - 
+Error compiling Pin - Node: Output Function Pin: DistanceFieldIsValid - 
+[2023.02.17-14.39.30:644][533]LogTemp: Display: Loading shader for Niagara script NS_Glitter/NE_Glitter/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2023.02.17-14.39.33:544][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 987FABA50F7738FDB5D0C0BDA1937B749EBAEF71), compiling. 
+[2023.02.17-14.39.33:596][533]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.17-14.39.33:632][533]LogShaderCompilers: Display: Started 48 'Local' shader compile jobs with 'Low' priority
+[2023.02.17-14.39.33:632][533]LogObjectTools: Deleting 1 worlds: /Game/CharacterBodyFX/Maps/Demo.Demo
+[2023.02.17-14.39.33:632][533]LogObjectTools: Currently 7 active worlds: /Game/Levels/Level1.Level1, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2023.02.17-14.39.33:657][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.02.17-14.39.36:424][533]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.17-14.39.36:488][533]LogUObjectGlobals: Force Deleting 178 Package(s):
+	Asset Name: /Game/CharacterBodyFX/Meshes/SM_RockCliff.SM_RockCliff
+	Asset Name: /Game/CharacterBodyFX/Materials/M_RockCliff.M_RockCliff
+	Asset Name: /Game/CharacterBodyFX/Textures/T_RockCliff_OcclusionRoughnessMetallic.T_RockCliff_OcclusionRoughnessMetallic
+	Asset Name: /Game/CharacterBodyFX/Textures/T_RockCliff_Normal.T_RockCliff_Normal
+	Asset Name: /Game/CharacterBodyFX/Textures/T_RockCliff_BaseColor.T_RockCliff_BaseColor
+	Asset Name: /Game/CharacterBodyFX/Meshes/SM_Diamond.SM_Diamond
+	Asset Name: /Game/CharacterBodyFX/Materials/M_Diamond_Inst.M_Diamond_Inst
+	Asset Name: /Game/CharacterBodyFX/Materials/M_Diamond.M_Diamond
+	Asset Name: /Game/CharacterBodyFX/FX/Bubbles/NE_Bubbles.NE_Bubbles
+	Asset Name: /Game/CharacterBodyFX/FX/Bubbles/NS_Bubbles.NS_Bubbles
+[2023.02.17-14.39.38:055][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 337FF2753E93796DD4D43AF5528DF81820263B10), compiling. 
+[2023.02.17-14.39.38:056][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Glitter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:056][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:056][533]LogMaterial: Warning: M_Glitter: Requesting an invalid TextureIndex! (2 / 1)
+[2023.02.17-14.39.38:058][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 337FF2753E93796DD4D43AF5528DF81820263B10), compiling. 
+[2023.02.17-14.39.38:058][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Glitter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:058][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:059][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 337FF2753E93796DD4D43AF5528DF81820263B10), compiling. 
+[2023.02.17-14.39.38:060][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Glitter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:060][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:060][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 337FF2753E93796DD4D43AF5528DF81820263B10), compiling. 
+[2023.02.17-14.39.38:061][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Glitter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:061][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:062][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 337FF2753E93796DD4D43AF5528DF81820263B10), compiling. 
+[2023.02.17-14.39.38:062][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Glitter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:062][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:063][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 337FF2753E93796DD4D43AF5528DF81820263B10), compiling. 
+[2023.02.17-14.39.38:063][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Glitter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:063][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:196][533]LogMaterial: Display: Missing cached shadermap for M_Flower_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 116182AD45493117C892175A2453C85C389AC0D1), compiling. 
+[2023.02.17-14.39.38:198][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_05.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:198][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:199][533]LogMaterial: Display: Missing cached shadermap for M_Flower_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 116182AD45493117C892175A2453C85C389AC0D1), compiling. 
+[2023.02.17-14.39.38:200][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_05.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:201][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:203][533]LogMaterial: Display: Missing cached shadermap for M_Flower_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 116182AD45493117C892175A2453C85C389AC0D1), compiling. 
+[2023.02.17-14.39.38:205][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_05.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:205][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:207][533]LogMaterial: Display: Missing cached shadermap for M_Flower_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 116182AD45493117C892175A2453C85C389AC0D1), compiling. 
+[2023.02.17-14.39.38:208][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_05.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:208][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:211][533]LogMaterial: Display: Missing cached shadermap for M_Flower_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 116182AD45493117C892175A2453C85C389AC0D1), compiling. 
+[2023.02.17-14.39.38:212][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_05.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:212][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:214][533]LogMaterial: Display: Missing cached shadermap for M_Flower_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 116182AD45493117C892175A2453C85C389AC0D1), compiling. 
+[2023.02.17-14.39.38:216][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_05.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:216][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:224][533]LogMaterial: Display: Missing cached shadermap for M_Flower_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC19756C9A34A86D1344435293A8615ED7B519C), compiling. 
+[2023.02.17-14.39.38:226][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_04.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:226][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:228][533]LogMaterial: Display: Missing cached shadermap for M_Flower_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC19756C9A34A86D1344435293A8615ED7B519C), compiling. 
+[2023.02.17-14.39.38:230][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_04.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:230][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:233][533]LogMaterial: Display: Missing cached shadermap for M_Flower_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC19756C9A34A86D1344435293A8615ED7B519C), compiling. 
+[2023.02.17-14.39.38:234][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_04.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:234][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:237][533]LogMaterial: Display: Missing cached shadermap for M_Flower_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC19756C9A34A86D1344435293A8615ED7B519C), compiling. 
+[2023.02.17-14.39.38:239][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_04.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:239][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:242][533]LogMaterial: Display: Missing cached shadermap for M_Flower_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC19756C9A34A86D1344435293A8615ED7B519C), compiling. 
+[2023.02.17-14.39.38:244][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_04.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:244][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:247][533]LogMaterial: Display: Missing cached shadermap for M_Flower_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC19756C9A34A86D1344435293A8615ED7B519C), compiling. 
+[2023.02.17-14.39.38:248][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_04.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:248][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:265][533]LogMaterial: Display: Missing cached shadermap for M_Flower_03 in PCD3D_SM5, Default, SM5 (DDC key hash: D766E801D693AA28E6FC8A70BFB25C289241AF0C), compiling. 
+[2023.02.17-14.39.38:266][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:266][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:269][533]LogMaterial: Display: Missing cached shadermap for M_Flower_03 in PCD3D_SM5, Default, SM5 (DDC key hash: D766E801D693AA28E6FC8A70BFB25C289241AF0C), compiling. 
+[2023.02.17-14.39.38:270][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:270][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:273][533]LogMaterial: Display: Missing cached shadermap for M_Flower_03 in PCD3D_SM5, Default, SM5 (DDC key hash: D766E801D693AA28E6FC8A70BFB25C289241AF0C), compiling. 
+[2023.02.17-14.39.38:275][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:275][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:278][533]LogMaterial: Display: Missing cached shadermap for M_Flower_03 in PCD3D_SM5, Default, SM5 (DDC key hash: D766E801D693AA28E6FC8A70BFB25C289241AF0C), compiling. 
+[2023.02.17-14.39.38:280][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:280][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:283][533]LogMaterial: Display: Missing cached shadermap for M_Flower_03 in PCD3D_SM5, Default, SM5 (DDC key hash: D766E801D693AA28E6FC8A70BFB25C289241AF0C), compiling. 
+[2023.02.17-14.39.38:285][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:285][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:287][533]LogMaterial: Display: Missing cached shadermap for M_Flower_03 in PCD3D_SM5, Default, SM5 (DDC key hash: D766E801D693AA28E6FC8A70BFB25C289241AF0C), compiling. 
+[2023.02.17-14.39.38:288][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:288][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:304][533]LogMaterial: Display: Missing cached shadermap for M_Flower_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 74812C6ECF202E58B8F6962FB4B4CD04870EF684), compiling. 
+[2023.02.17-14.39.38:305][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:305][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:308][533]LogMaterial: Display: Missing cached shadermap for M_Flower_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 74812C6ECF202E58B8F6962FB4B4CD04870EF684), compiling. 
+[2023.02.17-14.39.38:310][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:310][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:312][533]LogMaterial: Display: Missing cached shadermap for M_Flower_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 74812C6ECF202E58B8F6962FB4B4CD04870EF684), compiling. 
+[2023.02.17-14.39.38:314][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:314][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:316][533]LogMaterial: Display: Missing cached shadermap for M_Flower_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 74812C6ECF202E58B8F6962FB4B4CD04870EF684), compiling. 
+[2023.02.17-14.39.38:318][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:318][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:321][533]LogMaterial: Display: Missing cached shadermap for M_Flower_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 74812C6ECF202E58B8F6962FB4B4CD04870EF684), compiling. 
+[2023.02.17-14.39.38:322][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:322][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:324][533]LogMaterial: Display: Missing cached shadermap for M_Flower_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 74812C6ECF202E58B8F6962FB4B4CD04870EF684), compiling. 
+[2023.02.17-14.39.38:325][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:325][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:333][533]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA551B617E283DD296DD4FD1FBAF95114CA88F9), compiling. 
+[2023.02.17-14.39.38:334][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:335][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:337][533]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA551B617E283DD296DD4FD1FBAF95114CA88F9), compiling. 
+[2023.02.17-14.39.38:339][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:339][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:341][533]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA551B617E283DD296DD4FD1FBAF95114CA88F9), compiling. 
+[2023.02.17-14.39.38:343][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:343][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:345][533]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA551B617E283DD296DD4FD1FBAF95114CA88F9), compiling. 
+[2023.02.17-14.39.38:347][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:347][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:349][533]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA551B617E283DD296DD4FD1FBAF95114CA88F9), compiling. 
+[2023.02.17-14.39.38:351][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:351][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:353][533]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA551B617E283DD296DD4FD1FBAF95114CA88F9), compiling. 
+[2023.02.17-14.39.38:354][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Flower_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:354][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:361][533]LogMaterial: Display: Missing cached shadermap for M_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: 3EE6E2C4D96CE939E19043A5964BFE9CDB6029D5), compiling. 
+[2023.02.17-14.39.38:362][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Smoke.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:362][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:364][533]LogMaterial: Display: Missing cached shadermap for M_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: 3EE6E2C4D96CE939E19043A5964BFE9CDB6029D5), compiling. 
+[2023.02.17-14.39.38:365][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Smoke.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:365][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:367][533]LogMaterial: Display: Missing cached shadermap for M_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: 3EE6E2C4D96CE939E19043A5964BFE9CDB6029D5), compiling. 
+[2023.02.17-14.39.38:368][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Smoke.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:368][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:370][533]LogMaterial: Display: Missing cached shadermap for M_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: 3EE6E2C4D96CE939E19043A5964BFE9CDB6029D5), compiling. 
+[2023.02.17-14.39.38:370][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Smoke.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:370][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:373][533]LogMaterial: Display: Missing cached shadermap for M_Charcoal in PCD3D_SM5, Default, SM5 (DDC key hash: CFED7F5E5D0397CA585A7C509AD700DCF0B60667), compiling. 
+[2023.02.17-14.39.38:374][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Charcoal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:374][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:376][533]LogMaterial: Display: Missing cached shadermap for M_Charcoal in PCD3D_SM5, Default, SM5 (DDC key hash: CFED7F5E5D0397CA585A7C509AD700DCF0B60667), compiling. 
+[2023.02.17-14.39.38:376][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Charcoal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:376][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:378][533]LogMaterial: Display: Missing cached shadermap for M_Charcoal in PCD3D_SM5, Default, SM5 (DDC key hash: CFED7F5E5D0397CA585A7C509AD700DCF0B60667), compiling. 
+[2023.02.17-14.39.38:378][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Charcoal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:379][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:380][533]LogMaterial: Display: Missing cached shadermap for M_Charcoal in PCD3D_SM5, Default, SM5 (DDC key hash: CFED7F5E5D0397CA585A7C509AD700DCF0B60667), compiling. 
+[2023.02.17-14.39.38:381][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Charcoal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:381][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:383][533]LogMaterial: Display: Missing cached shadermap for M_Charcoal in PCD3D_SM5, Default, SM5 (DDC key hash: CFED7F5E5D0397CA585A7C509AD700DCF0B60667), compiling. 
+[2023.02.17-14.39.38:383][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Charcoal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:383][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:385][533]LogMaterial: Display: Missing cached shadermap for M_Charcoal in PCD3D_SM5, Default, SM5 (DDC key hash: CFED7F5E5D0397CA585A7C509AD700DCF0B60667), compiling. 
+[2023.02.17-14.39.38:386][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Charcoal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:386][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:445][533]LogMaterial: Display: Missing cached shadermap for M_Pixel in PCD3D_SM5, Default, SM5 (DDC key hash: BD77690A7AFF99B897AFC6B9934C1B8EE6C28304), compiling. 
+[2023.02.17-14.39.38:446][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Pixel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:446][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:448][533]LogMaterial: Display: Missing cached shadermap for M_Pixel in PCD3D_SM5, Default, SM5 (DDC key hash: BD77690A7AFF99B897AFC6B9934C1B8EE6C28304), compiling. 
+[2023.02.17-14.39.38:448][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Pixel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:448][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:452][533]LogMaterial: Display: Missing cached shadermap for M_StickyNote in PCD3D_SM5, Default, SM5 (DDC key hash: DBB90D7E9A94823307F8C548DB518EBFE6EFFA55), compiling. 
+[2023.02.17-14.39.38:452][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_StickyNote.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:452][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:454][533]LogMaterial: Display: Missing cached shadermap for M_StickyNote in PCD3D_SM5, Default, SM5 (DDC key hash: DBB90D7E9A94823307F8C548DB518EBFE6EFFA55), compiling. 
+[2023.02.17-14.39.38:455][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_StickyNote.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:455][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:456][533]LogMaterial: Display: Missing cached shadermap for M_StickyNote in PCD3D_SM5, Default, SM5 (DDC key hash: DBB90D7E9A94823307F8C548DB518EBFE6EFFA55), compiling. 
+[2023.02.17-14.39.38:457][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_StickyNote.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:457][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:458][533]LogMaterial: Display: Missing cached shadermap for M_StickyNote in PCD3D_SM5, Default, SM5 (DDC key hash: DBB90D7E9A94823307F8C548DB518EBFE6EFFA55), compiling. 
+[2023.02.17-14.39.38:459][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_StickyNote.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:459][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:460][533]LogMaterial: Display: Missing cached shadermap for M_StickyNote in PCD3D_SM5, Default, SM5 (DDC key hash: DBB90D7E9A94823307F8C548DB518EBFE6EFFA55), compiling. 
+[2023.02.17-14.39.38:460][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_StickyNote.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:460][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:462][533]LogMaterial: Display: Missing cached shadermap for M_StickyNote in PCD3D_SM5, Default, SM5 (DDC key hash: DBB90D7E9A94823307F8C548DB518EBFE6EFFA55), compiling. 
+[2023.02.17-14.39.38:462][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_StickyNote.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:462][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:470][533]LogMaterial: Display: Missing cached shadermap for M_Glitter in PCD3D_SM5, Default, SM5 (DDC key hash: 40921BCDFF99F61F1B77EC4E7266A71F6D9A5377), compiling. 
+[2023.02.17-14.39.38:474][533]LogMaterial: Display: Missing cached shadermap for M_BrokenGlass in PCD3D_SM5, Default, SM5 (DDC key hash: EC0E7DDE647B2B055086FE50FEBA07329B231BA5), compiling. 
+[2023.02.17-14.39.38:474][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_BrokenGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:474][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:476][533]LogMaterial: Display: Missing cached shadermap for M_BrokenGlass in PCD3D_SM5, Default, SM5 (DDC key hash: EC0E7DDE647B2B055086FE50FEBA07329B231BA5), compiling. 
+[2023.02.17-14.39.38:477][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_BrokenGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:477][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:479][533]LogMaterial: Display: Missing cached shadermap for M_BrokenGlass in PCD3D_SM5, Default, SM5 (DDC key hash: EC0E7DDE647B2B055086FE50FEBA07329B231BA5), compiling. 
+[2023.02.17-14.39.38:479][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_BrokenGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:479][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:485][533]LogMaterial: Display: Missing cached shadermap for M_Twigs in PCD3D_SM5, Default, SM5 (DDC key hash: 4AE6C9E2B2C695546F53960AD0D0237ADBB91D98), compiling. 
+[2023.02.17-14.39.38:485][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Twigs.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:485][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:487][533]LogMaterial: Display: Missing cached shadermap for M_Twigs in PCD3D_SM5, Default, SM5 (DDC key hash: 4AE6C9E2B2C695546F53960AD0D0237ADBB91D98), compiling. 
+[2023.02.17-14.39.38:488][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Twigs.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:488][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:489][533]LogMaterial: Display: Missing cached shadermap for M_Twigs in PCD3D_SM5, Default, SM5 (DDC key hash: 4AE6C9E2B2C695546F53960AD0D0237ADBB91D98), compiling. 
+[2023.02.17-14.39.38:489][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Twigs.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:489][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:490][533]LogMaterial: Display: Missing cached shadermap for M_Twigs in PCD3D_SM5, Default, SM5 (DDC key hash: 4AE6C9E2B2C695546F53960AD0D0237ADBB91D98), compiling. 
+[2023.02.17-14.39.38:491][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Twigs.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:491][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:492][533]LogMaterial: Display: Missing cached shadermap for M_Twigs in PCD3D_SM5, Default, SM5 (DDC key hash: 4AE6C9E2B2C695546F53960AD0D0237ADBB91D98), compiling. 
+[2023.02.17-14.39.38:493][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Twigs.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:493][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:493][533]LogMaterial: Display: Missing cached shadermap for M_Twigs in PCD3D_SM5, Default, SM5 (DDC key hash: 4AE6C9E2B2C695546F53960AD0D0237ADBB91D98), compiling. 
+[2023.02.17-14.39.38:494][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Twigs.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:494][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:515][533]LogMaterial: Display: Missing cached shadermap for M_Button in PCD3D_SM5, Default, SM5 (DDC key hash: 14509B904A9B9701F6CF40F1CE430093BED342F2), compiling. 
+[2023.02.17-14.39.38:516][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Button.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:516][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:518][533]LogMaterial: Display: Missing cached shadermap for M_Button in PCD3D_SM5, Default, SM5 (DDC key hash: 14509B904A9B9701F6CF40F1CE430093BED342F2), compiling. 
+[2023.02.17-14.39.38:518][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Button.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:518][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:520][533]LogMaterial: Display: Missing cached shadermap for M_Button in PCD3D_SM5, Default, SM5 (DDC key hash: 14509B904A9B9701F6CF40F1CE430093BED342F2), compiling. 
+[2023.02.17-14.39.38:520][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Button.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:520][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:522][533]LogMaterial: Display: Missing cached shadermap for M_Button in PCD3D_SM5, Default, SM5 (DDC key hash: 14509B904A9B9701F6CF40F1CE430093BED342F2), compiling. 
+[2023.02.17-14.39.38:522][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Button.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:522][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:522][533]LogMaterial: Display: Missing cached shadermap for M_Button in PCD3D_SM5, Default, SM5 (DDC key hash: 14509B904A9B9701F6CF40F1CE430093BED342F2), compiling. 
+[2023.02.17-14.39.38:523][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Button.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:523][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:524][533]LogMaterial: Display: Missing cached shadermap for M_Button in PCD3D_SM5, Default, SM5 (DDC key hash: 14509B904A9B9701F6CF40F1CE430093BED342F2), compiling. 
+[2023.02.17-14.39.38:524][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Button.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:524][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.38:722][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:725][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:725][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:728][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:730][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:730][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:733][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:735][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:735][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:738][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:740][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:740][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:743][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:745][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:745][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:747][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:749][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:749][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:750][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:750][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:750][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:750][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:750][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:750][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:752][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:755][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:755][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:758][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:760][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:760][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:763][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:765][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:765][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:768][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:770][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:770][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:770][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:770][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:770][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:771][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:771][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:771][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:773][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:775][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:775][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:778][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:780][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:780][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:783][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:785][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:785][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:788][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:790][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:790][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:792][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:795][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:795][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:797][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:800][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:800][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:802][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:805][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:805][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:807][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:810][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:810][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:812][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:813][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:813][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:814][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:814][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:814][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:814][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:814][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:814][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:816][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:819][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:819][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:821][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:824][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:824][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:826][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:829][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:829][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:831][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:834][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:834][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:836][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:838][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:838][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:838][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:838][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:838][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:838][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:839][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:839][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:841][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:843][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:843][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.38:845][533]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DAFFFF3F0ED14678B9C4D8A8A4271ADAB97792A3), compiling. 
+[2023.02.17-14.39.38:847][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	Missing Material Function
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2023.02.17-14.39.38:847][533]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2023.02.17-14.39.39:421][533]LogMaterial: Display: Missing cached shadermap for M_RockCliff in PCD3D_SM5, Default, SM5 (DDC key hash: F57F02641A52A72300F7AB79CB40698D81F29615), compiling. 
+[2023.02.17-14.39.39:422][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_RockCliff.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:422][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:423][533]LogMaterial: Display: Missing cached shadermap for M_RockCliff in PCD3D_SM5, Default, SM5 (DDC key hash: F57F02641A52A72300F7AB79CB40698D81F29615), compiling. 
+[2023.02.17-14.39.39:423][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_RockCliff.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:423][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:424][533]LogMaterial: Display: Missing cached shadermap for M_RockCliff in PCD3D_SM5, Default, SM5 (DDC key hash: F57F02641A52A72300F7AB79CB40698D81F29615), compiling. 
+[2023.02.17-14.39.39:424][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_RockCliff.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:424][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:425][533]LogMaterial: Display: Missing cached shadermap for M_RockCliff in PCD3D_SM5, Default, SM5 (DDC key hash: F57F02641A52A72300F7AB79CB40698D81F29615), compiling. 
+[2023.02.17-14.39.39:425][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_RockCliff.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:425][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:426][533]LogMaterial: Display: Missing cached shadermap for M_RockCliff in PCD3D_SM5, Default, SM5 (DDC key hash: F57F02641A52A72300F7AB79CB40698D81F29615), compiling. 
+[2023.02.17-14.39.39:426][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_RockCliff.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:426][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:427][533]LogMaterial: Display: Missing cached shadermap for M_RockCliff in PCD3D_SM5, Default, SM5 (DDC key hash: F57F02641A52A72300F7AB79CB40698D81F29615), compiling. 
+[2023.02.17-14.39.39:427][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_RockCliff.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:427][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:441][533]LogMaterial: Display: Missing cached shadermap for M_Embers in PCD3D_SM5, Default, SM5 (DDC key hash: 04B313B904B78E94F1230F37A42E32A71209E2C6), compiling. 
+[2023.02.17-14.39.39:441][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Embers.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:441][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:442][533]LogMaterial: Display: Missing cached shadermap for M_Embers in PCD3D_SM5, Default, SM5 (DDC key hash: 04B313B904B78E94F1230F37A42E32A71209E2C6), compiling. 
+[2023.02.17-14.39.39:442][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Embers.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:442][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:444][533]LogMaterial: Display: Missing cached shadermap for M_Coin in PCD3D_SM5, Default, SM5 (DDC key hash: 0452262FCEC286A3A60FBF83C64575D1F0053441), compiling. 
+[2023.02.17-14.39.39:445][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Coin.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:445][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:445][533]LogMaterial: Display: Missing cached shadermap for M_Coin in PCD3D_SM5, Default, SM5 (DDC key hash: 0452262FCEC286A3A60FBF83C64575D1F0053441), compiling. 
+[2023.02.17-14.39.39:446][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Coin.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:446][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:448][533]LogMaterial: Display: Missing cached shadermap for M_Crystal in PCD3D_SM5, Default, SM5 (DDC key hash: A0C4AB63D81AA17A132C6356195920F7FCB92545), compiling. 
+[2023.02.17-14.39.39:449][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Crystal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:449][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:449][533]LogMaterial: Display: Missing cached shadermap for M_Crystal in PCD3D_SM5, Default, SM5 (DDC key hash: A0C4AB63D81AA17A132C6356195920F7FCB92545), compiling. 
+[2023.02.17-14.39.39:450][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Crystal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:450][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:450][533]LogMaterial: Display: Missing cached shadermap for M_Crystal in PCD3D_SM5, Default, SM5 (DDC key hash: A0C4AB63D81AA17A132C6356195920F7FCB92545), compiling. 
+[2023.02.17-14.39.39:451][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Crystal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:451][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:451][533]LogMaterial: Display: Missing cached shadermap for M_Crystal in PCD3D_SM5, Default, SM5 (DDC key hash: A0C4AB63D81AA17A132C6356195920F7FCB92545), compiling. 
+[2023.02.17-14.39.39:452][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Crystal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:452][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:453][533]LogMaterial: Display: Missing cached shadermap for M_Crystal in PCD3D_SM5, Default, SM5 (DDC key hash: A0C4AB63D81AA17A132C6356195920F7FCB92545), compiling. 
+[2023.02.17-14.39.39:453][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Crystal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:453][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:454][533]LogMaterial: Display: Missing cached shadermap for M_Crystal in PCD3D_SM5, Default, SM5 (DDC key hash: A0C4AB63D81AA17A132C6356195920F7FCB92545), compiling. 
+[2023.02.17-14.39.39:454][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_Crystal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:454][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:459][533]LogMaterial: Display: Missing cached shadermap for M_ChainLink in PCD3D_SM5, Default, SM5 (DDC key hash: 7151AF0603FF1D46BE3750AF8B392E4CAAED0894), compiling. 
+[2023.02.17-14.39.39:460][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ChainLink.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:460][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:461][533]LogMaterial: Display: Missing cached shadermap for M_ChainLink in PCD3D_SM5, Default, SM5 (DDC key hash: 7151AF0603FF1D46BE3750AF8B392E4CAAED0894), compiling. 
+[2023.02.17-14.39.39:461][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ChainLink.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:461][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:462][533]LogMaterial: Display: Missing cached shadermap for M_ChainLink in PCD3D_SM5, Default, SM5 (DDC key hash: 7151AF0603FF1D46BE3750AF8B392E4CAAED0894), compiling. 
+[2023.02.17-14.39.39:462][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ChainLink.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:462][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:463][533]LogMaterial: Display: Missing cached shadermap for M_ChainLink in PCD3D_SM5, Default, SM5 (DDC key hash: 7151AF0603FF1D46BE3750AF8B392E4CAAED0894), compiling. 
+[2023.02.17-14.39.39:463][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ChainLink.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:463][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:464][533]LogMaterial: Display: Missing cached shadermap for M_ChainLink in PCD3D_SM5, Default, SM5 (DDC key hash: 7151AF0603FF1D46BE3750AF8B392E4CAAED0894), compiling. 
+[2023.02.17-14.39.39:464][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ChainLink.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:464][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:465][533]LogMaterial: Display: Missing cached shadermap for M_ChainLink in PCD3D_SM5, Default, SM5 (DDC key hash: 7151AF0603FF1D46BE3750AF8B392E4CAAED0894), compiling. 
+[2023.02.17-14.39.39:465][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ChainLink.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:465][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:525][533]LogMaterial: Display: Missing cached shadermap for M_ToiletPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 67516A6014032DA9DBDA2EBA04A351066CC217DA), compiling. 
+[2023.02.17-14.39.39:526][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ToiletPaper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:526][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:527][533]LogMaterial: Display: Missing cached shadermap for M_ToiletPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 67516A6014032DA9DBDA2EBA04A351066CC217DA), compiling. 
+[2023.02.17-14.39.39:527][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ToiletPaper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:527][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:528][533]LogMaterial: Display: Missing cached shadermap for M_ToiletPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 67516A6014032DA9DBDA2EBA04A351066CC217DA), compiling. 
+[2023.02.17-14.39.39:528][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ToiletPaper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:528][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:529][533]LogMaterial: Display: Missing cached shadermap for M_ToiletPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 67516A6014032DA9DBDA2EBA04A351066CC217DA), compiling. 
+[2023.02.17-14.39.39:529][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ToiletPaper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:529][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:530][533]LogMaterial: Display: Missing cached shadermap for M_ToiletPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 67516A6014032DA9DBDA2EBA04A351066CC217DA), compiling. 
+[2023.02.17-14.39.39:530][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ToiletPaper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:530][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:531][533]LogMaterial: Display: Missing cached shadermap for M_ToiletPaper in PCD3D_SM5, Default, SM5 (DDC key hash: 67516A6014032DA9DBDA2EBA04A351066CC217DA), compiling. 
+[2023.02.17-14.39.39:531][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\Materials\M_ToiletPaper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:531][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:551][533]LogMaterial: Display: Missing cached shadermap for M_Flames in PCD3D_SM5, Default, SM5 (DDC key hash: 14D7555F126C234736EBF3D00CA1150D89DE3685), compiling. 
+[2023.02.17-14.39.39:552][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Flames.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:552][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:553][533]LogMaterial: Display: Missing cached shadermap for M_Flames in PCD3D_SM5, Default, SM5 (DDC key hash: 14D7555F126C234736EBF3D00CA1150D89DE3685), compiling. 
+[2023.02.17-14.39.39:553][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Flames.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:553][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:554][533]LogMaterial: Display: Missing cached shadermap for M_Flames in PCD3D_SM5, Default, SM5 (DDC key hash: 14D7555F126C234736EBF3D00CA1150D89DE3685), compiling. 
+[2023.02.17-14.39.39:554][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Flames.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:554][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:555][533]LogMaterial: Display: Missing cached shadermap for M_Flames in PCD3D_SM5, Default, SM5 (DDC key hash: 14D7555F126C234736EBF3D00CA1150D89DE3685), compiling. 
+[2023.02.17-14.39.39:555][533]LogMaterial: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\CharacterBodyFX\FX\Fire\Materials\M_Flames.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.17-14.39.39:555][533]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.17-14.39.39:866][533]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
