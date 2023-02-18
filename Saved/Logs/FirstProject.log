@@ -966,3 +966,270 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.18-02.03.09:612][104]LogEditorActor: Deleted Actor: StaticMeshActor
 [2023.02.18-02.03.09:616][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2023.02.18-02.03.09:617][104]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.02.18-02.03.36:659][ 24]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.18-02.05.52:887][ 31]LogTemp: Warning: Received Json : {"minLOD":"lod5","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"3d","type":"3d","id":"vevjfb3qx","name":"Japanese Wooden Lamp","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"application/x-fbx","previewImage":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_Preview.png","averageColor":"#864F34","tags":["brown","green","white","orange","japan","village","countryside","road sides","streets","alleys","rural","box","door","wood","roof","paint","lamp","worn","weathered","painted","japanese","decorative","old"],"activeLOD":"lod0","categories":["3d","Props","Wood"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Japanese Wooden Lamp_vevjfb3qx","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","normalobject":"NormalObject","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"assembly","name":"Assembly","value":"false"},{"key":"small3dasset","name":"Small3dAsset","value":"false"},{"key":"color","name":"Color","value":"Brown"},{"key":"points","name":"Points","value":4},{"key":"texelDensity","name":"Texel Density","value":"4 px/m"},{"key":"splitSubmeshes","name":"Split Submeshes","value":true},{"key":"isScaleFixed","name":"Is scale fixed","value":"true"},{"value":"0.79m","name":"Length","key":"length"},{"value":"0.75m","name":"Width","key":"width"},{"value":"2.11m","name":"Height","key":"height"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"18c59026-6448-625b-418f-d6b74e0eb2ac","components":[{"path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"vevjfb3qx_4K_Albedo.jpg","nameOverride":"Albedo_4K__vevjfb3qx.jpg","colorSpace":"sRGB","physicalSize":"1x1"},{"path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Normal_LOD0.jpg","type":"normal","resolution":"4K","format":"jpg","name":"vevjfb3qx_4K_Normal_LOD0.jpg","nameOverride":"Normal_4K_LOD0_vevjfb3qx.jpg","colorSpace":"Linear","physicalSize":"1x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Roughness.jpg","format":"jpg","name":"vevjfb3qx_4K_Roughness.jpg","nameOverride":"Roughness_4K__vevjfb3qx.jpg","colorSpace":"Linear","physicalSize":"1x1"}],"meshList":[{"path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx","type":"model","resolution":"4K","format":"fbx","name":"vevjfb3qx_LOD0.fbx","nameOverride":"Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx"}],"packedTextures":[],"lodList":[{"lod":"lod0","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx","name":"vevjfb3qx_LOD0.fbx","nameOverride":"Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx","lodObjectName":"undefined__LOD0_vevjfb3qx","format":".fbx","type":"model"},{"lod":"lod2","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD2.fbx","name":"vevjfb3qx_LOD2.fbx","nameOverride":"Japanese Wooden Lamp_LOD2__vevjfb3qx.fbx","lodObjectName":"undefined__LOD2_vevjfb3qx","format":".fbx","type":"model"},{"lod":"lod4","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD4.fbx","name":"vevjfb3qx_LOD4.fbx","nameOverride":"Japanese Wooden Lamp_LOD4__vevjfb3qx.fbx","lodObjectName":"undefined__LOD4_vevjfb3qx","format":".fbx","type":"model"}],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-02.05.52:888][ 31]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod5",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "3d",
+	"type": "3d",
+	"id": "vevjfb3qx",
+	"name": "Japanese Wooden Lamp",
+	"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "application/x-fbx",
+	"previewImage": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_Preview.png",
+	"averageColor": "#864F34",
+	"tags": [
+		"brown",
+		"green",
+		"white",
+		"orange",
+		"japan",
+		"village",
+		"countryside",
+		"road sides",
+		"streets",
+		"alleys",
+		"rural",
+		"box",
+		"door",
+		"wood",
+		"roof",
+		"paint",
+		"lamp",
+		"worn",
+		"weathered",
+		"painted",
+		"japanese",
+		"decorative",
+		"old"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"3d",
+		"Props",
+		"Wood"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Japanese Wooden Lamp_vevjfb3qx",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "NormalObject",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "assembly",
+			"name": "Assembly",
+			"value": false
+		},
+		{
+			"key": "small3dasset",
+			"name": "Small3dAsset",
+			"value": false
+		},
+		{
+			"key": "color",
+			"name": "Color",
+			"value": false
+		},
+		{
+			"key": "points",
+			"name": "Points",
+			"value": true
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "splitSubmeshes",
+			"name": "Split Submeshes",
+			"value": true
+		},
+		{
+			"key": "isScaleFixed",
+			"name": "Is scale fixed",
+			"value": true
+		},
+		{
+			"key": "length",
+			"name": "Length",
+			"value": false
+		},
+		{
+			"key": "width",
+			"name": "Width",
+			"value": false
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": true
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "vevjfb3qx_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__vevjfb3qx.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Albedo.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "vevjfb3qx_4K_Normal_LOD0.jpg",
+			"nameOverride": "Normal_4K_LOD0_vevjfb3qx.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Normal_LOD0.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "vevjfb3qx_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__vevjfb3qx.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [
+		{
+			"format": "fbx",
+			"type": "model",
+			"resolution": 4,
+			"name": "vevjfb3qx_LOD0.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx"
+		}
+	],
+	"packedTextures": [],
+	"lodList": [
+		{
+			"lod": "lod0",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx",
+			"name": "vevjfb3qx_LOD0.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx",
+			"lodObjectName": "undefined__LOD0_vevjfb3qx",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod2",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD2.fbx",
+			"name": "vevjfb3qx_LOD2.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD2__vevjfb3qx.fbx",
+			"lodObjectName": "undefined__LOD2_vevjfb3qx",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod4",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD4.fbx",
+			"name": "vevjfb3qx_LOD4.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD4__vevjfb3qx.fbx",
+			"lodObjectName": "undefined__LOD4_vevjfb3qx",
+			"format": ".fbx",
+			"type": "model"
+		}
+	],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-02.05.52:888][ 31]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-02.05.52:888][ 31]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-02.05.52:888][ 31]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-02.05.52:888][ 31]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-02.05.52:888][ 31]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-02.05.52:888][ 31]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-02.05.52:888][ 31]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-02.05.53:138][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_4K_Albedo.jpg)
+[2023.02.18-02.05.53:304][ 31]LogTexture: Display: Building textures: Albedo_4K_vevjfb3qx (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-02.05.54:203][ 31]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-02.05.54:203][ 31]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-02.05.54:203][ 31]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-02.05.54:303][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_4K_Normal_LOD0.jpg)
+[2023.02.18-02.05.54:572][ 31]LogTexture: Display: Building textures: Normal_4K_LOD0_vevjfb3qx (OODLE_BC5, 4096X4096)
+[2023.02.18-02.05.54:989][ 31]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-02.05.54:989][ 31]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-02.05.54:989][ 31]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-02.05.55:066][ 31]LogTexture: Display: Building textures: Normal_4K_LOD0_vevjfb3qx (OODLE_BC5, 4096X4096)
+[2023.02.18-02.05.55:502][ 31]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-02.05.55:502][ 31]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-02.05.55:502][ 31]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-02.05.55:528][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_4K_Roughness.jpg)
+[2023.02.18-02.05.55:661][ 31]LogTexture: Display: Building textures: Roughness_4K_vevjfb3qx (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-02.05.56:462][ 31]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-02.05.56:462][ 31]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-02.05.56:462][ 31]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-02.05.56:517][ 31]LogTexture: Display: Building textures: Roughness_4K_vevjfb3qx (OODLE_BC4, 4096X4096)
+[2023.02.18-02.05.56:838][ 31]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-02.05.56:838][ 31]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-02.05.56:838][ 31]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-02.05.56:881][ 31]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Japanese_Wooden_Lamp_vevjfb3qx_i2FC591824716B8B2D7D574B527C9673C.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_vevjfb3qx_inst.uasset'
+[2023.02.18-02.05.56:899][ 31]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_LOD0.fbx)
+[2023.02.18-02.05.56:907][ 31]LogFbx: Loading FBX Scene from D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_LOD0.fbx
+[2023.02.18-02.05.56:918][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-02.05.56:972][ 31]LogStaticMesh: Building static mesh Japanese_Wooden_Lamp_LOD0_vevjfb3qx...
+[2023.02.18-02.05.57:103][ 31]LogStaticMesh: Built static mesh [0.13s] /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-02.05.57:143][ 31]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-02.05.57:345][ 31]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-02.05.57:486][ 31]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\Props_Wood_vevjfb3qx\vevjfb3qx_LOD2.fbx
+[2023.02.18-02.05.57:493][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-02.05.57:673][ 31]LogStaticMesh: Building static mesh Japanese_Wooden_Lamp_LOD0_vevjfb3qx...
+[2023.02.18-02.05.57:863][ 31]LogStaticMesh: Built static mesh [0.19s] /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-02.05.57:957][ 31]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-02.05.57:957][ 31]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-02.05.58:131][ 31]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\Props_Wood_vevjfb3qx\vevjfb3qx_LOD4.fbx
+[2023.02.18-02.05.58:136][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-02.05.58:459][ 31]LogStaticMesh: Building static mesh Japanese_Wooden_Lamp_LOD0_vevjfb3qx...
+[2023.02.18-02.05.58:646][ 31]LogStaticMesh: Built static mesh [0.19s] /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-02.05.58:731][ 31]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-02.05.58:951][ 32]AssetCheck: New page: Asset Save: Japanese_Wooden_Lamp_vevjfb3qx_inst
+[2023.02.18-02.05.58:951][ 32]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_vevjfb3qx_inst.Japanese_Wooden_Lamp_vevjfb3qx_inst
+[2023.02.18-02.06.03:388][368]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-02.06.03:389][368]LogSlate: Window 'Message Log' being destroyed
