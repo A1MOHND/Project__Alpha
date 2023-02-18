@@ -3574,3 +3574,417 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.18-01.47.47:464][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx]
 [2023.02.18-01.47.47:574][305]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Japanese_Wooden_Lamp_LOD0_vevjfb06EE982F4331FF5B2165869CD3B3F263.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx_Auto4.uasset'
 [2023.02.18-01.47.47:590][305]LogFileHelpers: Auto-saving content packages took 2.292
+[2023.02.18-01.53.46:003][533]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-01.53.46:006][533]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-01.54.07:667][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.18-01.54.08:546][824]LogSlate: Window 'Save Content' being destroyed
+[2023.02.18-01.54.09:662][824]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_vevjfb3qx9E648864434D0AF50CC89E99A56C62C8.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Albedo_4K_vevjfb3qx.uasset'
+[2023.02.18-01.54.09:713][824]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Japanese_Wooden_Lamp_LOD0_vevjfb2E662FE84C7F805D911962828BA8AE94.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.uasset'
+[2023.02.18-01.54.09:714][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.18-01.54.09:735][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.54.09:831][824]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Level1F442D85748F8C9F7BEFA0B8501FB0616.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap'
+[2023.02.18-01.54.09:839][824]LogFileHelpers: Saving map 'Level1' took 0.125
+[2023.02.18-01.54.11:205][824]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_LOD0_vevjfb3qx6B504C2E4CF8D9EDD397058A27AA6D8F.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Normal_4K_LOD0_vevjfb3qx.uasset'
+[2023.02.18-01.54.11:863][824]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_vevjfb3qx5BF970E0413F6B5C82F0EC9B8BF1B913.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Roughness_4K_vevjfb3qx.uasset'
+[2023.02.18-01.54.11:887][824]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-01.54.11:887][824]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.02.18-01.54.11:887][824]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Roughness_4K_vevjfb3qx.Roughness_4K_vevjfb3qx
+[2023.02.18-01.54.11:887][824]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Albedo_4K_vevjfb3qx.Albedo_4K_vevjfb3qx
+[2023.02.18-01.54.11:887][824]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-01.54.11:887][824]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Normal_4K_LOD0_vevjfb3qx.Normal_4K_LOD0_vevjfb3qx
+[2023.02.18-01.54.12:953][890]LogActorFactory: Actor Factory created Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-01.54.13:793][990]LogActorFactory: Actor Factory created Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-01.54.32:863][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.02.18-01.54.33:813][382]Cmd: DELETE
+[2023.02.18-01.54.33:826][382]Cmd: ACTOR DELETE
+[2023.02.18-01.54.34:005][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.18-01.54.34:028][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.18-01.54.34:031][382]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2023.02.18-01.55.13:547][912]LogTemp: Warning: Received Json : {"minLOD":"lod0","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"atlas","type":"atlas","id":"ulgjfhfg","name":"Wooden Panel","path":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"","previewImage":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_Preview.png","averageColor":"#000000","tags":["decal","brown","interior","mansions","houses","homes","doors","windows","courtyards","sethi house","verandas","balconies","wooden","panel","polished","worn","ornate","decorative","dirty"],"activeLOD":"lod0","categories":["atlas","decals","other"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Wooden Panel_ulgjfhfg","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","gloss":"Gloss","metalness":"Metalness","normal":"Normal","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","translucency":"Translucency"},"meta":[{"key":"scanArea","name":"Scan Area","value":"2x1 m"},{"key":"height","name":"Height","value":"0.007 m"},{"key":"tileable","name":"Tileable","value":false},{"key":"tiling_directions","name":"Tiling Directions","value":[]},{"key":"texelDensity","name":"Texel Density","value":"4096 px/m"},{"key":"calibration","name":"Calibration","value":"GretagMacbeth ColorChecker Color Rendition Chart"},{"key":"scanner","name":"Scanner","value":"MKX"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"888dab39-0ada-d067-2475-ff2aab91aeee","components":[{"path":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"ulgjfhfg_4K_Albedo.jpg","nameOverride":"Albedo_4K__ulgjfhfg.jpg","colorSpace":"sRGB","physicalSize":"2x1"},{"resolution":"4K","type":"displacement","path":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Displacement.exr","format":"exr","name":"ulgjfhfg_4K_Displacement.exr","nameOverride":"Displacement_4K__ulgjfhfg.exr","colorSpace":"Linear","physicalSize":"2x1"},{"path":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Normal.jpg","type":"normal","resolution":"4K","format":"jpg","name":"ulgjfhfg_4K_Normal.jpg","nameOverride":"Normal_4K__ulgjfhfg.jpg","colorSpace":"Linear","physicalSize":"2x1"},{"resolution":"4K","type":"opacity","path":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Opacity.jpg","format":"jpg","name":"ulgjfhfg_4K_Opacity.jpg","nameOverride":"Opacity_4K__ulgjfhfg.jpg","colorSpace":"Linear","physicalSize":"2x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Roughness.jpg","format":"jpg","name":"ulgjfhfg_4K_Roughness.jpg","nameOverride":"Roughness_4K__ulgjfhfg.jpg","colorSpace":"Linear","physicalSize":"2x1"}],"meshList":[],"packedTextures":[],"lodList":[],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.55.13:547][912]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod0",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "atlas",
+	"type": "atlas",
+	"id": "ulgjfhfg",
+	"name": "Wooden Panel",
+	"path": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "",
+	"previewImage": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_Preview.png",
+	"averageColor": "#000000",
+	"tags": [
+		"decal",
+		"brown",
+		"interior",
+		"mansions",
+		"houses",
+		"homes",
+		"doors",
+		"windows",
+		"courtyards",
+		"sethi house",
+		"verandas",
+		"balconies",
+		"wooden",
+		"panel",
+		"polished",
+		"worn",
+		"ornate",
+		"decorative",
+		"dirty"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"atlas",
+		"decals",
+		"other"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Wooden Panel_ulgjfhfg",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "NormalObject",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "scanArea",
+			"name": "Scan Area",
+			"value": true
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		},
+		{
+			"key": "tileable",
+			"name": "Tileable",
+			"value": false
+		},
+		{
+			"key": "tiling_directions",
+			"name": "Tiling Directions",
+			"value": true
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "calibration",
+			"name": "Calibration",
+			"value": false
+		},
+		{
+			"key": "scanner",
+			"name": "Scanner",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "ulgjfhfg_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__ulgjfhfg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Albedo.jpg"
+		},
+		{
+			"format": "exr",
+			"type": "displacement",
+			"resolution": 4,
+			"name": "ulgjfhfg_4K_Displacement.exr",
+			"nameOverride": "Displacement_4K__ulgjfhfg.exr",
+			"path": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Displacement.exr"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "ulgjfhfg_4K_Normal.jpg",
+			"nameOverride": "Normal_4K__ulgjfhfg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Normal.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "opacity",
+			"resolution": 4,
+			"name": "ulgjfhfg_4K_Opacity.jpg",
+			"nameOverride": "Opacity_4K__ulgjfhfg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Opacity.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "ulgjfhfg_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__ulgjfhfg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\atlas\\decals_other_ulgjfhfg\\ulgjfhfg_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [],
+	"packedTextures": [],
+	"lodList": [],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.55.13:548][912]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.55.13:548][912]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.55.14:240][912]LogMaterial: Display: Missing cached shadermap for Decal_MasterMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D6F720056F79DA6DF55158049319AF06C3CD9627), compiling. 
+[2023.02.18-01.55.14:471][912]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.18-01.55.14:475][912]LogShaderCompilers: Display: Started 48 'Local' shader compile jobs with 'Low' priority
+[2023.02.18-01.55.14:531][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/atlas/decals_other_ulgjfhfg/ulgjfhfg_4K_Albedo.jpg)
+[2023.02.18-01.55.14:611][912]LogTexture: Display: Building textures: Albedo_4K_ulgjfhfg (OODLE_AutoDXT, 4096X2048)
+[2023.02.18-01.55.15:107][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.15:107][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.15:107][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.17:837][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/atlas/decals_other_ulgjfhfg/ulgjfhfg_4K_Displacement.exr)
+[2023.02.18-01.55.18:208][912]LogTexture: Display: Building textures: Displacement_4K_ulgjfhfg (RGBA16F, 4096X2048)
+[2023.02.18-01.55.18:901][912]LogTexture: Display: Building textures: Displacement_4K_ulgjfhfg (OODLE_BC4, 4096X2048)
+[2023.02.18-01.55.19:267][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.19:267][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.19:267][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.19:317][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/atlas/decals_other_ulgjfhfg/ulgjfhfg_4K_Normal.jpg)
+[2023.02.18-01.55.19:466][912]LogTexture: Display: Building textures: Normal_4K_ulgjfhfg (OODLE_BC5, 4096X2048)
+[2023.02.18-01.55.19:747][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.55.19:748][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.55.19:748][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.55.19:849][912]LogTexture: Display: Building textures: Normal_4K_ulgjfhfg (OODLE_BC5, 4096X2048)
+[2023.02.18-01.55.20:175][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.55.20:175][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.55.20:175][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.55.20:213][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/atlas/decals_other_ulgjfhfg/ulgjfhfg_4K_Opacity.jpg)
+[2023.02.18-01.55.20:245][912]LogTexture: Display: Building textures: Opacity_4K_ulgjfhfg (OODLE_AutoDXT, 4096X2048)
+[2023.02.18-01.55.20:508][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.20:508][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.20:508][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.20:525][912]LogTexture: Display: Building textures: Opacity_4K_ulgjfhfg (OODLE_BC4, 4096X2048)
+[2023.02.18-01.55.20:626][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.20:649][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/atlas/decals_other_ulgjfhfg/ulgjfhfg_4K_Roughness.jpg)
+[2023.02.18-01.55.20:706][912]LogTexture: Display: Building textures: Roughness_4K_ulgjfhfg (OODLE_AutoDXT, 4096X2048)
+[2023.02.18-01.55.21:162][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.21:162][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.21:162][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.55.21:197][912]LogTexture: Display: Building textures: Roughness_4K_ulgjfhfg (OODLE_BC4, 4096X2048)
+[2023.02.18-01.55.21:341][912]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.21:341][912]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.21:341][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.55.21:419][912]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.18-01.55.21:419][912]LogShaderCompilers: Display: Total job queries 148, among them cache hits 62 (41.89%)
+[2023.02.18-01.55.21:419][912]LogShaderCompilers: Display: Tracking 59 distinct input hashes that result in 47 distinct outputs (79.66%)
+[2023.02.18-01.55.21:419][912]LogShaderCompilers: Display: RAM used: 0.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.02.18-01.55.21:419][912]LogShaderCompilers: Display: ================================================
+[2023.02.18-01.55.21:454][912]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Wooden_Panel_ulgjfhfg_inst879C80C24F0EE69A6460F28C4EFA8EC4.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Wooden_Panel_ulgjfhfg_inst.uasset'
+[2023.02.18-01.55.21:683][913]AssetCheck: New page: Asset Save: Wooden_Panel_ulgjfhfg_inst
+[2023.02.18-01.55.21:683][913]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Wooden_Panel_ulgjfhfg_inst.Wooden_Panel_ulgjfhfg_inst
+[2023.02.18-01.55.25:024][170]LogMaterial: Display: Missing cached shadermap for Albedo_4K_ulgjfhfg_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0C1F604E488C5AD081B00EF08DF96210B351F571), compiling. 
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.18-01.55.25:071][171]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.18-01.55.25:472][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.18-01.55.25:472][179]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.18-01.55.25:568][185]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.18-01.55.25:568][185]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.18-01.55.32:235][960]Cmd: TRANSACTION UNDO
+[2023.02.18-01.55.32:235][960]LogEditorTransaction: Undo Create Actors
+[2023.02.18-01.55.32:317][960]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0A3E88B11E6492C390CF86B25B4E846FCFCCB9EF), compiling. 
+[2023.02.18-01.55.32:342][960]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.55.32:342][960]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.55.32:342][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.55.32:453][963]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.55.32:453][963]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.55.32:453][963]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.55.32:453][963]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.55.32:453][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.55.32:453][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.55.33:830][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_Wooden_Beam_LOD0_vkbfdekqx)
+[2023.02.18-01.55.36:393][379]Cmd: DELETE
+[2023.02.18-01.55.36:394][379]Cmd: ACTOR DELETE
+[2023.02.18-01.55.36:397][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.18-01.55.36:420][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.02.18-01.55.36:426][379]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.02.18-01.55.39:556][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.55.40:723][741]LogSlate: Window 'Save Content' being destroyed
+[2023.02.18-01.55.41:220][741]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_ulgjfhfgB00233454EAB8115B57983B5F9DB991A.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Albedo_4K_ulgjfhfg.uasset'
+[2023.02.18-01.55.41:473][741]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_ulgjfhfgA5F94DCC40E4344856C149840A3CA423.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Displacement_4K_ulgjfhfg.uasset'
+[2023.02.18-01.55.41:474][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.18-01.55.41:496][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.18-01.55.41:587][741]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Level17B5EC9674781989C69D1D9B949C47560.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap'
+[2023.02.18-01.55.41:594][741]LogFileHelpers: Saving map 'Level1' took 0.120
+[2023.02.18-01.55.42:210][741]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_ulgjfhfgBA96CB4140CFC1484D95CDBB6A9626E0.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Normal_4K_ulgjfhfg.uasset'
+[2023.02.18-01.55.42:296][741]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Opacity_4K_ulgjfhfgFB44230A47D73058C2EFAE84F60E4DAB.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Opacity_4K_ulgjfhfg.uasset'
+[2023.02.18-01.55.42:625][741]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_ulgjfhfgF3329F3846B8AF4EB9AC0E93BEC12337.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Roughness_4K_ulgjfhfg.uasset'
+[2023.02.18-01.55.42:644][741]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-01.55.42:644][741]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.02.18-01.55.42:644][741]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Roughness_4K_ulgjfhfg.Roughness_4K_ulgjfhfg
+[2023.02.18-01.55.42:644][741]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Opacity_4K_ulgjfhfg.Opacity_4K_ulgjfhfg
+[2023.02.18-01.55.42:644][741]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Normal_4K_ulgjfhfg.Normal_4K_ulgjfhfg
+[2023.02.18-01.55.42:644][741]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Displacement_4K_ulgjfhfg.Displacement_4K_ulgjfhfg
+[2023.02.18-01.55.42:644][741]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Albedo_4K_ulgjfhfg.Albedo_4K_ulgjfhfg
+[2023.02.18-01.55.43:425][810]LogActorFactory: Actor Factory created Cube
+[2023.02.18-01.55.44:176][900]LogActorFactory: Actor Factory created Cube
+[2023.02.18-01.56.06:057][355]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.18-01.56.12:740][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.02.18-01.56.17:223][678]LogEditorViewport: Clicking Background
+[2023.02.18-01.56.18:759][862]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.18-01.56.18:764][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.18-01.56.18:781][862]PIE: New page: PIE session: Level1 (Feb 18, 2023, 7:56:18 AM)
+[2023.02.18-01.56.18:818][862]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.02.18-01.56.18:837][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018921s)
+[2023.02.18-01.56.18:838][862]LogAIModule: Creating AISystem for world Level1
+[2023.02.18-01.56.18:838][862]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2023.02.18-01.56.18:838][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.020425s)
+[2023.02.18-01.56.18:862][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.02.18-01.56.18:865][862]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.18-01.56.18:865][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.18-01.56.18:865][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.18-01.56.18:865][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.18-01.56.18:865][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.18-01.56.18:865][862]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.18-01.56.18:923][862]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.18-01.56.18:923][862]LogAudioMixer: Display: 1: FrontRight
+[2023.02.18-01.56.18:933][862]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.18-01.56.18:933][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.18-01.56.18:933][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.18-01.56.18:933][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.18-01.56.18:934][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.18-01.56.18:934][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.18-01.56.18:934][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.18-01.56.18:935][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.18-01.56.18:935][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.18-01.56.18:935][862]LogInit: FAudioDevice initialized.
+[2023.02.18-01.56.18:935][862]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2023.02.18-01.56.18:943][862]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.02.18-01.56.18:947][862]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.02.18-04.56.18
+[2023.02.18-01.56.18:947][862]LogWorld: Bringing up level for play took: 0.003612
+[2023.02.18-01.56.18:947][862]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.02.18-01.56.18:949][862]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.18-01.56.18:949][862]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.18-01.56.18:949][862]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.18-01.56.18:953][862]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.18-01.56.18:953][862]PIE: Server logged in
+[2023.02.18-01.56.18:953][862]PIE: Play in editor total start time 0.19 seconds.
+[2023.02.18-01.56.19:210][890]Cmd: LevelEditor.ToggleImmersive
+[2023.02.18-01.56.23:010][337]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.02.18-01.56.36:448][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.18-01.56.36:448][945]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.02.18-01.56.36:448][945]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.18-01.56.36:449][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-01.56.36:466][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.18-01.56.36:472][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-01.56.36:493][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.18-01.56.36:493][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.18-01.56.36:494][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.18-01.56.36:496][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.18-01.56.36:501][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.02.18-01.56.36:518][946]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.02.18-01.56.37:332][951]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.18-01.56.38:781][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.02.18-01.56.40:570][307]Cmd: DELETE
+[2023.02.18-01.56.40:570][307]Cmd: ACTOR DELETE
+[2023.02.18-01.56.40:573][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.18-01.56.40:596][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.02.18-01.56.40:598][307]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.02.18-01.57.01:007][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.57.02:149][476]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.57.02:171][476]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Albedo_4K_ulgjfhfg_Mat.Albedo_4K_ulgjfhfg_Mat
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Roughness_4K_ulgjfhfg.Roughness_4K_ulgjfhfg
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Opacity_4K_ulgjfhfg.Opacity_4K_ulgjfhfg
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Normal_4K_ulgjfhfg.Normal_4K_ulgjfhfg
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Displacement_4K_ulgjfhfg.Displacement_4K_ulgjfhfg
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Albedo_4K_ulgjfhfg.Albedo_4K_ulgjfhfg
+	Asset Name: /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Wooden_Panel_ulgjfhfg_inst.Wooden_Panel_ulgjfhfg_inst
+[2023.02.18-01.57.02:546][476]LogMaterial: Display: Missing cached shadermap for Albedo_4K_ulgjfhfg_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 38BF71CC4FB82EDEEE02DF698D1FDCDC5997D67D), compiling. 
+[2023.02.18-01.57.02:547][476]LogMaterial: Warning: [AssetLog] /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Albedo_4K_ulgjfhfg_Mat.Albedo_4K_ulgjfhfg_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.18-01.57.02:547][476]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.18-01.57.02:547][476]LogMaterial: Display: Missing cached shadermap for Albedo_4K_ulgjfhfg_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 38BF71CC4FB82EDEEE02DF698D1FDCDC5997D67D), compiling. 
+[2023.02.18-01.57.02:548][476]LogMaterial: Warning: [AssetLog] /Game/Megascans/Atlases/Wooden_Panel_ulgjfhfg/Albedo_4K_ulgjfhfg_Mat.Albedo_4K_ulgjfhfg_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.18-01.57.02:548][476]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.18-01.57.02:762][476]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.02.18-01.57.05:245][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.18-01.57.05:269][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.18-01.57.05:290][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.18-01.57.05:311][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.57.05:331][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.57.05:352][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.57.05:373][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.18-01.57.05:394][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
