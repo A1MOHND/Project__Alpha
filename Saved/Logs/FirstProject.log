@@ -1689,3 +1689,1869 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.18-00.18.00:169][227]LogActorFactory: Actor Factory created Old_Wooden_Beam_LOD0_vkbfdekqx
 [2023.02.18-00.18.00:885][300]LogActorFactory: Actor Factory created Old_Wooden_Beam_LOD0_vkbfdekqx
 [2023.02.18-00.18.05:603][720]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.18-00.27.54:045][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.02.18-00.27.54:050][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Levels/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.18-00.27.54:137][538]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Level1_Auto16072EF444C50CEF1D5049C8B3B9EFEE0.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2023.02.18-00.27.54:138][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.167
+[2023.02.18-00.27.54:138][538]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.167
+[2023.02.18-01.24.35:535][433]LogTemp: Warning: Received Json : {"minLOD":"lod0","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"Floor","type":"surface","id":"wdipfjw","name":"Wooden Floor","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"","previewImage":"D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_Preview.png","averageColor":"#000000","tags":["brown","yellow","interiors","flooring","indoors","rural","houses","buildings","archviz","wood","planks","grout","smooth","plain","clean","shiny"],"activeLOD":"lod0","categories":["surface","wood","plank"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Wooden Floor_wdipfjw","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"scanArea","name":"Scan Area","value":"2x2 m"},{"key":"height","name":"Height","value":"0.004 m"},{"key":"tileable","name":"Tileable","value":true},{"key":"tiling_directions","name":"Tiling Directions","value":["x","y"]},{"key":"texelDensity","name":"Texel Density","value":"4096 px/m"},{"key":"calibration","name":"Calibration","value":"GretagMacbeth ColorChecker Color Rendition Chart"},{"key":"scanner","name":"Scanner","value":"MKX"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"d52adf04-3564-38fa-1d40-bd0797a9dae2","components":[{"path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"wdipfjw_4K_Albedo.jpg","nameOverride":"Albedo_4K__wdipfjw.jpg","colorSpace":"sRGB","physicalSize":"2x2"},{"resolution":"4K","type":"displacement","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Displacement.exr","format":"exr","name":"wdipfjw_4K_Displacement.exr","nameOverride":"Displacement_4K__wdipfjw.exr","colorSpace":"Linear","physicalSize":"2x2"},{"path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Normal.jpg","type":"normal","resolution":"4K","format":"jpg","name":"wdipfjw_4K_Normal.jpg","nameOverride":"Normal_4K__wdipfjw.jpg","colorSpace":"Linear","physicalSize":"2x2"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Roughness.jpg","format":"jpg","name":"wdipfjw_4K_Roughness.jpg","nameOverride":"Roughness_4K__wdipfjw.jpg","colorSpace":"Linear","physicalSize":"2x2"}],"meshList":[],"packedTextures":[],"lodList":[],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.24.35:590][433]LogJson: Warning: Ignoring excess properties when deserializing value
+[2023.02.18-01.24.35:591][433]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod0",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "Floor",
+	"type": "surface",
+	"id": "wdipfjw",
+	"name": "Wooden Floor",
+	"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "",
+	"previewImage": "D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_Preview.png",
+	"averageColor": "#000000",
+	"tags": [
+		"brown",
+		"yellow",
+		"interiors",
+		"flooring",
+		"indoors",
+		"rural",
+		"houses",
+		"buildings",
+		"archviz",
+		"wood",
+		"planks",
+		"grout",
+		"smooth",
+		"plain",
+		"clean",
+		"shiny"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"surface",
+		"wood",
+		"plank"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Wooden Floor_wdipfjw",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "scanArea",
+			"name": "Scan Area",
+			"value": true
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		},
+		{
+			"key": "tileable",
+			"name": "Tileable",
+			"value": true
+		},
+		{
+			"key": "tiling_directions",
+			"name": "Tiling Directions",
+			"value": false
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "calibration",
+			"name": "Calibration",
+			"value": false
+		},
+		{
+			"key": "scanner",
+			"name": "Scanner",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "wdipfjw_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__wdipfjw.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Albedo.jpg"
+		},
+		{
+			"format": "exr",
+			"type": "displacement",
+			"resolution": 4,
+			"name": "wdipfjw_4K_Displacement.exr",
+			"nameOverride": "Displacement_4K__wdipfjw.exr",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Displacement.exr"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "wdipfjw_4K_Normal.jpg",
+			"nameOverride": "Normal_4K__wdipfjw.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Normal.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "wdipfjw_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__wdipfjw.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_wdipfjw\\wdipfjw_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [],
+	"packedTextures": [],
+	"lodList": [],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.24.35:614][433]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.24.35:614][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.35:614][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.35:614][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.35:614][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.35:624][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.35:624][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.35:624][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.35:624][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.35:624][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.35:624][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.35:624][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.35:624][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.35:624][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.35:624][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.35:624][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.35:624][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.37:525][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_wdipfjw/wdipfjw_4K_Albedo.jpg)
+[2023.02.18-01.24.37:846][433]LogTexture: Display: Building textures: Albedo_4K_wdipfjw (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.24.39:028][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.39:028][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.39:028][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.39:469][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_wdipfjw/wdipfjw_4K_Displacement.exr)
+[2023.02.18-01.24.40:218][433]LogTexture: Display: Building textures: Displacement_4K_wdipfjw (RGBA16F, 4096X4096)
+[2023.02.18-01.24.41:161][433]LogTexture: Display: Building textures: Displacement_4K_wdipfjw (OODLE_BC4, 4096X4096)
+[2023.02.18-01.24.41:601][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.41:601][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.41:601][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.41:621][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_wdipfjw/wdipfjw_4K_Normal.jpg)
+[2023.02.18-01.24.41:748][433]LogTexture: Display: Building textures: Normal_4K_wdipfjw (OODLE_BC5, 4096X4096)
+[2023.02.18-01.24.42:057][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.42:057][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.42:057][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.42:143][433]LogTexture: Display: Building textures: Normal_4K_wdipfjw (OODLE_BC5, 4096X4096)
+[2023.02.18-01.24.42:462][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.42:462][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.42:462][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.42:492][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_wdipfjw/wdipfjw_4K_Roughness.jpg)
+[2023.02.18-01.24.42:622][433]LogTexture: Display: Building textures: Roughness_4K_wdipfjw (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.24.43:617][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.43:617][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.43:617][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.43:677][433]LogTexture: Display: Building textures: Roughness_4K_wdipfjw (OODLE_BC4, 4096X4096)
+[2023.02.18-01.24.44:035][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.44:035][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.44:035][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.44:081][433]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Wooden_Floor_wdipfjw_inst6102FA24493BE686C6FF4E9DE0F57715.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Wooden_Floor_wdipfjw/Wooden_Floor_wdipfjw_inst.uasset'
+[2023.02.18-01.24.44:241][433]LogTemp: Warning: Received Json : {"minLOD":"lod0","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"surface","type":"surface","id":"vigjfivg","name":"Old Plywood","path":"D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"","previewImage":"D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_Preview.png","averageColor":"#000000","tags":["brown","interiors","partition","panelling","homes","offices","construction","wood","board","panel","old","worn","wooden","rough","dirty"],"activeLOD":"lod0","categories":["surface","wood","board"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Old Plywood_vigjfivg","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"scanArea","name":"Scan Area","value":"1x1 m"},{"key":"height","name":"Height","value":"0.002 m"},{"key":"tileable","name":"Tileable","value":true},{"key":"tiling_directions","name":"Tiling Directions","value":["x","y"]},{"key":"texelDensity","name":"Texel Density","value":"8192 px/m"},{"key":"calibration","name":"Calibration","value":"GretagMacbeth ColorChecker Color Rendition Chart"},{"key":"scanner","name":"Scanner","value":"MKX"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"d8288c7c-d870-467f-5b7f-bbab1cca6d6d","components":[{"path":"D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"vigjfivg_4K_Albedo.jpg","nameOverride":"Albedo_4K__vigjfivg.jpg","colorSpace":"sRGB","physicalSize":"1x1"},{"resolution":"4K","type":"displacement","path":"D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Displacement.exr","format":"exr","name":"vigjfivg_4K_Displacement.exr","nameOverride":"Displacement_4K__vigjfivg.exr","colorSpace":"Linear","physicalSize":"1x1"},{"path":"D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Normal.jpg","type":"normal","resolution":"4K","format":"jpg","name":"vigjfivg_4K_Normal.jpg","nameOverride":"Normal_4K__vigjfivg.jpg","colorSpace":"Linear","physicalSize":"1x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Roughness.jpg","format":"jpg","name":"vigjfivg_4K_Roughness.jpg","nameOverride":"Roughness_4K__vigjfivg.jpg","colorSpace":"Linear","physicalSize":"1x1"}],"meshList":[],"packedTextures":[],"lodList":[],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.24.44:242][433]LogJson: Warning: Ignoring excess properties when deserializing value
+[2023.02.18-01.24.44:242][433]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod0",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "surface",
+	"type": "surface",
+	"id": "vigjfivg",
+	"name": "Old Plywood",
+	"path": "D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "",
+	"previewImage": "D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_Preview.png",
+	"averageColor": "#000000",
+	"tags": [
+		"brown",
+		"interiors",
+		"partition",
+		"panelling",
+		"homes",
+		"offices",
+		"construction",
+		"wood",
+		"board",
+		"panel",
+		"old",
+		"worn",
+		"wooden",
+		"rough",
+		"dirty"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"surface",
+		"wood",
+		"board"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Old Plywood_vigjfivg",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "scanArea",
+			"name": "Scan Area",
+			"value": true
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		},
+		{
+			"key": "tileable",
+			"name": "Tileable",
+			"value": true
+		},
+		{
+			"key": "tiling_directions",
+			"name": "Tiling Directions",
+			"value": false
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "calibration",
+			"name": "Calibration",
+			"value": false
+		},
+		{
+			"key": "scanner",
+			"name": "Scanner",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "vigjfivg_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__vigjfivg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Albedo.jpg"
+		},
+		{
+			"format": "exr",
+			"type": "displacement",
+			"resolution": 4,
+			"name": "vigjfivg_4K_Displacement.exr",
+			"nameOverride": "Displacement_4K__vigjfivg.exr",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Displacement.exr"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "vigjfivg_4K_Normal.jpg",
+			"nameOverride": "Normal_4K__vigjfivg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Normal.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "vigjfivg_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__vigjfivg.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_board_vigjfivg\\vigjfivg_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [],
+	"packedTextures": [],
+	"lodList": [],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.44:264][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.44:264][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.44:346][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_board_vigjfivg/vigjfivg_4K_Albedo.jpg)
+[2023.02.18-01.24.44:515][433]LogTexture: Display: Building textures: Albedo_4K_vigjfivg (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.24.45:524][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.45:524][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.45:524][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.45:952][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_board_vigjfivg/vigjfivg_4K_Displacement.exr)
+[2023.02.18-01.24.46:512][433]LogTexture: Display: Building textures: Displacement_4K_vigjfivg (RGBA16F, 4096X4096)
+[2023.02.18-01.24.47:459][433]LogTexture: Display: Building textures: Displacement_4K_vigjfivg (OODLE_BC4, 4096X4096)
+[2023.02.18-01.24.47:893][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.47:893][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.47:893][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.47:925][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_board_vigjfivg/vigjfivg_4K_Normal.jpg)
+[2023.02.18-01.24.48:073][433]LogTexture: Display: Building textures: Normal_4K_vigjfivg (OODLE_BC5, 4096X4096)
+[2023.02.18-01.24.48:426][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.48:426][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.48:426][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.48:509][433]LogTexture: Display: Building textures: Normal_4K_vigjfivg (OODLE_BC5, 4096X4096)
+[2023.02.18-01.24.48:881][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.48:881][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.48:881][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.48:903][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_board_vigjfivg/vigjfivg_4K_Roughness.jpg)
+[2023.02.18-01.24.49:003][433]LogTexture: Display: Building textures: Roughness_4K_vigjfivg (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.24.49:571][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.49:571][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.49:571][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.49:623][433]LogTexture: Display: Building textures: Roughness_4K_vigjfivg (OODLE_BC4, 4096X4096)
+[2023.02.18-01.24.49:903][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.49:903][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.49:903][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.49:961][433]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Old_Plywood_vigjfivg_instFA6E5E9B42F9CC9579A1EFAD7517EF1B.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/Old_Plywood_vigjfivg_inst.uasset'
+[2023.02.18-01.24.50:085][433]LogTemp: Warning: Received Json : {"minLOD":"lod0","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"Floor","type":"surface","id":"whnfbg3","name":"Worn Wooden Planks","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"","previewImage":"D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_Preview.png","averageColor":"#000000","tags":["brown","gray","orange","deck","flooring","cabin","homes","exteriors","floors","cottages","rural","farmhouses","archviz","houses","outdoors","nails","grouts","dirt","dust","floorboard","planks","wood","rough","dirty","stained","worn","weathered"],"activeLOD":"lod0","categories":["surface","wood","plank"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Worn Wooden Planks_whnfbg3","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"scanArea","name":"Scan Area","value":"2x2 m"},{"key":"height","name":"Height","value":"0.018 m"},{"key":"tileable","name":"Tileable","value":true},{"key":"tiling_directions","name":"Tiling Directions","value":["x","y"]},{"key":"texelDensity","name":"Texel Density","value":"4096 px/m"},{"key":"calibration","name":"Calibration","value":"GretagMacbeth ColorChecker Color Rendition Chart"},{"key":"scanner","name":"Scanner","value":"MKX"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"c1c3a637-d408-11ef-897a-babfc1a8c966","components":[{"path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"whnfbg3_4K_Albedo.jpg","nameOverride":"Albedo_4K__whnfbg3.jpg","colorSpace":"sRGB","physicalSize":"2x2"},{"resolution":"4K","type":"displacement","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Displacement.exr","format":"exr","name":"whnfbg3_4K_Displacement.exr","nameOverride":"Displacement_4K__whnfbg3.exr","colorSpace":"Linear","physicalSize":"2x2"},{"path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Normal.jpg","type":"normal","resolution":"4K","format":"jpg","name":"whnfbg3_4K_Normal.jpg","nameOverride":"Normal_4K__whnfbg3.jpg","colorSpace":"Linear","physicalSize":"2x2"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Roughness.jpg","format":"jpg","name":"whnfbg3_4K_Roughness.jpg","nameOverride":"Roughness_4K__whnfbg3.jpg","colorSpace":"Linear","physicalSize":"2x2"}],"meshList":[],"packedTextures":[],"lodList":[],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.24.50:085][433]LogJson: Warning: Ignoring excess properties when deserializing value
+[2023.02.18-01.24.50:085][433]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod0",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "Floor",
+	"type": "surface",
+	"id": "whnfbg3",
+	"name": "Worn Wooden Planks",
+	"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "",
+	"previewImage": "D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_Preview.png",
+	"averageColor": "#000000",
+	"tags": [
+		"brown",
+		"gray",
+		"orange",
+		"deck",
+		"flooring",
+		"cabin",
+		"homes",
+		"exteriors",
+		"floors",
+		"cottages",
+		"rural",
+		"farmhouses",
+		"archviz",
+		"houses",
+		"outdoors",
+		"nails",
+		"grouts",
+		"dirt",
+		"dust",
+		"floorboard",
+		"planks",
+		"wood",
+		"rough",
+		"dirty",
+		"stained",
+		"worn",
+		"weathered"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"surface",
+		"wood",
+		"plank"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Worn Wooden Planks_whnfbg3",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "scanArea",
+			"name": "Scan Area",
+			"value": true
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		},
+		{
+			"key": "tileable",
+			"name": "Tileable",
+			"value": true
+		},
+		{
+			"key": "tiling_directions",
+			"name": "Tiling Directions",
+			"value": false
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "calibration",
+			"name": "Calibration",
+			"value": false
+		},
+		{
+			"key": "scanner",
+			"name": "Scanner",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "whnfbg3_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__whnfbg3.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Albedo.jpg"
+		},
+		{
+			"format": "exr",
+			"type": "displacement",
+			"resolution": 4,
+			"name": "whnfbg3_4K_Displacement.exr",
+			"nameOverride": "Displacement_4K__whnfbg3.exr",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Displacement.exr"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "whnfbg3_4K_Normal.jpg",
+			"nameOverride": "Normal_4K__whnfbg3.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Normal.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "whnfbg3_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__whnfbg3.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_whnfbg3\\whnfbg3_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [],
+	"packedTextures": [],
+	"lodList": [],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.24.50:086][433]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.24.50:086][433]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.24.50:133][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_whnfbg3/whnfbg3_4K_Albedo.jpg)
+[2023.02.18-01.24.50:310][433]LogTexture: Display: Building textures: Albedo_4K_whnfbg3 (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.24.51:346][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.51:346][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.51:346][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.51:770][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_whnfbg3/whnfbg3_4K_Displacement.exr)
+[2023.02.18-01.24.52:331][433]LogTexture: Display: Building textures: Displacement_4K_whnfbg3 (RGBA16F, 4096X4096)
+[2023.02.18-01.24.53:308][433]LogTexture: Display: Building textures: Displacement_4K_whnfbg3 (OODLE_BC4, 4096X4096)
+[2023.02.18-01.24.53:762][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.53:762][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.53:762][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.53:820][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_whnfbg3/whnfbg3_4K_Normal.jpg)
+[2023.02.18-01.24.54:091][433]LogTexture: Display: Building textures: Normal_4K_whnfbg3 (OODLE_BC5, 4096X4096)
+[2023.02.18-01.24.54:509][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.54:509][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.54:509][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.54:591][433]LogTexture: Display: Building textures: Normal_4K_whnfbg3 (OODLE_BC5, 4096X4096)
+[2023.02.18-01.24.55:041][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.55:041][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.55:041][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.24.55:077][433]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_whnfbg3/whnfbg3_4K_Roughness.jpg)
+[2023.02.18-01.24.55:223][433]LogTexture: Display: Building textures: Roughness_4K_whnfbg3 (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.24.56:199][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.56:199][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.56:199][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.24.56:258][433]LogTexture: Display: Building textures: Roughness_4K_whnfbg3 (OODLE_BC4, 4096X4096)
+[2023.02.18-01.24.56:576][433]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.56:576][433]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.56:576][433]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.24.56:627][433]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Worn_Wooden_Planks_whnfbg3_instA83EEDEB4B9F0AA3A948D193F6523B2D.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Worn_Wooden_Planks_whnfbg3_inst.uasset'
+[2023.02.18-01.24.56:771][434]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-01.24.56:771][434]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Worn_Wooden_Planks_whnfbg3_inst.Worn_Wooden_Planks_whnfbg3_inst
+[2023.02.18-01.24.56:771][434]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Old_Plywood_vigjfivg_inst.Old_Plywood_vigjfivg_inst
+[2023.02.18-01.24.56:771][434]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Wooden_Floor_wdipfjw_inst.Wooden_Floor_wdipfjw_inst
+[2023.02.18-01.24.59:936][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.02.18-01.24.59:943][747]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.167
+[2023.02.18-01.24.59:944][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw] ([1] browsable assets)...
+[2023.02.18-01.24.59:948][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw.Albedo_4K_wdipfjw]
+[2023.02.18-01.24.59:948][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw]
+[2023.02.18-01.25.00:558][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_wdipfjw_Auto203BFC12F40877CDCF2A3BD848604855C.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw_Auto2.uasset'
+[2023.02.18-01.25.00:558][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw] ([1] browsable assets)...
+[2023.02.18-01.25.00:562][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw.Displacement_4K_wdipfjw]
+[2023.02.18-01.25.00:562][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw]
+[2023.02.18-01.25.01:423][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_wdipfjw_Auto2318E5E364638921A3D2E9BB2010735DF.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw_Auto2.uasset'
+[2023.02.18-01.25.01:424][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw] ([1] browsable assets)...
+[2023.02.18-01.25.01:498][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw.Normal_4K_wdipfjw]
+[2023.02.18-01.25.01:498][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw]
+[2023.02.18-01.25.01:927][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_wdipfjw_Auto25F99EAE646DD8AF34BA61ABB2DDBB866.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw_Auto2.uasset'
+[2023.02.18-01.25.01:928][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw] ([1] browsable assets)...
+[2023.02.18-01.25.01:934][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw.Roughness_4K_wdipfjw]
+[2023.02.18-01.25.01:934][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw]
+[2023.02.18-01.25.02:356][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_wdipfjw_Auto2D7C3061C404826C9CF689B93E41450B0.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw_Auto2.uasset'
+[2023.02.18-01.25.02:356][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Albedo_4K_vigjfivg] ([1] browsable assets)...
+[2023.02.18-01.25.02:361][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Albedo_4K_vigjfivg.Albedo_4K_vigjfivg]
+[2023.02.18-01.25.02:361][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Albedo_4K_vigjfivg]
+[2023.02.18-01.25.02:827][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_vigjfivg_Auto21B4C5DD6469DB3D734A183808FC63847.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Albedo_4K_vigjfivg_Auto2.uasset'
+[2023.02.18-01.25.02:827][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Displacement_4K_vigjfivg] ([1] browsable assets)...
+[2023.02.18-01.25.02:831][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Displacement_4K_vigjfivg.Displacement_4K_vigjfivg]
+[2023.02.18-01.25.02:831][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Displacement_4K_vigjfivg]
+[2023.02.18-01.25.03:673][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_vigjfivg_Auto2AB76467F4A5FF8EB291618B3D6472DB4.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Displacement_4K_vigjfivg_Auto2.uasset'
+[2023.02.18-01.25.03:674][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Normal_4K_vigjfivg] ([1] browsable assets)...
+[2023.02.18-01.25.03:678][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Normal_4K_vigjfivg.Normal_4K_vigjfivg]
+[2023.02.18-01.25.03:678][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Normal_4K_vigjfivg]
+[2023.02.18-01.25.04:073][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_vigjfivg_Auto234AF336145A82689A84EA094A42589A7.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Normal_4K_vigjfivg_Auto2.uasset'
+[2023.02.18-01.25.04:073][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Roughness_4K_vigjfivg] ([1] browsable assets)...
+[2023.02.18-01.25.04:078][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Roughness_4K_vigjfivg.Roughness_4K_vigjfivg]
+[2023.02.18-01.25.04:078][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Roughness_4K_vigjfivg]
+[2023.02.18-01.25.04:506][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_vigjfivg_Auto2FCE8308C4323AC0AA9120C9F0FB319A1.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Roughness_4K_vigjfivg_Auto2.uasset'
+[2023.02.18-01.25.04:506][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3] ([1] browsable assets)...
+[2023.02.18-01.25.04:511][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3.Albedo_4K_whnfbg3]
+[2023.02.18-01.25.04:511][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3]
+[2023.02.18-01.25.04:921][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_whnfbg3_Auto287A97BB045AB1E475BEBFC94CE0ADE4D.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3_Auto2.uasset'
+[2023.02.18-01.25.04:921][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3] ([1] browsable assets)...
+[2023.02.18-01.25.04:925][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3.Displacement_4K_whnfbg3]
+[2023.02.18-01.25.04:925][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3]
+[2023.02.18-01.25.05:786][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_whnfbg3_Auto28AC406AB4398EC7782EF1BA070485E41.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3_Auto2.uasset'
+[2023.02.18-01.25.05:786][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3] ([1] browsable assets)...
+[2023.02.18-01.25.05:791][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3.Normal_4K_whnfbg3]
+[2023.02.18-01.25.05:791][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3]
+[2023.02.18-01.25.06:205][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_whnfbg3_Auto2B18E83C14122F636ED7059B77A18CD65.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3_Auto2.uasset'
+[2023.02.18-01.25.06:205][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3] ([1] browsable assets)...
+[2023.02.18-01.25.06:210][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3.Roughness_4K_whnfbg3]
+[2023.02.18-01.25.06:210][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3]
+[2023.02.18-01.25.06:589][747]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_whnfbg3_Auto243C6257F42FC26D6E507AB92DD862A65.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3_Auto2.uasset'
+[2023.02.18-01.25.06:589][747]LogFileHelpers: Auto-saving content packages took 6.646
+[2023.02.18-01.25.10:042][ 86]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.02.18-01.25.10:593][110]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.02.18-01.25.11:271][177]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.02.18-01.25.15:027][573]LogEditorViewport: Clicking Background
+[2023.02.18-01.25.16:448][742]Cmd: TRANSACTION UNDO
+[2023.02.18-01.25.16:461][742]LogEditorTransaction: Undo Pilot Actor
+[2023.02.18-01.25.16:704][742]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AE15A94FD3645C1FE8AE37A39726A4E8C386A0EB), compiling. 
+[2023.02.18-01.25.16:845][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.25.16:845][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.16:845][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.16:930][744]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.18-01.25.16:930][744]LogShaderCompilers: Display: Total job queries 50, among them cache hits 12 (24.00%)
+[2023.02.18-01.25.16:930][744]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 14 distinct outputs (77.78%)
+[2023.02.18-01.25.16:930][744]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.02.18-01.25.16:930][744]LogShaderCompilers: Display: ================================================
+[2023.02.18-01.25.16:956][745]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.25.16:956][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.25.16:956][745]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.25.16:956][745]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.25.16:956][745]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.16:956][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.21:259][142]LogEditorViewport: Clicking Background
+[2023.02.18-01.25.26:252][687]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.18-01.25.45:906][717]Cmd: CAMERA SNAP
+[2023.02.18-01.25.45:906][717]Snapped camera to the first selected object.
+[2023.02.18-01.25.51:157][338]Cmd: TRANSACTION UNDO
+[2023.02.18-01.25.51:157][338]LogEditorTransaction: Undo Pilot Actor
+[2023.02.18-01.25.51:247][338]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 04F83FD4267BA3FB917228DF4D82686939D15FD7), compiling. 
+[2023.02.18-01.25.51:273][338]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.25.51:273][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.51:273][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.51:388][341]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.25.51:388][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.25.51:388][341]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.25.51:388][341]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.25.51:388][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.51:388][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.51:671][349]Cmd: TRANSACTION UNDO
+[2023.02.18-01.25.51:671][349]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.18-01.25.51:765][349]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 45BE3034FD09D0F03859A3B7D41BA625C0420288), compiling. 
+[2023.02.18-01.25.51:787][349]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.25.51:787][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.51:787][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.51:849][352]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.25.51:849][352]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.25.51:849][352]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.25.51:849][352]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.25.51:849][352]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.51:849][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.52:255][388]Cmd: TRANSACTION UNDO
+[2023.02.18-01.25.52:255][388]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.18-01.25.52:338][388]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8DBD3D5106E54DAF098931238D1F29413AD772F3), compiling. 
+[2023.02.18-01.25.52:361][388]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.25.52:361][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.52:361][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.52:392][391]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.25.52:392][391]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.25.52:392][391]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.25.52:392][391]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.25.52:392][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.52:392][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.52:767][436]Cmd: TRANSACTION UNDO
+[2023.02.18-01.25.52:767][436]LogEditorTransaction: Undo Clicking on Actors
+[2023.02.18-01.25.52:842][436]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1489BF54C50536D46FA79567523C8B9015853D57), compiling. 
+[2023.02.18-01.25.52:864][436]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.25.52:864][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.52:864][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.52:890][439]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.25.52:890][439]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.25.52:890][439]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.25.52:890][439]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.25.52:890][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.52:890][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.53:423][503]Cmd: TRANSACTION UNDO
+[2023.02.18-01.25.53:423][503]LogEditorTransaction: Undo Pilot Actor
+[2023.02.18-01.25.53:525][503]LogMaterial: Display: Missing cached shadermap for Albedo_4K_vkbfdekqx_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AC2037F31187435FE0E612AAB28F8FAD65B122E0), compiling. 
+[2023.02.18-01.25.53:554][503]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.18-01.25.53:554][503]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.53:554][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.53:599][506]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.18-01.25.53:599][506]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.18-01.25.53:599][506]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.18-01.25.53:599][506]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.18-01.25.53:599][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.18-01.25.53:599][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-01.25.58:901][103]LogActorFactory: Actor Factory created Cube
+[2023.02.18-01.25.59:506][170]LogActorFactory: Actor Factory created Cube
+[2023.02.18-01.26.13:039][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.02.18-01.26.14:061][605]LogSlate: Window 'Save Content' being destroyed
+[2023.02.18-01.26.15:164][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_vigjfivgC3B42EC34A619B6D952A6684238EC270.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/Albedo_4K_vigjfivg.uasset'
+[2023.02.18-01.26.16:228][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_wdipfjw99534B1649ECC715082CA1834F05519C.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw.uasset'
+[2023.02.18-01.26.17:300][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Albedo_4K_whnfbg3CFC8710E4387E09BB52CA599770E53B4.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3.uasset'
+[2023.02.18-01.26.17:708][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_vigjfivgE8CE6ED040B9584D684ABA9EA19D7C02.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/Displacement_4K_vigjfivg.uasset'
+[2023.02.18-01.26.18:216][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_wdipfjw746C9846406C00A9B05EDC8DA6C96196.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw.uasset'
+[2023.02.18-01.26.18:683][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Displacement_4K_whnfbg3D1DE22E8479D9C0CA1A47E8C3F272A46.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3.uasset'
+[2023.02.18-01.26.18:684][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.18-01.26.18:705][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.26.18:795][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Level1FAC963234F15CDC43BC9BD9226C1FDC3.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap'
+[2023.02.18-01.26.18:803][605]LogFileHelpers: Saving map 'Level1' took 0.119
+[2023.02.18-01.26.19:845][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_vigjfivgF697222140A877D2411021B59BBCEEE2.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/Normal_4K_vigjfivg.uasset'
+[2023.02.18-01.26.20:749][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_wdipfjwF3428F6342F891488991A99F12CD5798.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw.uasset'
+[2023.02.18-01.26.22:060][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Normal_4K_whnfbg35E923A5640F3483032A1499F8EC24F4D.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3.uasset'
+[2023.02.18-01.26.22:614][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_vigjfivgF2585B2F40A1619B7F3DC3BBB9AB07EB.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Old_Plywood_vigjfivg/Roughness_4K_vigjfivg.uasset'
+[2023.02.18-01.26.23:302][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_wdipfjw38BF773A46C26AD8D0E40082EBB99C62.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw.uasset'
+[2023.02.18-01.26.24:005][605]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Roughness_4K_whnfbg3B21FAE91448756A2E82DCC84CB788DE0.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3.uasset'
+[2023.02.18-01.26.24:026][605]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3.Roughness_4K_whnfbg3
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3.Normal_4K_whnfbg3
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3.Displacement_4K_whnfbg3
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3.Albedo_4K_whnfbg3
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Roughness_4K_vigjfivg.Roughness_4K_vigjfivg
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Normal_4K_vigjfivg.Normal_4K_vigjfivg
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Displacement_4K_vigjfivg.Displacement_4K_vigjfivg
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Old_Plywood_vigjfivg/Albedo_4K_vigjfivg.Albedo_4K_vigjfivg
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw.Roughness_4K_wdipfjw
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw.Normal_4K_wdipfjw
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw.Displacement_4K_wdipfjw
+[2023.02.18-01.26.24:026][605]LogContentValidation: Display: Validating Texture2D /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw.Albedo_4K_wdipfjw
+[2023.02.18-01.26.38:013][ 46]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.18-01.26.51:521][527]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2023.02.18-01.26.52:445][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.02.18-01.27.10:865][602]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2023.02.18-01.27.11:653][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.02.18-01.27.12:564][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.02.18-01.27.17:279][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.02.18-01.28.41:047][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.18-01.28.42:467][681]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.28.42:523][681]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Roughness_4K_wdipfjw.Roughness_4K_wdipfjw
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Normal_4K_wdipfjw.Normal_4K_wdipfjw
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Displacement_4K_wdipfjw.Displacement_4K_wdipfjw
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Albedo_4K_wdipfjw.Albedo_4K_wdipfjw
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/Wooden_Floor_wdipfjw_inst.Wooden_Floor_wdipfjw_inst
+[2023.02.18-01.28.55:423][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.02.18-01.28.55:459][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.28.55:481][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.28.55:503][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.28.55:523][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.28.55:546][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.02.18-01.28.55:569][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.18-01.31.00:321][910]LogTemp: Warning: Received Json : {"minLOD":"lod5","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"3d","type":"3d","id":"vkbgbaj","name":"Old Wooden Beam","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"application/x-fbx","previewImage":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_Preview.png","averageColor":"#604E40","tags":["brown","construction","rural","countryside","villages","houses","rafter","partner_content","wood","beam","worn","old","rough","dull","weathered"],"activeLOD":"lod0","categories":["3d","building","beam"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Old Wooden Beam_vkbgbaj","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","normalobject":"NormalObject","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"assembly","name":"Assembly","value":"false"},{"key":"small3dasset","name":"Small3dAsset","value":"false"},{"key":"color","name":"Color","value":"Brown"},{"key":"points","name":"Points","value":4},{"key":"texelDensity","name":"Texel Density","value":"5 px/m"},{"key":"splitSubmeshes","name":"Split Submeshes","value":true},{"key":"isScaleFixed","name":"Is scale fixed","value":"true"},{"value":"3.77m","name":"Length","key":"length"},{"value":"0.43m","name":"Width","key":"width"},{"value":"0.42m","name":"Height","key":"height"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"dfbae656-39b7-3e41-e91f-5974e2a352b5","components":[{"path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"vkbgbaj_4K_Albedo.jpg","nameOverride":"Albedo_4K__vkbgbaj.jpg","colorSpace":"sRGB","physicalSize":"1x1"},{"path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_4K_Normal_LOD0.jpg","type":"normal","resolution":"4K","format":"jpg","name":"vkbgbaj_4K_Normal_LOD0.jpg","nameOverride":"Normal_4K_LOD0_vkbgbaj.jpg","colorSpace":"Linear","physicalSize":"1x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_4K_Roughness.jpg","format":"jpg","name":"vkbgbaj_4K_Roughness.jpg","nameOverride":"Roughness_4K__vkbgbaj.jpg","colorSpace":"Linear","physicalSize":"1x1"}],"meshList":[{"path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD0.fbx","type":"model","resolution":"4K","format":"fbx","name":"vkbgbaj_LOD0.fbx","nameOverride":"Old Wooden Beam_LOD0__vkbgbaj.fbx"}],"packedTextures":[],"lodList":[{"lod":"lod0","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD0.fbx","name":"vkbgbaj_LOD0.fbx","nameOverride":"Old Wooden Beam_LOD0__vkbgbaj.fbx","lodObjectName":"undefined__LOD0_vkbgbaj","format":".fbx","type":"model"},{"lod":"lod2","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD2.fbx","name":"vkbgbaj_LOD2.fbx","nameOverride":"Old Wooden Beam_LOD2__vkbgbaj.fbx","lodObjectName":"undefined__LOD2_vkbgbaj","format":".fbx","type":"model"},{"lod":"lod4","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD4.fbx","name":"vkbgbaj_LOD4.fbx","nameOverride":"Old Wooden Beam_LOD4__vkbgbaj.fbx","lodObjectName":"undefined__LOD4_vkbgbaj","format":".fbx","type":"model"}],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.31.00:322][910]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod5",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "3d",
+	"type": "3d",
+	"id": "vkbgbaj",
+	"name": "Old Wooden Beam",
+	"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "application/x-fbx",
+	"previewImage": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_Preview.png",
+	"averageColor": "#604E40",
+	"tags": [
+		"brown",
+		"construction",
+		"rural",
+		"countryside",
+		"villages",
+		"houses",
+		"rafter",
+		"partner_content",
+		"wood",
+		"beam",
+		"worn",
+		"old",
+		"rough",
+		"dull",
+		"weathered"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"3d",
+		"building",
+		"beam"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Old Wooden Beam_vkbgbaj",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "NormalObject",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "assembly",
+			"name": "Assembly",
+			"value": false
+		},
+		{
+			"key": "small3dasset",
+			"name": "Small3dAsset",
+			"value": false
+		},
+		{
+			"key": "color",
+			"name": "Color",
+			"value": false
+		},
+		{
+			"key": "points",
+			"name": "Points",
+			"value": true
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "splitSubmeshes",
+			"name": "Split Submeshes",
+			"value": true
+		},
+		{
+			"key": "isScaleFixed",
+			"name": "Is scale fixed",
+			"value": true
+		},
+		{
+			"key": "length",
+			"name": "Length",
+			"value": true
+		},
+		{
+			"key": "width",
+			"name": "Width",
+			"value": false
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "vkbgbaj_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__vkbgbaj.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_4K_Albedo.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "vkbgbaj_4K_Normal_LOD0.jpg",
+			"nameOverride": "Normal_4K_LOD0_vkbgbaj.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_4K_Normal_LOD0.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "vkbgbaj_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__vkbgbaj.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [
+		{
+			"format": "fbx",
+			"type": "model",
+			"resolution": 4,
+			"name": "vkbgbaj_LOD0.fbx",
+			"nameOverride": "Old Wooden Beam_LOD0__vkbgbaj.fbx",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD0.fbx"
+		}
+	],
+	"packedTextures": [],
+	"lodList": [
+		{
+			"lod": "lod0",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD0.fbx",
+			"name": "vkbgbaj_LOD0.fbx",
+			"nameOverride": "Old Wooden Beam_LOD0__vkbgbaj.fbx",
+			"lodObjectName": "undefined__LOD0_vkbgbaj",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod2",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD2.fbx",
+			"name": "vkbgbaj_LOD2.fbx",
+			"nameOverride": "Old Wooden Beam_LOD2__vkbgbaj.fbx",
+			"lodObjectName": "undefined__LOD2_vkbgbaj",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod4",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_vkbgbaj\\vkbgbaj_LOD4.fbx",
+			"name": "vkbgbaj_LOD4.fbx",
+			"nameOverride": "Old Wooden Beam_LOD4__vkbgbaj.fbx",
+			"lodObjectName": "undefined__LOD4_vkbgbaj",
+			"format": ".fbx",
+			"type": "model"
+		}
+	],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.31.00:322][910]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.31.00:322][910]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.31.00:322][910]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.31.00:322][910]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.31.00:322][910]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.31.00:322][910]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.31.00:322][910]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.31.00:373][910]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_vkbgbaj/vkbgbaj_4K_Albedo.jpg)
+[2023.02.18-01.31.00:529][910]LogTexture: Display: Building textures: Albedo_4K_vkbgbaj (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.31.01:425][910]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.31.01:425][910]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.31.01:425][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.31.01:517][910]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_vkbgbaj/vkbgbaj_4K_Normal_LOD0.jpg)
+[2023.02.18-01.31.01:757][910]LogTexture: Display: Building textures: Normal_4K_LOD0_vkbgbaj (OODLE_BC5, 4096X4096)
+[2023.02.18-01.31.02:134][910]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.31.02:134][910]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.31.02:134][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.31.02:216][910]LogTexture: Display: Building textures: Normal_4K_LOD0_vkbgbaj (OODLE_BC5, 4096X4096)
+[2023.02.18-01.31.02:640][910]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.31.02:641][910]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.31.02:641][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.31.02:666][910]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_vkbgbaj/vkbgbaj_4K_Roughness.jpg)
+[2023.02.18-01.31.02:776][910]LogTexture: Display: Building textures: Roughness_4K_vkbgbaj (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.31.03:303][910]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.31.03:303][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.31.03:303][910]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.31.03:361][910]LogTexture: Display: Building textures: Roughness_4K_vkbgbaj (OODLE_BC4, 4096X4096)
+[2023.02.18-01.31.03:646][910]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.31.03:646][910]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.31.03:646][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.31.03:712][910]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Old_Wooden_Beam_vkbgbaj_instD52A14E541F5FDE12FAB918ABCFBF91B.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_vkbgbaj_inst.uasset'
+[2023.02.18-01.31.03:816][910]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_vkbgbaj/vkbgbaj_LOD0.fbx)
+[2023.02.18-01.31.04:426][910]LogFbx: Loading FBX Scene from D:/Bridge/Downloaded/3d/building_beam_vkbgbaj/vkbgbaj_LOD0.fbx
+[2023.02.18-01.31.04:545][910]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.31.04:932][910]LogStaticMesh: Building static mesh Old_Wooden_Beam_LOD0_vkbgbaj...
+[2023.02.18-01.31.05:151][910]LogStaticMesh: Built static mesh [0.22s] /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_LOD0_vkbgbaj.Old_Wooden_Beam_LOD0_vkbgbaj
+[2023.02.18-01.31.05:317][910]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.31.05:546][910]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-01.31.05:719][910]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\building_beam_vkbgbaj\vkbgbaj_LOD2.fbx
+[2023.02.18-01.31.05:725][910]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.31.05:868][910]LogStaticMesh: Building static mesh Old_Wooden_Beam_LOD0_vkbgbaj...
+[2023.02.18-01.31.05:947][910]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_LOD0_vkbgbaj.Old_Wooden_Beam_LOD0_vkbgbaj
+[2023.02.18-01.31.05:990][910]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.31.05:992][910]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-01.31.06:214][910]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\building_beam_vkbgbaj\vkbgbaj_LOD4.fbx
+[2023.02.18-01.31.06:218][910]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.31.06:556][910]LogStaticMesh: Building static mesh Old_Wooden_Beam_LOD0_vkbgbaj...
+[2023.02.18-01.31.06:636][910]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_LOD0_vkbgbaj.Old_Wooden_Beam_LOD0_vkbgbaj
+[2023.02.18-01.31.06:681][910]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.31.06:958][911]AssetCheck: New page: Asset Save: Old_Wooden_Beam_vkbgbaj_inst
+[2023.02.18-01.31.06:958][911]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_vkbgbaj_inst.Old_Wooden_Beam_vkbgbaj_inst
+[2023.02.18-01.31.09:895][196]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-01.31.09:898][196]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-01.31.35:348][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.18-01.31.36:436][723]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.31.36:491][723]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Roughness_4K_vkbgbaj.Roughness_4K_vkbgbaj
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Albedo_4K_vkbgbaj.Albedo_4K_vkbgbaj
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Normal_4K_LOD0_vkbgbaj.Normal_4K_LOD0_vkbgbaj
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_LOD0_vkbgbaj.Old_Wooden_Beam_LOD0_vkbgbaj
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_vkbgbaj/Old_Wooden_Beam_vkbgbaj_inst.Old_Wooden_Beam_vkbgbaj_inst
+[2023.02.18-01.31.37:013][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.18-01.31.37:040][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.18-01.31.37:062][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.18-01.34.53:748][629]LogTemp: Warning: Received Json : {"minLOD":"lod0","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"surface","type":"surface","id":"vjisagn","name":"Wooden Planks","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"","previewImage":"D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_Preview.png","averageColor":"#000000","tags":["brown","gray","orange","cabin","homes","exteriors","cottages","rural","farmhouses","archviz","houses","outdoors","roofs","walls","planks","wood","rough","stained","worn","old","dull","weathered"],"activeLOD":"lod0","categories":["surface","wood","plank"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Wooden Planks_vjisagn","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"scanArea","name":"Scan Area","value":"2x1 m"},{"key":"height","name":"Height","value":"0.005 m"},{"key":"tileable","name":"Tileable","value":true},{"key":"tiling_directions","name":"Tiling Directions","value":["x","y"]},{"key":"texelDensity","name":"Texel Density","value":"4096 px/m"},{"key":"calibration","name":"Calibration","value":"GretagMacbeth ColorChecker Color Rendition Chart"},{"key":"scanner","name":"Scanner","value":"MKX"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"ebd365aa-163c-d8cb-97cd-4fe678560b4d","components":[{"path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"vjisagn_4K_Albedo.jpg","nameOverride":"Albedo_4K__vjisagn.jpg","colorSpace":"sRGB","physicalSize":"2x1"},{"resolution":"4K","type":"displacement","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Displacement.exr","format":"exr","name":"vjisagn_4K_Displacement.exr","nameOverride":"Displacement_4K__vjisagn.exr","colorSpace":"Linear","physicalSize":"2x1"},{"path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Normal.jpg","type":"normal","resolution":"4K","format":"jpg","name":"vjisagn_4K_Normal.jpg","nameOverride":"Normal_4K__vjisagn.jpg","colorSpace":"Linear","physicalSize":"2x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Roughness.jpg","format":"jpg","name":"vjisagn_4K_Roughness.jpg","nameOverride":"Roughness_4K__vjisagn.jpg","colorSpace":"Linear","physicalSize":"2x1"}],"meshList":[],"packedTextures":[],"lodList":[],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.34.53:748][629]LogJson: Warning: Ignoring excess properties when deserializing value
+[2023.02.18-01.34.53:749][629]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod0",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "surface",
+	"type": "surface",
+	"id": "vjisagn",
+	"name": "Wooden Planks",
+	"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "",
+	"previewImage": "D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_Preview.png",
+	"averageColor": "#000000",
+	"tags": [
+		"brown",
+		"gray",
+		"orange",
+		"cabin",
+		"homes",
+		"exteriors",
+		"cottages",
+		"rural",
+		"farmhouses",
+		"archviz",
+		"houses",
+		"outdoors",
+		"roofs",
+		"walls",
+		"planks",
+		"wood",
+		"rough",
+		"stained",
+		"worn",
+		"old",
+		"dull",
+		"weathered"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"surface",
+		"wood",
+		"plank"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Wooden Planks_vjisagn",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "NormalObject",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "scanArea",
+			"name": "Scan Area",
+			"value": true
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		},
+		{
+			"key": "tileable",
+			"name": "Tileable",
+			"value": true
+		},
+		{
+			"key": "tiling_directions",
+			"name": "Tiling Directions",
+			"value": false
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "calibration",
+			"name": "Calibration",
+			"value": false
+		},
+		{
+			"key": "scanner",
+			"name": "Scanner",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "vjisagn_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__vjisagn.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Albedo.jpg"
+		},
+		{
+			"format": "exr",
+			"type": "displacement",
+			"resolution": 4,
+			"name": "vjisagn_4K_Displacement.exr",
+			"nameOverride": "Displacement_4K__vjisagn.exr",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Displacement.exr"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "vjisagn_4K_Normal.jpg",
+			"nameOverride": "Normal_4K__vjisagn.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Normal.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "vjisagn_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__vjisagn.jpg",
+			"path": "D:\\Bridge\\Downloaded\\surface\\wood_plank_vjisagn\\vjisagn_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [],
+	"packedTextures": [],
+	"lodList": [],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.53:749][629]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.53:749][629]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.53:783][629]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_vjisagn/vjisagn_4K_Albedo.jpg)
+[2023.02.18-01.34.53:882][629]LogTexture: Display: Building textures: Albedo_4K_vjisagn (OODLE_AutoDXT, 4096X2048)
+[2023.02.18-01.34.54:442][629]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.34.54:442][629]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.34.54:442][629]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.34.54:545][629]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_vjisagn/vjisagn_4K_Displacement.exr)
+[2023.02.18-01.34.54:861][629]LogTexture: Display: Building textures: Displacement_4K_vjisagn (RGBA16F, 4096X2048)
+[2023.02.18-01.34.55:367][629]LogTexture: Display: Building textures: Displacement_4K_vjisagn (OODLE_BC4, 4096X2048)
+[2023.02.18-01.34.55:572][629]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.34.55:572][629]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.34.55:572][629]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.34.55:610][629]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_vjisagn/vjisagn_4K_Normal.jpg)
+[2023.02.18-01.34.55:742][629]LogTexture: Display: Building textures: Normal_4K_vjisagn (OODLE_BC5, 4096X2048)
+[2023.02.18-01.34.55:931][629]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.34.55:931][629]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.34.55:931][629]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.34.56:006][629]LogTexture: Display: Building textures: Normal_4K_vjisagn (OODLE_BC5, 4096X2048)
+[2023.02.18-01.34.56:205][629]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.34.56:205][629]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.34.56:205][629]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.34.56:266][629]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/surface/wood_plank_vjisagn/vjisagn_4K_Roughness.jpg)
+[2023.02.18-01.34.56:331][629]LogTexture: Display: Building textures: Roughness_4K_vjisagn (OODLE_AutoDXT, 4096X2048)
+[2023.02.18-01.34.56:831][629]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.34.56:831][629]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.34.56:831][629]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.34.56:871][629]LogTexture: Display: Building textures: Roughness_4K_vjisagn (OODLE_BC4, 4096X2048)
+[2023.02.18-01.34.57:016][629]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.34.57:016][629]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.34.57:016][629]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.34.57:083][629]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Wooden_Planks_vjisagn_instB7D4266B4DD82DEDB572AFBE821C98FD.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/Surfaces/Wooden_Planks_vjisagn/Wooden_Planks_vjisagn_inst.uasset'
+[2023.02.18-01.34.57:224][630]AssetCheck: New page: Asset Save: Wooden_Planks_vjisagn_inst
+[2023.02.18-01.34.57:224][630]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/Wooden_Planks_vjisagn_inst.Wooden_Planks_vjisagn_inst
+[2023.02.18-01.34.59:890][638]LogTemp: Warning: Received Json : {"minLOD":"lod5","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"3d","type":"3d","id":"wggnei1","name":"Old Wooden Beam","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"application/x-fbx","previewImage":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_Preview.png","averageColor":"#5E4E42","tags":["brown","construction","rural","countryside","villages","houses","rafter","partner_content","wood","beam","worn","old","rough","dull","weathered"],"activeLOD":"lod0","categories":["3d","building","beam"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Old Wooden Beam_wggnei1","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","normalobject":"NormalObject","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"assembly","name":"Assembly","value":"false"},{"key":"small3dasset","name":"Small3dAsset","value":"false"},{"key":"color","name":"Color","value":"Brown"},{"key":"points","name":"Points","value":4},{"key":"texelDensity","name":"Texel Density","value":"175 px/m"},{"key":"splitSubmeshes","name":"Split Submeshes","value":true},{"key":"isScaleFixed","name":"Is scale fixed","value":"true"},{"value":"1.08m","name":"Length","key":"length"},{"value":"0.15m","name":"Width","key":"width"},{"value":"0.13m","name":"Height","key":"height"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"a660eaf5-7c1c-4c3b-60b3-668ff6efd54e","components":[{"path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"wggnei1_4K_Albedo.jpg","nameOverride":"Albedo_4K__wggnei1.jpg","colorSpace":"sRGB","physicalSize":"1x1"},{"path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_4K_Normal_LOD0.jpg","type":"normal","resolution":"4K","format":"jpg","name":"wggnei1_4K_Normal_LOD0.jpg","nameOverride":"Normal_4K_LOD0_wggnei1.jpg","colorSpace":"Linear","physicalSize":"1x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_4K_Roughness.jpg","format":"jpg","name":"wggnei1_4K_Roughness.jpg","nameOverride":"Roughness_4K__wggnei1.jpg","colorSpace":"Linear","physicalSize":"1x1"}],"meshList":[{"path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD0.fbx","type":"model","resolution":"4K","format":"fbx","name":"wggnei1_LOD0.fbx","nameOverride":"Old Wooden Beam_LOD0__wggnei1.fbx"}],"packedTextures":[],"lodList":[{"lod":"lod0","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD0.fbx","name":"wggnei1_LOD0.fbx","nameOverride":"Old Wooden Beam_LOD0__wggnei1.fbx","lodObjectName":"undefined__LOD0_wggnei1","format":".fbx","type":"model"},{"lod":"lod2","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD2.fbx","name":"wggnei1_LOD2.fbx","nameOverride":"Old Wooden Beam_LOD2__wggnei1.fbx","lodObjectName":"undefined__LOD2_wggnei1","format":".fbx","type":"model"},{"lod":"lod4","path":"D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD4.fbx","name":"wggnei1_LOD4.fbx","nameOverride":"Old Wooden Beam_LOD4__wggnei1.fbx","lodObjectName":"undefined__LOD4_wggnei1","format":".fbx","type":"model"}],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.34.59:891][638]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod5",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "3d",
+	"type": "3d",
+	"id": "wggnei1",
+	"name": "Old Wooden Beam",
+	"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "application/x-fbx",
+	"previewImage": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_Preview.png",
+	"averageColor": "#5E4E42",
+	"tags": [
+		"brown",
+		"construction",
+		"rural",
+		"countryside",
+		"villages",
+		"houses",
+		"rafter",
+		"partner_content",
+		"wood",
+		"beam",
+		"worn",
+		"old",
+		"rough",
+		"dull",
+		"weathered"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"3d",
+		"building",
+		"beam"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Old Wooden Beam_wggnei1",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "NormalObject",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "assembly",
+			"name": "Assembly",
+			"value": false
+		},
+		{
+			"key": "small3dasset",
+			"name": "Small3dAsset",
+			"value": false
+		},
+		{
+			"key": "color",
+			"name": "Color",
+			"value": false
+		},
+		{
+			"key": "points",
+			"name": "Points",
+			"value": true
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "splitSubmeshes",
+			"name": "Split Submeshes",
+			"value": true
+		},
+		{
+			"key": "isScaleFixed",
+			"name": "Is scale fixed",
+			"value": true
+		},
+		{
+			"key": "length",
+			"name": "Length",
+			"value": true
+		},
+		{
+			"key": "width",
+			"name": "Width",
+			"value": false
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "wggnei1_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__wggnei1.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_4K_Albedo.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "wggnei1_4K_Normal_LOD0.jpg",
+			"nameOverride": "Normal_4K_LOD0_wggnei1.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_4K_Normal_LOD0.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "wggnei1_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__wggnei1.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [
+		{
+			"format": "fbx",
+			"type": "model",
+			"resolution": 4,
+			"name": "wggnei1_LOD0.fbx",
+			"nameOverride": "Old Wooden Beam_LOD0__wggnei1.fbx",
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD0.fbx"
+		}
+	],
+	"packedTextures": [],
+	"lodList": [
+		{
+			"lod": "lod0",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD0.fbx",
+			"name": "wggnei1_LOD0.fbx",
+			"nameOverride": "Old Wooden Beam_LOD0__wggnei1.fbx",
+			"lodObjectName": "undefined__LOD0_wggnei1",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod2",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD2.fbx",
+			"name": "wggnei1_LOD2.fbx",
+			"nameOverride": "Old Wooden Beam_LOD2__wggnei1.fbx",
+			"lodObjectName": "undefined__LOD2_wggnei1",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod4",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\building_beam_wggnei1\\wggnei1_LOD4.fbx",
+			"name": "wggnei1_LOD4.fbx",
+			"nameOverride": "Old Wooden Beam_LOD4__wggnei1.fbx",
+			"lodObjectName": "undefined__LOD4_wggnei1",
+			"format": ".fbx",
+			"type": "model"
+		}
+	],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.34.59:891][638]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.59:891][638]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.59:891][638]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.59:891][638]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.59:891][638]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.34.59:891][638]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.34.59:891][638]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.34.59:927][638]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_wggnei1/wggnei1_4K_Albedo.jpg)
+[2023.02.18-01.35.00:093][638]LogTexture: Display: Building textures: Albedo_4K_wggnei1 (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.35.01:092][638]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.35.01:092][638]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.35.01:092][638]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.35.01:193][638]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_wggnei1/wggnei1_4K_Normal_LOD0.jpg)
+[2023.02.18-01.35.01:440][638]LogTexture: Display: Building textures: Normal_4K_LOD0_wggnei1 (OODLE_BC5, 4096X4096)
+[2023.02.18-01.35.01:829][638]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.35.01:829][638]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.35.01:829][638]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.35.01:904][638]LogTexture: Display: Building textures: Normal_4K_LOD0_wggnei1 (OODLE_BC5, 4096X4096)
+[2023.02.18-01.35.02:331][638]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.35.02:331][638]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.35.02:331][638]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.35.02:362][638]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_wggnei1/wggnei1_4K_Roughness.jpg)
+[2023.02.18-01.35.02:473][638]LogTexture: Display: Building textures: Roughness_4K_wggnei1 (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.35.03:030][638]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.35.03:030][638]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.35.03:030][638]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.35.03:092][638]LogTexture: Display: Building textures: Roughness_4K_wggnei1 (OODLE_BC4, 4096X4096)
+[2023.02.18-01.35.03:374][638]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.35.03:374][638]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.35.03:374][638]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.35.03:423][638]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Old_Wooden_Beam_wggnei1_inst2289998C404B3F85CD5762BA6B776F30.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_wggnei1_inst.uasset'
+[2023.02.18-01.35.03:561][638]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Bridge/Downloaded/3d/building_beam_wggnei1/wggnei1_LOD0.fbx)
+[2023.02.18-01.35.03:572][638]LogFbx: Loading FBX Scene from D:/Bridge/Downloaded/3d/building_beam_wggnei1/wggnei1_LOD0.fbx
+[2023.02.18-01.35.03:583][638]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.35.03:650][638]LogStaticMesh: Building static mesh Old_Wooden_Beam_LOD0_wggnei1...
+[2023.02.18-01.35.03:712][638]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_LOD0_wggnei1.Old_Wooden_Beam_LOD0_wggnei1
+[2023.02.18-01.35.03:730][638]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.35.03:885][638]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-01.35.04:025][638]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\building_beam_wggnei1\wggnei1_LOD2.fbx
+[2023.02.18-01.35.04:031][638]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.35.04:146][638]LogStaticMesh: Building static mesh Old_Wooden_Beam_LOD0_wggnei1...
+[2023.02.18-01.35.04:222][638]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_LOD0_wggnei1.Old_Wooden_Beam_LOD0_wggnei1
+[2023.02.18-01.35.04:263][638]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.35.04:264][638]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-01.35.04:471][638]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\building_beam_wggnei1\wggnei1_LOD4.fbx
+[2023.02.18-01.35.04:476][638]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.35.04:766][638]LogStaticMesh: Building static mesh Old_Wooden_Beam_LOD0_wggnei1...
+[2023.02.18-01.35.04:844][638]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_LOD0_wggnei1.Old_Wooden_Beam_LOD0_wggnei1
+[2023.02.18-01.35.04:918][638]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.35.05:131][639]AssetCheck: New page: Asset Save: Old_Wooden_Beam_wggnei1_inst
+[2023.02.18-01.35.05:132][639]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_wggnei1_inst.Old_Wooden_Beam_wggnei1_inst
+[2023.02.18-01.35.07:004][823]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-01.35.07:007][823]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-01.35.28:072][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.02.18-01.35.29:135][ 30]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.35.29:191][ 30]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_LOD0_wggnei1.Old_Wooden_Beam_LOD0_wggnei1
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Roughness_4K_wggnei1.Roughness_4K_wggnei1
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Normal_4K_LOD0_wggnei1.Normal_4K_LOD0_wggnei1
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Albedo_4K_wggnei1.Albedo_4K_wggnei1
+	Asset Name: /Game/Megascans/3D_Assets/Old_Wooden_Beam_wggnei1/Old_Wooden_Beam_wggnei1_inst.Old_Wooden_Beam_wggnei1_inst
+[2023.02.18-01.35.29:710][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.18-01.35.29:737][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.18-01.35.29:758][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.18-01.36.03:497][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.02.18-01.36.05:830][847]LogEditorViewport: Clicking on Actor (LMB): ChekPoint_C (ChekPoint)
+[2023.02.18-01.36.25:781][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.36.26:780][178]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.36.26:834][178]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Roughness_4K_whnfbg3.Roughness_4K_whnfbg3
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Normal_4K_whnfbg3.Normal_4K_whnfbg3
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Displacement_4K_whnfbg3.Displacement_4K_whnfbg3
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Albedo_4K_whnfbg3.Albedo_4K_whnfbg3
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/Worn_Wooden_Planks_whnfbg3_inst.Worn_Wooden_Planks_whnfbg3_inst
+[2023.02.18-01.36.27:436][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.02.18-01.36.27:459][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.36.27:480][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.18-01.36.27:500][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.27:521][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.27:544][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.18-01.36.27:564][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.18-01.36.38:022][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.18-01.36.40:585][109]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.36.40:640][109]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/Normal_4K_vjisagn.Normal_4K_vjisagn
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/Displacement_4K_vjisagn.Displacement_4K_vjisagn
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/Albedo_4K_vjisagn.Albedo_4K_vjisagn
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/Roughness_4K_vjisagn.Roughness_4K_vjisagn
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/Wooden_Planks_vjisagn_inst.Wooden_Planks_vjisagn_inst
+[2023.02.18-01.36.41:120][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.02.18-01.36.41:152][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.18-01.36.41:173][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.54:499][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.36.56:010][454]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.18-01.36.56:164][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.18-01.36.56:185][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.56:206][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.56:227][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.56:253][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.36.56:274][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.18-01.37.43:980][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.18-01.37.43:983][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Levels/Level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.18-01.37.44:072][372]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Level1_Auto3CDECB8664D092505C7DC469DF933A0AB.tmp' to '../../../../GitHubProjects/Project__Alpha/Saved/Autosaves/Game/Levels/Level1_Auto3.umap'
+[2023.02.18-01.37.44:073][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.114
+[2023.02.18-01.37.44:073][372]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2023.02.18-01.44.06:142][671]LogTemp: Warning: Received Json : {"minLOD":"lod5","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"3d","type":"3d","id":"vevjfb3qx","name":"Japanese Wooden Lamp","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"application/x-fbx","previewImage":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_Preview.png","averageColor":"#864F34","tags":["brown","green","white","orange","japan","village","countryside","road sides","streets","alleys","rural","box","door","wood","roof","paint","lamp","worn","weathered","painted","japanese","decorative","old"],"activeLOD":"lod0","categories":["3d","Props","Wood"],"isExternal":false,"exportPath":"","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Japanese Wooden Lamp_vevjfb3qx","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","emission":"Emission","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","normalobject":"NormalObject","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"assembly","name":"Assembly","value":"false"},{"key":"small3dasset","name":"Small3dAsset","value":"false"},{"key":"color","name":"Color","value":"Brown"},{"key":"points","name":"Points","value":4},{"key":"texelDensity","name":"Texel Density","value":"4 px/m"},{"key":"splitSubmeshes","name":"Split Submeshes","value":true},{"key":"isScaleFixed","name":"Is scale fixed","value":"true"},{"value":"0.79m","name":"Length","key":"length"},{"value":"0.75m","name":"Width","key":"width"},{"value":"2.11m","name":"Height","key":"height"}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"8f342f10-c7af-5879-2a62-9b19aab95dfa","components":[{"path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"vevjfb3qx_4K_Albedo.jpg","nameOverride":"Albedo_4K__vevjfb3qx.jpg","colorSpace":"sRGB","physicalSize":"1x1"},{"path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Normal_LOD0.jpg","type":"normal","resolution":"4K","format":"jpg","name":"vevjfb3qx_4K_Normal_LOD0.jpg","nameOverride":"Normal_4K_LOD0_vevjfb3qx.jpg","colorSpace":"Linear","physicalSize":"1x1"},{"resolution":"4K","type":"roughness","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Roughness.jpg","format":"jpg","name":"vevjfb3qx_4K_Roughness.jpg","nameOverride":"Roughness_4K__vevjfb3qx.jpg","colorSpace":"Linear","physicalSize":"1x1"}],"meshList":[{"path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx","type":"model","resolution":"4K","format":"fbx","name":"vevjfb3qx_LOD0.fbx","nameOverride":"Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx"}],"packedTextures":[],"lodList":[{"lod":"lod0","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx","name":"vevjfb3qx_LOD0.fbx","nameOverride":"Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx","lodObjectName":"undefined__LOD0_vevjfb3qx","format":".fbx","type":"model"},{"lod":"lod2","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD2.fbx","name":"vevjfb3qx_LOD2.fbx","nameOverride":"Japanese Wooden Lamp_LOD2__vevjfb3qx.fbx","lodObjectName":"undefined__LOD2_vevjfb3qx","format":".fbx","type":"model"},{"lod":"lod4","path":"D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD4.fbx","name":"vevjfb3qx_LOD4.fbx","nameOverride":"Japanese Wooden Lamp_LOD4__vevjfb3qx.fbx","lodObjectName":"undefined__LOD4_vevjfb3qx","format":".fbx","type":"model"}],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2023.02.18-01.44.06:143][671]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod5",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "3d",
+	"type": "3d",
+	"id": "vevjfb3qx",
+	"name": "Japanese Wooden Lamp",
+	"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "application/x-fbx",
+	"previewImage": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_Preview.png",
+	"averageColor": "#864F34",
+	"tags": [
+		"brown",
+		"green",
+		"white",
+		"orange",
+		"japan",
+		"village",
+		"countryside",
+		"road sides",
+		"streets",
+		"alleys",
+		"rural",
+		"box",
+		"door",
+		"wood",
+		"roof",
+		"paint",
+		"lamp",
+		"worn",
+		"weathered",
+		"painted",
+		"japanese",
+		"decorative",
+		"old"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"3d",
+		"Props",
+		"Wood"
+	],
+	"isExternal": false,
+	"exportPath": "",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Japanese Wooden Lamp_vevjfb3qx",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "NormalObject",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "assembly",
+			"name": "Assembly",
+			"value": false
+		},
+		{
+			"key": "small3dasset",
+			"name": "Small3dAsset",
+			"value": false
+		},
+		{
+			"key": "color",
+			"name": "Color",
+			"value": false
+		},
+		{
+			"key": "points",
+			"name": "Points",
+			"value": true
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": true
+		},
+		{
+			"key": "splitSubmeshes",
+			"name": "Split Submeshes",
+			"value": true
+		},
+		{
+			"key": "isScaleFixed",
+			"name": "Is scale fixed",
+			"value": true
+		},
+		{
+			"key": "length",
+			"name": "Length",
+			"value": false
+		},
+		{
+			"key": "width",
+			"name": "Width",
+			"value": false
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": true
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "vevjfb3qx_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__vevjfb3qx.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Albedo.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "vevjfb3qx_4K_Normal_LOD0.jpg",
+			"nameOverride": "Normal_4K_LOD0_vevjfb3qx.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Normal_LOD0.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "vevjfb3qx_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__vevjfb3qx.jpg",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [
+		{
+			"format": "fbx",
+			"type": "model",
+			"resolution": 4,
+			"name": "vevjfb3qx_LOD0.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx",
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx"
+		}
+	],
+	"packedTextures": [],
+	"lodList": [
+		{
+			"lod": "lod0",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD0.fbx",
+			"name": "vevjfb3qx_LOD0.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD0__vevjfb3qx.fbx",
+			"lodObjectName": "undefined__LOD0_vevjfb3qx",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod2",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD2.fbx",
+			"name": "vevjfb3qx_LOD2.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD2__vevjfb3qx.fbx",
+			"lodObjectName": "undefined__LOD2_vevjfb3qx",
+			"format": ".fbx",
+			"type": "model"
+		},
+		{
+			"lod": "lod4",
+			"variation": 0,
+			"path": "D:\\Bridge\\Downloaded\\3d\\Props_Wood_vevjfb3qx\\vevjfb3qx_LOD4.fbx",
+			"name": "vevjfb3qx_LOD4.fbx",
+			"nameOverride": "Japanese Wooden Lamp_LOD4__vevjfb3qx.fbx",
+			"lodObjectName": "undefined__LOD4_vevjfb3qx",
+			"format": ".fbx",
+			"type": "model"
+		}
+	],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2023.02.18-01.44.06:143][671]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.44.06:143][671]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.44.06:143][671]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.44.06:143][671]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.44.06:143][671]LogJson: Warning: Field uvChannel was not found.
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2023.02.18-01.44.06:143][671]LogJson: Warning: Field textureSets was not found.
+[2023.02.18-01.44.06:143][671]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2023.02.18-01.44.06:175][671]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_4K_Albedo.jpg)
+[2023.02.18-01.44.06:343][671]LogTexture: Display: Building textures: Albedo_4K_vevjfb3qx (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.44.07:251][671]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.44.07:251][671]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.44.07:251][671]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.44.07:343][671]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_4K_Normal_LOD0.jpg)
+[2023.02.18-01.44.07:609][671]LogTexture: Display: Building textures: Normal_4K_LOD0_vevjfb3qx (OODLE_BC5, 4096X4096)
+[2023.02.18-01.44.07:997][671]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.44.07:997][671]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.44.07:997][671]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.44.08:082][671]LogTexture: Display: Building textures: Normal_4K_LOD0_vevjfb3qx (OODLE_BC5, 4096X4096)
+[2023.02.18-01.44.08:502][671]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.44.08:502][671]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.44.08:502][671]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.18-01.44.08:532][671]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_4K_Roughness.jpg)
+[2023.02.18-01.44.08:654][671]LogTexture: Display: Building textures: Roughness_4K_vevjfb3qx (OODLE_AutoDXT, 4096X4096)
+[2023.02.18-01.44.09:440][671]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.44.09:440][671]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.44.09:440][671]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.18-01.44.09:501][671]LogTexture: Display: Building textures: Roughness_4K_vevjfb3qx (OODLE_BC4, 4096X4096)
+[2023.02.18-01.44.09:860][671]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.44.09:861][671]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.44.09:861][671]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2023.02.18-01.44.09:938][671]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Japanese_Wooden_Lamp_vevjfb3qx_i70FD6AFE433B758B801C0F9BDDF3A16F.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_vevjfb3qx_inst.uasset'
+[2023.02.18-01.44.09:984][671]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_LOD0.fbx)
+[2023.02.18-01.44.09:991][671]LogFbx: Loading FBX Scene from D:/Bridge/Downloaded/3d/Props_Wood_vevjfb3qx/vevjfb3qx_LOD0.fbx
+[2023.02.18-01.44.10:002][671]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.44.10:058][671]LogStaticMesh: Building static mesh Japanese_Wooden_Lamp_LOD0_vevjfb3qx...
+[2023.02.18-01.44.10:189][671]LogStaticMesh: Built static mesh [0.13s] /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-01.44.10:230][671]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.44.10:439][671]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-01.44.10:475][671]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\Props_Wood_vevjfb3qx\vevjfb3qx_LOD2.fbx
+[2023.02.18-01.44.10:482][671]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.44.10:539][671]LogStaticMesh: Building static mesh Japanese_Wooden_Lamp_LOD0_vevjfb3qx...
+[2023.02.18-01.44.10:717][671]LogStaticMesh: Built static mesh [0.18s] /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-01.44.10:804][671]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.44.10:804][671]LogExportMeshUtils: Fbx LOD loading
+[2023.02.18-01.44.10:988][671]LogFbx: Loading FBX Scene from D:\Bridge\Downloaded\3d\Props_Wood_vevjfb3qx\vevjfb3qx_LOD4.fbx
+[2023.02.18-01.44.10:993][671]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.18-01.44.11:265][671]LogStaticMesh: Building static mesh Japanese_Wooden_Lamp_LOD0_vevjfb3qx...
+[2023.02.18-01.44.11:482][671]LogStaticMesh: Built static mesh [0.22s] /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_LOD0_vevjfb3qx.Japanese_Wooden_Lamp_LOD0_vevjfb3qx
+[2023.02.18-01.44.11:568][671]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.18-01.44.11:846][672]AssetCheck: New page: Asset Save: Japanese_Wooden_Lamp_vevjfb3qx_inst
+[2023.02.18-01.44.11:846][672]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Japanese_Wooden_Lamp_vevjfb3qx/Japanese_Wooden_Lamp_vevjfb3qx_inst.Japanese_Wooden_Lamp_vevjfb3qx_inst
