@@ -1614,3 +1614,17 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.19-21.16.34:743][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.02.19-21.16.34:752][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
 [2023.02.19-21.16.34:768][392]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.19-21.16.54:921][747]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.02.19-21.16.56:448][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.02.19-21.16.57:227][925]LogSlate: Window 'Save Content' being destroyed
+[2023.02.19-21.16.57:258][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.19-21.16.57:299][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.19-21.16.57:393][925]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/Level10181A414458A6D903A5F13A176E9B98B.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/Levels/Level1.umap'
+[2023.02.19-21.16.57:401][925]LogFileHelpers: Saving map 'Level1' took 0.143
+[2023.02.19-21.16.57:430][925]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/SM_ColumnBlade80BA33BA4F505304BD24BEAF0776FCFC.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TrapPack/TrapsBluePrint/SM_ColumnBlade/SM_ColumnBlade.uasset'
+[2023.02.19-21.16.57:439][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheCharecter/Blueprints/TheCharecter" FILE="../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset" SILENT=true
+[2023.02.19-21.16.57:652][925]LogSavePackage: Moving '../../../../GitHubProjects/Project__Alpha/Saved/TheCharecter03E9DE194591FE65636CC8B5AEE9CD6B.tmp' to '../../../../GitHubProjects/Project__Alpha/Content/TheCharecter/Blueprints/TheCharecter.uasset'
+[2023.02.19-21.16.57:663][925]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.19-21.16.57:663][925]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
+[2023.02.19-21.16.57:663][925]LogContentValidation: Display: Validating Blueprint /Game/TrapPack/TrapsBluePrint/SM_ColumnBlade/SM_ColumnBlade.SM_ColumnBlade
+[2023.02.19-21.16.57:663][925]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
