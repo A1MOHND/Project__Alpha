@@ -1533,3 +1533,741 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.03.01-04.33.07:404][986]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.01-04.33.07:404][986]LogContentValidation: Display: Validating Blueprint /Game/TheCharecter/Blueprints/TheCharecter.TheCharecter
 [2023.03.01-04.33.07:404][986]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.01-04.33.29:522][206]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.33.30:597][333]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.33.31:160][400]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.01-04.33.31:166][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-04.33.31:166][400]PIE: New page: PIE session: Level1 (Mar 1, 2023, 10:33:31 AM)
+[2023.03.01-04.33.31:197][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.31:212][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014478s)
+[2023.03.01-04.33.31:213][400]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.33.31:213][400]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.03.01-04.33.31:213][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015856s)
+[2023.03.01-04.33.31:243][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.03.01-04.33.31:246][400]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-04.33.31:246][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-04.33.31:246][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-04.33.31:246][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-04.33.31:246][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-04.33.31:246][400]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-04.33.31:248][400]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-04.33.31:248][400]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-04.33.31:254][400]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.03.01-04.33.31:254][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-04.33.31:254][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-04.33.31:254][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-04.33.31:254][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-04.33.31:255][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-04.33.31:255][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-04.33.31:256][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-04.33.31:256][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-04.33.31:256][400]LogInit: FAudioDevice initialized.
+[2023.03.01-04.33.31:256][400]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.03.01-04.33.31:265][400]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.33.31:267][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.33.31
+[2023.03.01-04.33.31:267][400]LogWorld: Bringing up level for play took: 0.001287
+[2023.03.01-04.33.31:267][400]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.01-04.33.31:268][400]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.31:268][400]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.31:268][400]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.31:270][400]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.31:270][400]PIE: Server logged in
+[2023.03.01-04.33.31:270][400]PIE: Play in editor total start time 0.106 seconds.
+[2023.03.01-04.33.31:605][438]Cmd: LevelEditor.ToggleImmersive
+[2023.03.01-04.33.34:265][748]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.33.39:658][395]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.33.39:658][395]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.33.39:658][395]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.33.39:666][396]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.33.39:666][396]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.33.39:666][396]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.33.39:666][396]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.39:666][396]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.33.39:667][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.33.39:724][396]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.33.39:728][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.01-04.33.39:732][396]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.39:746][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014306s)
+[2023.03.01-04.33.39:747][396]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.33.39:747][396]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2023.03.01-04.33.39:747][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015473s)
+[2023.03.01-04.33.39:747][396]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.03.01-04.33.39:747][396]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.33.39:748][396]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.33.39
+[2023.03.01-04.33.39:749][396]LogWorld: Bringing up level for play took: 0.000712
+[2023.03.01-04.33.39:749][396]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.39:749][396]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.39:749][396]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.39:751][396]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.39:751][396]LogLoad: Took 0.084678 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.33.41:742][632]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.33.47:133][279]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.33.47:133][279]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.33.47:133][279]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.33.47:141][280]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.33.47:141][280]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.33.47:141][280]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.33.47:141][280]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.47:142][280]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.33.47:142][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.33.47:193][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.33.47:198][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.03.01-04.33.47:200][280]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.47:215][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014333s)
+[2023.03.01-04.33.47:216][280]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.33.47:216][280]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2023.03.01-04.33.47:216][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015472s)
+[2023.03.01-04.33.47:216][280]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.03.01-04.33.47:216][280]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.33.47:217][280]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.33.47
+[2023.03.01-04.33.47:217][280]LogWorld: Bringing up level for play took: 0.000721
+[2023.03.01-04.33.47:218][280]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.47:218][280]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.47:218][280]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.47:219][280]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.47:219][280]LogLoad: Took 0.077992 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.33.51:100][743]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.33.56:492][390]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.33.56:492][390]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.33.56:492][390]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.33.56:500][391]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.33.56:500][391]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.33.56:500][391]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.33.56:500][391]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.56:500][391]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.33.56:501][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.33.56:553][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.33.56:557][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.03.01-04.33.56:559][391]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.33.56:574][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014292s)
+[2023.03.01-04.33.56:575][391]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.33.56:575][391]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2023.03.01-04.33.56:575][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015429s)
+[2023.03.01-04.33.56:575][391]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.03.01-04.33.56:575][391]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.33.56:576][391]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.33.56
+[2023.03.01-04.33.56:576][391]LogWorld: Bringing up level for play took: 0.000709
+[2023.03.01-04.33.56:577][391]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.56:577][391]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.33.56:577][391]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.56:578][391]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.33.56:578][391]LogLoad: Took 0.078359 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.33.58:526][622]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.34.01:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.34.01:718][  0]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.34.01:718][  0]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.34.01:719][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.34.01:738][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-04.34.01:751][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.34.01:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.34.01:778][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.34.01:779][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.34.01:785][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.03.01-04.34.01:802][  1]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.01-04.34.02:241][ 52]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.34.57:532][771]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.01-04.35.31:500][196]BlueprintLog: New page: Compile TheCharecter
+[2023.03.01-04.35.31:625][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.03.01-04.35.32:919][302]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.35.33:475][367]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.01-04.35.33:481][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-04.35.33:481][367]PIE: New page: PIE session: Level1 (Mar 1, 2023, 10:35:33 AM)
+[2023.03.01-04.35.33:504][367]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.35.33:518][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014647s)
+[2023.03.01-04.35.33:520][367]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.35.33:520][367]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2023.03.01-04.35.33:520][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.016045s)
+[2023.03.01-04.35.33:552][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.03.01-04.35.33:554][367]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-04.35.33:554][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-04.35.33:554][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-04.35.33:554][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-04.35.33:554][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-04.35.33:554][367]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-04.35.33:556][367]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-04.35.33:556][367]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-04.35.33:562][367]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.03.01-04.35.33:562][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-04.35.33:562][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-04.35.33:562][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-04.35.33:562][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-04.35.33:562][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-04.35.33:562][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-04.35.33:564][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-04.35.33:564][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-04.35.33:564][367]LogInit: FAudioDevice initialized.
+[2023.03.01-04.35.33:564][367]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.03.01-04.35.33:571][367]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.35.33:573][367]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.35.33
+[2023.03.01-04.35.33:573][367]LogWorld: Bringing up level for play took: 0.001295
+[2023.03.01-04.35.33:573][367]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.01-04.35.33:574][367]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.35.33:574][367]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.35.33:574][367]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.35.33:576][367]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.35.33:576][367]PIE: Server logged in
+[2023.03.01-04.35.33:577][367]PIE: Play in editor total start time 0.097 seconds.
+[2023.03.01-04.35.33:979][413]Cmd: LevelEditor.ToggleImmersive
+[2023.03.01-04.35.36:584][716]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.35.41:976][363]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.35.41:976][363]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.35.41:976][363]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.35.41:984][364]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.35.41:984][364]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.35.41:984][364]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.35.41:984][364]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.35.41:984][364]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.35.41:984][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.35.42:051][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.35.42:055][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.03.01-04.35.42:057][364]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.35.42:071][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014297s)
+[2023.03.01-04.35.42:072][364]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.35.42:072][364]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2023.03.01-04.35.42:072][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015417s)
+[2023.03.01-04.35.42:072][364]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.03.01-04.35.42:072][364]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.35.42:073][364]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.35.42
+[2023.03.01-04.35.42:073][364]LogWorld: Bringing up level for play took: 0.000713
+[2023.03.01-04.35.42:074][364]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.35.42:074][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.35.42:074][364]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.35.42:076][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.35.42:076][364]LogLoad: Took 0.092381 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.35.51:925][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.35.51:925][538]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.35.51:925][538]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.35.51:925][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.35.51:946][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-04.35.51:959][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.35.51:986][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.35.51:986][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.35.51:987][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.35.51:989][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.35.51:994][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.01-04.35.52:010][539]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.01-04.35.52:346][578]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.37.10:409][777]BlueprintLog: New page: Compile TheCharecter
+[2023.03.01-04.37.10:535][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.03.01-04.37.31:892][866]BlueprintLog: New page: Compile Trap5
+[2023.03.01-04.37.32:009][866]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.03.01-04.37.32:817][954]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2023.03.01-04.37.33:376][  3]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.01-04.37.33:382][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-04.37.33:382][  3]PIE: New page: PIE session: Level1 (Mar 1, 2023, 10:37:33 AM)
+[2023.03.01-04.37.33:412][  3]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.33:426][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014569s)
+[2023.03.01-04.37.33:427][  3]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.37.33:427][  3]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2023.03.01-04.37.33:427][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015696s)
+[2023.03.01-04.37.33:459][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2023.03.01-04.37.33:460][  3]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.01-04.37.33:460][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-04.37.33:460][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-04.37.33:461][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-04.37.33:461][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-04.37.33:461][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-04.37.33:461][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-04.37.33:461][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-04.37.33:461][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-04.37.33:461][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-04.37.33:461][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-04.37.33:461][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-04.37.33:461][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-04.37.33:463][  3]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-04.37.33:463][  3]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-04.37.33:469][  3]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.03.01-04.37.33:469][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-04.37.33:469][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-04.37.33:469][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-04.37.33:470][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-04.37.33:470][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-04.37.33:470][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-04.37.33:471][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-04.37.33:471][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-04.37.33:471][  3]LogInit: FAudioDevice initialized.
+[2023.03.01-04.37.33:471][  3]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.03.01-04.37.33:481][  3]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.37.33:482][  3]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.37.33
+[2023.03.01-04.37.33:483][  3]LogWorld: Bringing up level for play took: 0.001285
+[2023.03.01-04.37.33:483][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.01-04.37.33:484][  3]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.33:484][  3]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.33:484][  3]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.33:486][  3]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.33:486][  3]PIE: Server logged in
+[2023.03.01-04.37.33:486][  3]PIE: Play in editor total start time 0.105 seconds.
+[2023.03.01-04.37.33:921][ 53]Cmd: LevelEditor.ToggleImmersive
+[2023.03.01-04.37.35:110][186]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.37.40:502][830]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.37.40:502][830]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.37.40:502][830]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.37.40:510][831]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.37.40:510][831]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.37.40:510][831]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.37.40:510][831]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.40:510][831]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.37.40:511][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.37.40:578][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.37.40:582][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.03.01-04.37.40:584][831]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.40:599][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014403s)
+[2023.03.01-04.37.40:599][831]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.37.40:600][831]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2023.03.01-04.37.40:600][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015712s)
+[2023.03.01-04.37.40:600][831]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.03.01-04.37.40:600][831]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.37.40:601][831]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.37.40
+[2023.03.01-04.37.40:601][831]LogWorld: Bringing up level for play took: 0.000711
+[2023.03.01-04.37.40:602][831]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.40:602][831]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.40:602][831]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.40:603][831]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.40:604][831]LogLoad: Took 0.092563 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.37.41:826][975]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.37.47:218][622]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.37.47:218][622]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.37.47:218][622]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.37.47:226][623]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.37.47:226][623]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.37.47:226][623]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.37.47:226][623]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.47:226][623]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.37.47:227][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.37.47:297][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.37.47:303][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.03.01-04.37.47:304][623]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.47:319][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014390s)
+[2023.03.01-04.37.47:320][623]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.37.47:320][623]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2023.03.01-04.37.47:320][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015661s)
+[2023.03.01-04.37.47:320][623]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.03.01-04.37.47:320][623]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.37.47:321][623]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.37.47
+[2023.03.01-04.37.47:321][623]LogWorld: Bringing up level for play took: 0.000722
+[2023.03.01-04.37.47:322][623]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.47:322][623]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.47:322][623]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.47:323][623]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.47:323][623]LogLoad: Took 0.096561 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.37.49:720][908]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.37.55:111][555]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.37.55:111][555]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.37.55:112][555]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.37.55:119][556]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.37.55:120][556]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.37.55:120][556]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.37.55:120][556]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.55:120][556]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.37.55:120][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.37.55:187][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.37.55:191][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.03.01-04.37.55:194][556]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.37.55:208][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014318s)
+[2023.03.01-04.37.55:209][556]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.37.55:209][556]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2023.03.01-04.37.55:209][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015441s)
+[2023.03.01-04.37.55:209][556]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2023.03.01-04.37.55:209][556]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.37.55:210][556]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.37.55
+[2023.03.01-04.37.55:210][556]LogWorld: Bringing up level for play took: 0.000710
+[2023.03.01-04.37.55:211][556]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.55:211][556]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.37.55:211][556]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.55:213][556]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.37.55:213][556]LogLoad: Took 0.092873 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.38.05:210][753]LogBlueprintUserMessages: [TheCharecter_C_0] -400.0
+[2023.03.01-04.38.05:832][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.38.05:832][822]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.38.05:832][822]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.38.05:833][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.38.05:856][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-04.38.05:868][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.38.05:895][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.38.05:895][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.38.05:896][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.38.05:898][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.38.05:903][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.03.01-04.38.05:921][823]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.01-04.38.06:354][874]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.38.59:983][364]BlueprintLog: New page: Compile Trap5
+[2023.03.01-04.39.00:053][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.03.01-04.39.13:947][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/MasterMaterials/SimpleMaster': Can't find file.
+[2023.03.01-04.39.13:947][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/MasterMaterials/SimpleMaster': Can't find file.
+[2023.03.01-04.39.13:947][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_D': Can't find file.
+[2023.03.01-04.39.13:947][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_D': Can't find file.
+[2023.03.01-04.39.13:948][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_N': Can't find file.
+[2023.03.01-04.39.13:948][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_N': Can't find file.
+[2023.03.01-04.39.13:948][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/MasterMaterials/SimpleMaster': Can't find file.
+[2023.03.01-04.39.13:948][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_D': Can't find file.
+[2023.03.01-04.39.13:948][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_N': Can't find file.
+[2023.03.01-04.39.13:978][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/MasterMaterials/SimpleMaster': Can't find file.
+[2023.03.01-04.39.13:983][412]LoadErrors: Failed to load /Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/MasterMaterials/SimpleMaster.SimpleMaster Referenced by SimpleMaster_Inst
+[2023.03.01-04.39.13:983][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_D': Can't find file.
+[2023.03.01-04.39.13:983][412]LoadErrors: Failed to load /Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_D.T_Cooled_Lava_D Referenced by SimpleMaster_Inst
+[2023.03.01-04.39.13:983][412]LogLinker: Warning: [AssetLog] D:\GitHubProjects\Project__Alpha\Content\NoUsesMore\InfinityBladeFireLands\Environments\Fire\Env_Fire_OddsnEnds\Materials\SimpleMaster_Inst.uasset: Failed to load '/Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_N': Can't find file.
+[2023.03.01-04.39.13:983][412]LoadErrors: Failed to load /Game/NoUsesMore/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Cooled_Lava_N.T_Cooled_Lava_N Referenced by SimpleMaster_Inst
+[2023.03.01-04.39.59:711][973]BlueprintLog: New page: Compile Trap5
+[2023.03.01-04.39.59:871][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.03.01-04.40.00:648][ 49]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.03.01-04.40.01:167][109]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.01-04.40.01:173][109]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.01-04.40.01:188][109]LogPlayLevel: [PlayLevel] Compiling TheCharecter before play...
+[2023.03.01-04.40.01:370][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.03.01-04.40.01:371][109]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2023.03.01-04.40.01:371][109]PIE: New page: PIE session: Level1 (Mar 1, 2023, 10:40:01 AM)
+[2023.03.01-04.40.01:398][109]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.01:413][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014685s)
+[2023.03.01-04.40.01:413][109]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.01:414][109]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2023.03.01-04.40.01:414][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015790s)
+[2023.03.01-04.40.01:444][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.03.01-04.40.01:444][109]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-04.40.01:444][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-04.40.01:444][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-04.40.01:444][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-04.40.01:444][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-04.40.01:444][109]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-04.40.01:446][109]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-04.40.01:446][109]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-04.40.01:452][109]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.03.01-04.40.01:453][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-04.40.01:453][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-04.40.01:453][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-04.40.01:453][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-04.40.01:453][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-04.40.01:453][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-04.40.01:454][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-04.40.01:454][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-04.40.01:454][109]LogInit: FAudioDevice initialized.
+[2023.03.01-04.40.01:454][109]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.01:466][109]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.01:467][109]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.01
+[2023.03.01-04.40.01:467][109]LogWorld: Bringing up level for play took: 0.001272
+[2023.03.01-04.40.01:468][109]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.01-04.40.01:469][109]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.01:469][109]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.01:469][109]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.01:470][109]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.01:471][109]PIE: Server logged in
+[2023.03.01-04.40.01:471][109]PIE: Play in editor total start time 0.299 seconds.
+[2023.03.01-04.40.01:826][147]Cmd: LevelEditor.ToggleImmersive
+[2023.03.01-04.40.04:412][448]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.09:805][ 95]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.09:805][ 95]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.09:805][ 95]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.09:813][ 96]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.09:813][ 96]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.09:813][ 96]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.09:813][ 96]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.09:813][ 96]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.09:813][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.09:866][ 96]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.09:871][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.03.01-04.40.09:874][ 96]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.09:890][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015656s)
+[2023.03.01-04.40.09:891][ 96]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.09:891][ 96]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2023.03.01-04.40.09:891][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.016922s)
+[2023.03.01-04.40.09:891][ 96]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.09:891][ 96]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.09:892][ 96]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.09
+[2023.03.01-04.40.09:892][ 96]LogWorld: Bringing up level for play took: 0.000717
+[2023.03.01-04.40.09:893][ 96]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.09:893][ 96]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.09:893][ 96]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.09:894][ 96]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.09:894][ 96]LogLoad: Took 0.081701 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.10:951][220]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.16:342][867]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.16:342][867]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.16:342][867]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.16:350][868]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.16:350][868]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.16:350][868]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.16:350][868]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.16:350][868]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.16:351][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.16:414][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.16:418][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.03.01-04.40.16:420][868]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.16:435][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014422s)
+[2023.03.01-04.40.16:436][868]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.16:436][868]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2023.03.01-04.40.16:436][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015573s)
+[2023.03.01-04.40.16:436][868]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.16:436][868]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.16:437][868]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.16
+[2023.03.01-04.40.16:437][868]LogWorld: Bringing up level for play took: 0.000734
+[2023.03.01-04.40.16:438][868]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.16:438][868]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.16:438][868]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.16:439][868]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.16:440][868]LogLoad: Took 0.089739 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.19:037][177]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.24:429][824]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.24:429][824]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.24:429][824]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.24:437][825]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.24:437][825]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.24:437][825]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.24:437][825]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.24:437][825]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.24:438][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.24:494][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.24:498][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.03.01-04.40.24:501][825]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.24:515][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014400s)
+[2023.03.01-04.40.24:516][825]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.24:516][825]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2023.03.01-04.40.24:516][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015545s)
+[2023.03.01-04.40.24:516][825]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.24:516][825]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.24:517][825]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.24
+[2023.03.01-04.40.24:518][825]LogWorld: Bringing up level for play took: 0.000726
+[2023.03.01-04.40.24:518][825]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.24:518][825]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.24:518][825]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.24:520][825]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.24:520][825]LogLoad: Took 0.083156 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.26:800][ 96]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.32:194][740]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.32:194][740]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.32:194][740]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.32:202][741]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.32:202][741]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.32:202][741]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.32:202][741]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.32:202][741]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.32:203][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.32:264][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.32:269][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.03.01-04.40.32:269][741]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.32:284][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014442s)
+[2023.03.01-04.40.32:284][741]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.32:285][741]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2023.03.01-04.40.32:285][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015566s)
+[2023.03.01-04.40.32:285][741]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.32:285][741]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.32:286][741]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.32
+[2023.03.01-04.40.32:286][741]LogWorld: Bringing up level for play took: 0.000718
+[2023.03.01-04.40.32:287][741]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.32:287][741]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.32:287][741]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.32:288][741]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.32:288][741]LogLoad: Took 0.086167 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.36:535][248]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.41:927][895]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.41:927][895]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.41:927][895]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.41:935][896]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.41:935][896]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.41:935][896]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.41:935][896]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.41:935][896]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.41:936][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.41:994][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.41:998][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.03.01-04.40.42:001][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.42:016][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014428s)
+[2023.03.01-04.40.42:016][896]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.42:017][896]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2023.03.01-04.40.42:017][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015564s)
+[2023.03.01-04.40.42:017][896]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.42:017][896]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.42:018][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.42
+[2023.03.01-04.40.42:018][896]LogWorld: Bringing up level for play took: 0.000729
+[2023.03.01-04.40.42:019][896]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.42:019][896]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.42:019][896]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.42:020][896]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.42:020][896]LogLoad: Took 0.085088 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.42:667][971]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.48:059][618]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.48:059][618]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.48:059][618]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.48:067][619]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.48:067][619]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.48:067][619]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.48:067][619]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.48:067][619]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.48:068][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.48:134][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.48:138][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.03.01-04.40.48:140][619]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.48:154][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014410s)
+[2023.03.01-04.40.48:155][619]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.48:155][619]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2023.03.01-04.40.48:155][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015527s)
+[2023.03.01-04.40.48:155][619]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.48:155][619]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.48:156][619]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.48
+[2023.03.01-04.40.48:156][619]LogWorld: Bringing up level for play took: 0.000717
+[2023.03.01-04.40.48:157][619]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.48:157][619]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.48:157][619]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.48:159][619]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.48:159][619]LogLoad: Took 0.091771 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.48:806][694]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.40.54:198][341]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.54:198][341]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.40.54:198][341]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.40.54:206][342]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.54:206][342]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.40.54:206][342]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.40.54:206][342]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.54:207][342]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.40.54:207][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.40.54:274][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.40.54:278][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.03.01-04.40.54:280][342]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.40.54:294][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014432s)
+[2023.03.01-04.40.54:295][342]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.40.54:296][342]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2023.03.01-04.40.54:296][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015598s)
+[2023.03.01-04.40.54:296][342]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.40.54:296][342]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.40.54:297][342]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.40.54
+[2023.03.01-04.40.54:297][342]LogWorld: Bringing up level for play took: 0.000726
+[2023.03.01-04.40.54:298][342]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.54:298][342]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.40.54:298][342]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.54:299][342]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.40.54:299][342]LogLoad: Took 0.092812 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.40.54:663][383]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.41.00:054][ 30]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.00:054][ 30]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.00:054][ 30]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.41.00:062][ 31]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.00:062][ 31]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.00:062][ 31]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.41.00:062][ 31]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.00:062][ 31]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.41.00:063][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.41.00:124][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.41.00:128][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.01-04.41.00:130][ 31]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.00:144][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014473s)
+[2023.03.01-04.41.00:145][ 31]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.41.00:145][ 31]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2023.03.01-04.41.00:145][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015611s)
+[2023.03.01-04.41.00:145][ 31]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.41.00:145][ 31]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.41.00:146][ 31]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.41.00
+[2023.03.01-04.41.00:147][ 31]LogWorld: Bringing up level for play took: 0.000721
+[2023.03.01-04.41.00:147][ 31]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.00:147][ 31]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.00:147][ 31]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.00:149][ 31]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.00:149][ 31]LogLoad: Took 0.086076 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.41.02:071][259]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.41.07:464][906]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.07:464][906]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.07:464][906]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.41.07:471][907]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.07:472][907]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.07:472][907]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.41.07:472][907]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.07:472][907]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.41.07:472][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.41.07:524][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.41.07:528][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.03.01-04.41.07:531][907]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.07:545][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014582s)
+[2023.03.01-04.41.07:546][907]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.41.07:546][907]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2023.03.01-04.41.07:546][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015707s)
+[2023.03.01-04.41.07:546][907]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.41.07:546][907]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.41.07:547][907]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.41.07
+[2023.03.01-04.41.07:547][907]LogWorld: Bringing up level for play took: 0.000710
+[2023.03.01-04.41.07:548][907]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.07:548][907]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.07:548][907]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.07:550][907]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.07:550][907]LogLoad: Took 0.078155 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.41.09:796][174]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.41.15:188][821]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.15:188][821]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.15:188][821]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.41.15:196][822]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.15:196][822]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.15:196][822]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.41.15:197][822]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.15:197][822]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.41.15:197][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.41.15:273][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.41.15:277][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.01-04.41.15:280][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.15:294][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014438s)
+[2023.03.01-04.41.15:295][822]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.41.15:296][822]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2023.03.01-04.41.15:296][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015577s)
+[2023.03.01-04.41.15:296][822]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.41.15:296][822]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.41.15:297][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.41.15
+[2023.03.01-04.41.15:297][822]LogWorld: Bringing up level for play took: 0.000726
+[2023.03.01-04.41.15:297][822]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.15:298][822]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.15:298][822]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.15:299][822]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.15:299][822]LogLoad: Took 0.102602 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.41.18:030][147]LogBlueprintUserMessages: [TheCharecter_C_0] -400.0
+[2023.03.01-04.41.23:421][794]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.23:422][794]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.03.01-04.41.23:422][794]LogGameMode: ProcessServerTravel: ?Restart
+[2023.03.01-04.41.23:430][795]LogEngine: Server switch level: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.23:430][795]LogNet: Browse: /Game/Levels/Level1?Restart
+[2023.03.01-04.41.23:430][795]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.01-04.41.23:430][795]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.23:430][795]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.41.23:431][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.41.23:483][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-04.41.23:488][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.03.01-04.41.23:490][795]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.23:505][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014422s)
+[2023.03.01-04.41.23:506][795]LogAIModule: Creating AISystem for world Level1
+[2023.03.01-04.41.23:506][795]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2023.03.01-04.41.23:506][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015574s)
+[2023.03.01-04.41.23:506][795]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.03.01-04.41.23:506][795]LogLoad: Game class is 'CharercterGameMode_C'
+[2023.03.01-04.41.23:507][795]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.01-07.41.23
+[2023.03.01-04.41.23:507][795]LogWorld: Bringing up level for play took: 0.000721
+[2023.03.01-04.41.23:508][795]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.23:508][795]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.01-04.41.23:508][795]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.23:509][795]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.01-04.41.23:509][795]LogLoad: Took 0.079694 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.01-04.41.25:007][972]LogBlueprintUserMessages: [TheCharecter_C_0] 0.0
+[2023.03.01-04.41.28:367][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.41.28:367][369]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.01-04.41.28:367][369]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-04.41.28:368][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.41.28:382][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-04.41.28:397][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-04.41.28:424][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-04.41.28:424][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.41.28:425][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-04.41.28:432][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.03.01-04.41.28:450][370]LogPlayLevel: Display: Destroying online subsystem :Context_14
